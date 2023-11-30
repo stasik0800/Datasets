@@ -1,0 +1,1001 @@
+book_id,title,author_id,language_code,num_pages,publication_date,publisher_id
+10001,"Harry Potter and the Half-Blood Prince (Harry Potter  #6)",71626,80723,652,"2006-09-16 00:00:00",15739
+10002,"Harry Potter and the Order of the Phoenix (Harry Potter  #5)",71626,80723,870,"2004-09-01 00:00:00",15739
+10003,"Harry Potter and the Chamber of Secrets (Harry Potter  #2)",47320,80723,352,"2003-11-01 00:00:00",66612
+10004,"Harry Potter and the Prisoner of Azkaban (Harry Potter  #3)",71626,80723,435,"2004-05-01 00:00:00",15739
+10005,"Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5)",71626,80723,2690,"2004-09-13 00:00:00",66612
+10006,"Unauthorized Harry Potter Book Seven News: "Half-Blood Prince" Analysis and Speculation",50153,38399,152,"2005-04-26 00:00:00",11869
+10007,"Harry Potter Collection (Harry Potter  #1-6)",47320,80723,3342,"2005-09-12 00:00:00",66612
+10008,"The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy  #1-5)",44271,80723,815,"2005-11-01 00:00:00",31496
+10009,"The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1-5)",44271,80723,815,"2002-04-30 00:00:00",51603
+10010,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1)",44271,80723,215,"2004-08-03 00:00:00",34647
+10011,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1)",63729,80723,6,"2005-03-23 00:00:00",35608
+10012,"The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy  #1-5)",44271,80723,815,"1996-01-17 00:00:00",63011
+10013,"A Short History of Nearly Everything",63134,80723,544,"2004-09-14 00:00:00",96592
+10014,"Bill Bryson's African Diary",63134,80723,55,"2002-12-03 00:00:00",96592
+10015,"Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right",63134,80723,256,"2004-09-14 00:00:00",96592
+10016,"In a Sunburned Country",63134,80723,335,"2001-05-15 00:00:00",96592
+10017,"I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away",63134,80723,304,"2000-06-28 00:00:00",96592
+10018,"The Lost Continent: Travels in Small Town America",63134,80723,299,"1990-08-28 00:00:00",19967
+10019,"Neither Here nor There: Travels in Europe",63134,80723,254,"1993-03-28 00:00:00",19967
+10020,"Notes from a Small Island",63134,80723,324,"1997-05-28 00:00:00",19967
+10021,"The Mother Tongue: English and How It Got That Way",63134,80723,270,"1991-09-28 00:00:00",19967
+10022,"J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",NULL,80723,1728,"2012-09-25 00:00:00",81639
+10023,"The Lord of the Rings (The Lord of the Rings  #1-3)",NULL,80723,1184,"2004-10-21 00:00:00",81184
+10024,"The Fellowship of the Ring (The Lord of the Rings  #1)",NULL,80723,398,"2003-09-05 00:00:00",81184
+10025,"The Lord of the Rings (The Lord of the Rings  #1-3)",82045,38399,1216,"2002-10-01 00:00:00",81184
+10026,"The Lord of the Rings: Weapons and Warfare",57132,80723,218,"2003-11-05 00:00:00",81184
+10027,"The Lord of the Rings: Complete Visual Companion",68588,80723,224,"2004-11-15 00:00:00",81184
+10028,"Agile Web Development with Rails: A Pragmatic Guide",82008,80723,558,"2005-07-28 00:00:00",68017
+10029,"Hatchet (Brian's Saga  #1)",36252,80723,208,"2000-04-01 00:00:00",47635
+10030,"Hatchet: A Guide for Using "Hatchet" in the Classroom",14683,80723,48,"1994-08-28 00:00:00",27747
+10031,"Guts: The True Stories behind Hatchet and the Brian Books",36252,80723,144,"2001-01-23 00:00:00",12775
+10032,"Molly Hatchet - 5 of the Best",42221,80723,56,"2003-06-10 00:00:00",46423
+10033,"Hatchet Jobs: Writings on Contemporary Fiction",44787,38399,228,"2005-11-01 00:00:00",69262
+10034,"A Changeling for All Seasons (Changeling Seasons #1)",20348,80723,304,"2005-11-01 00:00:00",51436
+10035,"Changeling (Changeling  #1)",48457,80723,256,"2006-08-17 00:00:00",64856
+10036,"The Changeling Sea",34734,80723,137,"2003-04-14 00:00:00",85859
+10037,"The Changeling",39790,80723,228,"2004-06-08 00:00:00",86167
+10038,"The Changeling",63014,80723,339,"2005-04-12 00:00:00",52155
+10039,"The Changeling (Daughters of England  #15)",16235,80723,369,"1990-08-28 00:00:00",37663
+10040,"The Known World",71737,80723,388,"2006-08-29 00:00:00",59538
+10041,"The Known World",11244,38399,14,"2004-06-15 00:00:00",64222
+10042,"The Known World",71737,80723,576,"2004-06-15 00:00:00",23030
+10043,"Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives",30659,80723,334,"2006-05-15 00:00:00",10604
+10044,"Artesia: Adventures in the Known World",87921,80723,352,"2005-12-14 00:00:00",78332
+10045,"The John McPhee Reader (John McPhee Reader  #1)",37175,80723,416,"1982-06-01 00:00:00",67362
+10046,"Uncommon Carriers",33170,38399,248,"2006-05-16 00:00:00",67439
+10047,"Heirs of General Practice",33170,80723,128,"1986-04-01 00:00:00",67362
+10048,"The Control of Nature",33170,38399,288,"1990-09-01 00:00:00",67362
+10049,"Annals of the Former World",33170,80723,720,"1999-01-06 00:00:00",67362
+10050,"Coming Into the Country",33170,80723,448,"1991-04-01 00:00:00",67362
+10051,"La Place de la Concorde Suisse",33170,30647,160,"1994-04-01 00:00:00",67362
+10052,"Giving Good Weight",33170,80723,288,"1994-04-01 00:00:00",67362
+10053,"Rising from the Plains",33170,80723,208,"1987-11-01 00:00:00",67362
+10054,"The Heidi Chronicles",12951,80723,81,"2002-03-01 00:00:00",52803
+10055,"The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic",12951,80723,249,"1991-07-02 00:00:00",86600
+10056,"Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening",33920,80723,138,"2006-03-29 00:00:00",68537
+10057,"Simply Beautiful Beaded Jewelry",41911,38399,128,"2006-03-14 00:00:00",20055
+10058,"Always Enough: God's Miraculous Provision Among the Poorest Children on Earth",62826,80723,192,"2003-09-01 00:00:00",69913
+10059,"Mapping the Big Picture: Integrating Curriculum & Assessment K-12",33920,38399,108,"1997-01-28 00:00:00",53081
+10060,"Heidi (Heidi  #1-2)",NULL,80723,352,"2002-11-15 00:00:00",13508
+10061,"Getting Results with Curriculum Mapping",33920,80723,192,"2004-11-15 00:00:00",62887
+10062,"There's Always Enough: The Miraculous Move of God in Mozambique",21699,80723,192,"2003-04-28 00:00:00",20602
+10063,"What to Expect the First Year (What to Expect)",30689,80723,832,"2003-10-16 00:00:00",68974
+10064,"The Player's Handbook: The Ultimate Guide on Dating and Relationships",74881,80723,123,"2004-05-10 00:00:00",12131
+10065,"Simply Beautiful Beading: 53 Quick and Easy Projects",41911,38399,128,"2004-08-19 00:00:00",20055
+10066,"God Emperor of Dune (Dune Chronicles  #4)",54240,80723,423,"1987-06-15 00:00:00",14513
+10067,"Chapterhouse: Dune (Dune Chronicles #6)",54240,80723,436,"1987-07-01 00:00:00",14513
+10068,"Dune Messiah (Dune Chronicles #2)",54240,80723,331,"1987-07-15 00:00:00",14513
+10069,"Dreamer of Dune: The Biography of Frank Herbert",64374,38399,592,"2004-07-01 00:00:00",51760
+10070,"Heretics of Dune (Dune Chronicles  #5)",54240,80723,480,"1984-04-16 00:00:00",29328
+10071,"The Road to Dune",84346,80723,426,"2006-08-29 00:00:00",75939
+10072,"Heretics of Dune (Dune Chronicles #5)",54240,80723,471,"1987-08-15 00:00:00",14513
+10073,"The Lord of the Rings: The Art of the Fellowship of the Ring",70957,80723,192,"2002-06-12 00:00:00",81184
+10074,"The Power of One (The Power of One  #1)",14449,80723,544,"1996-09-29 00:00:00",81639
+10075,"The Power of One (The Power of One  #1)",14449,80723,291,"2005-09-13 00:00:00",67231
+10076,"The Power of One: One Person  One Rule  One Month",57185,38399,256,"2004-11-01 00:00:00",66523
+10077,"Power of an Hour: Business and Life Mastery in One Hour a Week",66863,80723,205,"2006-05-19 00:00:00",45871
+10078,"The Power of One: The Solo Play for Playwrights  Actors  and Directors",NULL,80723,240,"2000-02-07 00:00:00",22481
+10079,"How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days",30046,80723,336,"2005-05-03 00:00:00",19967
+10080,"eBay for Dummies",17253,80723,386,"2006-10-30 00:00:00",45871
+10081,"What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond",91194,80723,260,"2006-01-24 00:00:00",16904
+10082,"Starting an eBay Business for Dummies",17253,80723,384,"2004-09-17 00:00:00",45871
+10083,"eBay: Top 100 Simplified Tips & Tricks",11471,80723,260,"2006-06-06 00:00:00",45871
+10084,"ebay Timesaving Techniques for Dummies",17253,38399,391,"2004-05-31 00:00:00",45871
+10085,"eBay Business All-in-One Desk Reference for Dummies",17253,38399,864,"2005-04-25 00:00:00",45871
+10086,"Ruby Cookbook",10235,80723,873,"2006-07-29 00:00:00",88216
+10087,"Ruby Ann's Down Home Trailer Park Cookbook",NULL,80723,240,"2005-05-03 00:00:00",70479
+10088,"Ruby Ann's Down Home Trailer Park BBQin' Cookbook",NULL,80723,206,"2005-05-03 00:00:00",70479
+10089,"Rails Cookbook: Recipes for Rapid Web Development with Ruby",51580,80723,514,"2007-01-01 00:00:00",88216
+10090,"Anna Karenina",72171,80723,838,"2004-05-31 00:00:00",78389
+10091,"Anna Karenina",58043,80723,960,"2002-11-05 00:00:00",39218
+10092,"Anna Karenina",54293,80723,837,"2003-01-30 00:00:00",42484
+10093,"CliffsNotes on Tolstoy's Anna Karenina",89429,80723,80,"1965-11-26 00:00:00",47992
+10094,"Anna Karenina",17848,80723,803,"2003-07-01 00:00:00",20374
+10095,"Anna Karenina",88521,80723,752,"2004-11-23 00:00:00",39193
+10096,"Anna Karenina",51426,80723,803,"2004-08-26 00:00:00",33873
+10097,"Dinner with Anna Karenina",36135,80723,360,"2006-01-28 00:00:00",85135
+10098,"Tolstoy: Anna Karenina",73324,80723,128,"1987-11-26 00:00:00",74289
+10099,Untouchable,45294,80723,160,"1990-07-03 00:00:00",42484
+10100,"The Untouchable",80895,80723,367,"1998-06-30 00:00:00",86600
+10101,"The Untouchables",74216,80723,256,"1996-02-01 00:00:00",13683
+10102,"Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India",41833,38399,320,"2005-09-27 00:00:00",41728
+10103,"Dalit: The Black Untaouchables of India",67009,80723,100,"1995-01-28 00:00:00",38852
+10104,"Growing Up Untouchable in India: A Dalit Autobiography",NULL,80723,224,"2000-12-20 00:00:00",68040
+10105,"The Evidence-Based Social Work Skills Book",77653,80723,216,"2003-09-22 00:00:00",44596
+10106,"A Wrinkle in Time: A Guide for Using "A Wrinkle in Time" in the Classroom",17876,80723,48,"1991-09-28 00:00:00",27747
+10107,"Wrinkles in Time",37795,80723,360,"1994-10-01 00:00:00",NULL
+10108,"A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1)",36708,80723,250,"2002-05-01 00:00:00",56710
+10109,"Literature Circle Guide: A Wrinkle in Time",83672,80723,32,"2002-01-01 00:00:00",24790
+10110,"Una arruga en el tiempo – A Wrinkle in Time",36708,66092,205,"1984-06-01 00:00:00",18824
+10111,"The Long Shadow (The Morland Dynasty  #6)",26044,80723,367,"1994-06-01 00:00:00",49726
+10112,"A Long Shadow (Inspector Ian Rutledge  #8)",90950,80723,352,"2006-01-03 00:00:00",97094
+10113,"Long Way Round: Chasing Shadows Across the World",33413,38399,320,"2005-11-01 00:00:00",19795
+10114,"A Shadow in Summer (Long Price Quartet  #1)",59103,80723,331,"2006-03-07 00:00:00",51760
+10115,"New Hope for the Dead (Hoke Mosely #2)",NULL,80723,244,"2004-08-10 00:00:00",57316
+10116,"Sideswipe: A Hoke Moseley Novel",68455,80723,215,"2005-03-08 00:00:00",57316
+10117,"Miami Blues (Hoke Moseley #1)",53025,80723,191,"2004-08-10 00:00:00",57316
+10118,"The Burnt Orange Heresy (Vintage Crime/Black Lizard)",55595,80723,144,"1990-10-03 00:00:00",86600
+10119,"I am Charlotte Simmons",82302,80723,738,"2005-08-30 00:00:00",67543
+10120,"Poetry for Young People: Edward Lear",NULL,80723,48,"2001-10-01 00:00:00",26301
+10121,"The Puffin Book of Nonsense Verse",20116,80723,287,"1996-10-03 00:00:00",30849
+10122,"Henry Miller on Writing",10094,80723,217,"1964-02-01 00:00:00",78870
+10123,"Quiet Days in Clichy",22126,80723,154,"1994-01-13 00:00:00",62194
+10124,"Tropic of Cancer",84325,80723,318,"1994-01-06 00:00:00",62194
+10125,"Tropic of Capricorn",22126,80723,348,"1994-01-13 00:00:00",62194
+10126,"Nexus (The Rosy Crucifixion  #3)",22126,80723,316,"1994-01-13 00:00:00",62194
+10127,"Sexus (The Rosy Crucifixion  #1)",22126,80723,506,"1994-01-12 00:00:00",62194
+10128,"The Air-Conditioned Nightmare",22126,80723,292,"1970-01-17 00:00:00",26170
+10129,"The Portrait of a Lady",54045,80723,797,"2003-09-30 00:00:00",78389
+10130,"The Portrait of a Lady",89499,80723,635,"2004-01-16 00:00:00",86786
+10131,Writing,89653,80723,91,"1999-05-06 00:00:00",21372
+10132,"The War",86623,80723,192,"1994-08-01 00:00:00",69262
+10133,"The Ravishing of Lol Stein",41718,38399,181,"1986-03-12 00:00:00",30606
+10134,"Love Letters",NULL,80723,178,"1999-07-01 00:00:00",50039
+10135,"Kahlil Gibran: His Life and World",82291,80723,464,"1998-04-01 00:00:00",56772
+10136,"The Beloved: Reflections on the Path of the Heart",75126,80723,102,"1998-01-01 00:00:00",42484
+10137,"Jesus the Son of Man",87968,80723,216,"1995-02-21 00:00:00",71510
+10138,"The Broken Wings",60126,80723,132,"2003-03-03 00:00:00",70479
+10139,"Sand and Foam",87968,80723,100,"2011-06-14 00:00:00",71510
+10140,"Treasure Island",60145,80723,311,"2001-09-15 00:00:00",13508
+10141,"Treasure Island",10054,38399,213,"2004-10-01 00:00:00",31599
+10142,"Treasure Island",60145,80723,245,"2005-06-01 00:00:00",90425
+10143,"Treasure Island",14383,80723,64,"2003-07-01 00:00:00",13907
+10144,"Treasure Island",28895,38399,272,"2002-09-03 00:00:00",31496
+10145,"Treasure Island (Great Illustrated Classics)",53614,80723,232,"2006-01-31 00:00:00",38878
+10146,"100 Years of Lynchings",55303,80723,270,"1996-11-22 00:00:00",33947
+10147,"Cien años de soledad",39496,66092,448,"1990-01-01 00:00:00",49309
+10148,"On Beyond Zebra!",32076,80723,64,"1955-09-12 00:00:00",59807
+10149,"The Wedding Clause",38990,80723,256,"2005-06-07 00:00:00",29304
+10150,"The Zebra Wall",73136,80723,147,"2005-02-15 00:00:00",80873
+10151,"El perfume: Historia de un asesino",52208,66092,239,"2002-06-01 00:00:00",34763
+10152,"The Door Into Summer",31510,80723,304,"1997-06-17 00:00:00",64350
+10153,"Stranger in a Strange Land",31510,80723,528,"1991-10-01 00:00:00",69740
+10154,"To Sail Beyond the Sunset",31510,38399,434,"1988-06-01 00:00:00",14513
+10155,"Job: A Comedy of Justice",31510,38399,439,"1985-10-12 00:00:00",64350
+10156,"Time for the Stars (Heinlein's Juveniles  #10)",31510,80723,256,"2006-08-08 00:00:00",51760
+10157,"The Long Dark Tea-Time of the Soul (Dirk Gently  #2)",44271,38399,307,"1991-02-15 00:00:00",81992
+10158,"The Salmon of Doubt (Dirk Gently  #3)",44271,80723,298,"2005-04-26 00:00:00",64350
+10159,"Wish You Were Here: The Official Biography of Douglas Adams",82030,80723,368,"2005-12-27 00:00:00",64350
+10160,"Douglas Adams's Starship Titanic",23353,80723,256,"1998-10-27 00:00:00",81639
+10161,"Salmon of Doubt: Hitchhiking the Galaxy One Last Time",57646,80723,336,"2003-07-01 00:00:00",18824
+10162,"The Phantom Tollbooth: A Children's Play in Two Acts",25385,80723,72,"2011-01-12 00:00:00",80977
+10163,"On Bullshit",74767,80723,67,"2005-01-30 00:00:00",69573
+10164,"Another Bullshit Night in Suck City",90170,80723,347,"2005-09-12 00:00:00",10455
+10165,"Lincoln at Gettysburg: The Words That Remade America",81565,38399,317,"1993-06-12 00:00:00",90425
+10166,"The Gettysburg Address",57625,80723,32,"1998-02-02 00:00:00",85037
+10167,Underworld,57162,80723,827,"1998-07-09 00:00:00",41728
+10168,Libra,57162,80723,480,"1991-05-01 00:00:00",34737
+10169,Americana,57162,80723,377,"1989-07-06 00:00:00",42484
+10170,"Running Dog",57162,80723,256,"1989-07-17 00:00:00",29902
+10171,Cosmopolis,57162,80723,224,"2004-04-06 00:00:00",41728
+10172,"Great Jones Street",57162,80723,272,"1994-01-01 00:00:00",42484
+10173,"The Names",57162,80723,339,"1989-07-17 00:00:00",86600
+10174,"Against the Day",81732,80723,1085,"2006-11-21 00:00:00",53133
+10175,V.,81732,80723,547,"2005-07-05 00:00:00",16043
+10176,"The Crying of Lot 49",81732,80723,152,"1999-04-01 00:00:00",NULL
+10177,"Gravity's Rainbow",81732,80723,784,"2000-01-01 00:00:00",42484
+10178,"Mason & Dixon",NULL,80723,773,"2004-01-03 00:00:00",67543
+10179,Vineland,81732,38399,385,"1997-09-01 00:00:00",78389
+10180,"Gravity's Rainbow",81732,80723,776,"2006-10-31 00:00:00",42484
+10181,"Slow Learner: Early Stories",81732,80723,193,"1985-04-30 00:00:00",71093
+10182,"Been Down So Long It Looks Like Up To Me",67370,80723,352,"1996-08-29 00:00:00",78389
+10183,"The Year of Magical Thinking",74721,38399,227,"2005-10-04 00:00:00",52148
+10184,"The White Album",74721,80723,222,"1990-10-01 00:00:00",67439
+10185,"A Book of Common Prayer",74721,80723,272,"1995-04-11 00:00:00",41762
+10186,"Where I Was From",74721,80723,240,"2004-09-14 00:00:00",86600
+10187,"Slouching Towards Bethlehem",74721,80723,238,"1990-10-01 00:00:00",67439
+10188,Democracy,74721,38399,234,"1995-04-25 00:00:00",41762
+10189,"We Tell Ourselves Stories in Order to Live: Collected Nonfiction",46902,80723,1122,"2006-10-17 00:00:00",62270
+10190,"Play It As It Lays",85068,80723,231,"2005-11-15 00:00:00",67362
+10191,"The New York Trilogy",31237,80723,308,"2006-03-28 00:00:00",78389
+10192,"City of Glass (The New York Trilogy  #1)",65390,80723,203,"1987-04-07 00:00:00",42484
+10193,"Ghosts (The New York Trilogy  #2)",65390,80723,96,"1987-07-07 00:00:00",42484
+10194,"The Locked Room (The New York Trilogy  #3)",65390,80723,179,"1986-11-01 00:00:00",31846
+10195,"Pyramids of Montauk: Explorations in Consciousness",61917,80723,256,"1995-01-01 00:00:00",56316
+10196,"The Brooklyn Follies",65390,80723,306,"2006-10-17 00:00:00",31969
+10197,"Moon Palace",65390,80723,320,"1990-04-01 00:00:00",42484
+10198,"The Music of Chance",65390,38399,217,"1991-12-01 00:00:00",42484
+10199,"Travels in the Scriptorium",65390,80723,145,"2007-01-23 00:00:00",33348
+10200,Leviathan,65390,80723,275,"1993-09-01 00:00:00",42484
+10201,"The Red Notebook: True Stories",65390,80723,104,"2002-06-17 00:00:00",26170
+10202,"Timbuktu / Leviathan / Moon Palace",65390,30647,1075,"2002-11-07 00:00:00",87152
+10203,"Collapse: How Societies Choose to Fail or Succeed",12501,80723,608,"2005-12-27 00:00:00",30993
+10204,"The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel",31752,38399,211,"2006-02-01 00:00:00",19917
+10205,"Collapse of Complex Societies",19960,80723,262,"1990-03-29 00:00:00",74289
+10206,"Bowling Alone: The Collapse and Revival of American Community",47812,80723,544,"2001-08-07 00:00:00",54948
+10207,"The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom",NULL,80723,272,"2002-01-29 00:00:00",81639
+10208,"Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America",59303,80723,576,"1998-09-17 00:00:00",67248
+10209,"My Inventions",81040,80723,88,"2006-05-17 00:00:00",46180
+10210,"Wizard: The Life and Times of Nikola Tesla: Biography of a Genius",NULL,80723,542,"2001-02-01 00:00:00",70479
+10211,"Nikola Tesla: A Spark of Genius",86701,80723,144,"1994-10-01 00:00:00",19520
+10212,"Tesla Papers",53853,80723,100,"2000-12-01 00:00:00",81055
+10213,"Boys of Summer",53234,80723,249,"2006-06-27 00:00:00",23460
+10214,"Programming Ruby: The Pragmatic Programmers' Guide",39123,38399,828,"2004-10-11 00:00:00",68017
+10215,"Golding's Lord of the Flies (Cliffs Notes)",79675,80723,112,"2000-06-13 00:00:00",47992
+10216,"Lord of the Flies",37887,80723,6,"2005-10-11 00:00:00",18205
+10217,"A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War",34403,80723,397,"2006-09-12 00:00:00",27496
+10218,"We Were Not Like Other People",33969,80723,216,"1989-01-01 00:00:00",33650
+10219,"The Lovely Bones",22883,91260,328,"2003-06-01 00:00:00",31969
+10220,"The Lovely Bones",22883,38399,532,"2004-04-01 00:00:00",15884
+10221,"Lovely in Her Bones (Elizabeth MacPherson  #2)",63561,80723,224,"1990-05-13 00:00:00",81639
+10222,"The Zen of CSS Design: Visual Enlightenment for the Web",63668,38399,296,"2005-02-17 00:00:00",54054
+10223,"HTML  XHTML  and CSS (Visual Quickstart Guide)",12004,38399,456,"2006-08-01 00:00:00",54054
+10224,"1000 Record Covers",70529,66077,575,"2005-05-15 00:00:00",75432
+10225,"Killing Yourself to Live: 85% of a True Story",36055,80723,245,"2006-06-13 00:00:00",41728
+10226,"Sex  Drugs  and Cocoa Puffs: A Low Culture Manifesto",36055,80723,272,"2004-07-02 00:00:00",41728
+10227,"Vice (V  #8)",68817,80723,419,"1996-05-02 00:00:00",57374
+10228,"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus  #1)",55823,80723,540,"2006-04-25 00:00:00",NULL
+10229,"Once Upon a Cool Motorcycle Dude",11197,80723,32,"2005-04-01 00:00:00",89736
+10230,"Guidebook to Zen and the Art of Motorcycle Maintenance",72624,91260,408,"1990-11-19 00:00:00",19967
+10231,"Motorcycle Basics Techbook",24959,80723,222,"2002-07-05 00:00:00",18889
+10232,"LOGO Lounge: 2 000 International Identities by Leading Designers",27034,80723,191,"2004-09-01 00:00:00",51288
+10233,"The Death of Ivan Ilych And Other Stories",53666,80723,304,"2003-04-01 00:00:00",46460
+10234,"War and Peace",83801,80723,1392,"1998-06-25 00:00:00",43286
+10235,"The Kingdom of God Is Within You",19082,80723,352,"2006-09-08 00:00:00",39193
+10236,"Atlas Shrugged",64144,80723,1168,"1999-08-01 00:00:00",35983
+10237,"For the New Intellectual: The Philosophy of Ayn Rand",40180,80723,224,"1963-12-01 00:00:00",71254
+10238,"The Fountainhead",40180,38399,752,"2005-04-26 00:00:00",39093
+10239,"The Virtue of Selfishness: A New Concept of Egoism",66625,80723,176,"1964-11-01 00:00:00",39218
+10240,Anthem,40180,80723,105,"1999-12-01 00:00:00",91660
+10241,"We the Living",64144,80723,464,"1996-01-01 00:00:00",39218
+10242,"Capitalism: The Unknown Ideal",87151,80723,340,"1986-07-15 00:00:00",39218
+10243,"Letters of Ayn Rand",28544,80723,681,"1997-02-01 00:00:00",91660
+10244,"Sailing for Dummies",59811,80723,416,"2006-06-01 00:00:00",61713
+10245,"Sailing from Byzantium: How a Lost Empire Shaped the World",62225,80723,368,"2006-07-25 00:00:00",12775
+10246,"Sailing Alone Around the Room: New and Selected Poems",57417,80723,192,"2002-09-17 00:00:00",69569
+10247,"The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories",65461,80723,286,"2004-04-01 00:00:00",90050
+10248,"Natural Cures "They" Don't Want You to Know about",NULL,38399,571,"2004-01-01 00:00:00",32213
+10249,"The Natural",18268,80723,231,"2003-07-07 00:00:00",67439
+10250,"Digging to America",NULL,80723,277,"2006-05-02 00:00:00",33540
+10251,"Rereading America: Cultural Contexts for Critical Thinking and Writing",48798,80723,826,"2004-01-21 00:00:00",79131
+10252,"Modern Latin America",47420,38399,528,"2004-10-07 00:00:00",44555
+10253,"The Plot Against America",15652,80723,391,"2005-09-27 00:00:00",41762
+10254,"Naked Pictures of Famous People",66933,91260,164,"1999-09-22 00:00:00",47413
+10255,"Collected Stories",50019,80723,352,"2008-05-13 00:00:00",16043
+10256,"Crónica de una muerte anunciada",39496,66092,118,"2003-10-14 00:00:00",10484
+10257,"Cien años de soledad",39496,66092,496,"2006-02-07 00:00:00",43148
+10258,"Del amor y otros demonios",39496,66092,176,"2006-02-07 00:00:00",43148
+10259,"Living to Tell the Tale",NULL,80723,533,"2004-10-12 00:00:00",86600
+10260,"Memoria de mis putas tristes",39496,66092,112,"2004-10-19 00:00:00",10484
+10261,"The Elegant Universe: Superstrings  Hidden Dimensions  and the Quest for the Ultimate Theory",27373,80723,425,"2004-09-02 00:00:00",91740
+10262,"Pure and Simple: The Extraordinary Teachings of a Thai Buddhist Laywoman",53499,80723,288,"2005-05-15 00:00:00",52314
+10263,"The Mini Rough Guide to London",40737,80723,363,"2006-04-01 00:00:00",60037
+10264,"Best of London (Lonely Planet Best Of)",38214,80723,128,"2004-09-01 00:00:00",42438
+10265,"Lonely Planet Londres",80988,66092,480,"2006-05-01 00:00:00",96933
+10266,"Out to Eat London 2002 (Lonely Planet Out to Eat)",15137,80723,295,"2001-09-01 00:00:00",42438
+10267,"Three Nights in August: Strategy  Heartbreak  and Joy Inside the Mind of a Manager",39833,80723,287,"2006-04-04 00:00:00",41516
+10268,Cryptonomicon,45089,80723,1139,"2002-11-01 00:00:00",34291
+10269,"Le Réseau Kinakuta (Cryptonomicon  #2)",45089,30647,418,"2001-03-31 00:00:00",92125
+10270,"The Confusion (The Baroque Cycle  #2)",45089,38399,815,"2005-06-14 00:00:00",19967
+10271,"Quicksilver (The Baroque Cycle  #1)",45089,80723,927,"2004-09-21 00:00:00",60928
+10272,"The Cobweb",25254,80723,448,"2005-05-31 00:00:00",42296
+10273,"The Big U",45089,38399,308,"2001-02-06 00:00:00",19967
+10274,"The Diamond Age: Or  A Young Lady's Illustrated Primer",39573,80723,499,"2000-05-02 00:00:00",12536
+10275,Interface,50225,80723,640,"2005-05-31 00:00:00",12536
+10276,"Odalisque (The Baroque Cycle  Vol. 1  Book 3)",45089,38399,464,"2006-03-28 00:00:00",NULL
+10277,"Snow Crash",16060,80723,438,"2000-08-02 00:00:00",67869
+10278,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume II: The Endgame",65092,80723,450,"2005-06-01 00:00:00",47735
+10279,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume I: Strategic Play",65092,80723,381,"2004-12-01 00:00:00",47735
+10280,"The Design of Everyday Things",59013,80723,240,"2002-09-19 00:00:00",22378
+10281,"Emotional Design: Why We Love (or Hate) Everyday Things",59013,80723,272,"2005-05-11 00:00:00",22378
+10282,"The Psychology of Everyday Things",59013,80723,257,"1988-06-13 00:00:00",22378
+10283,"No Price Too High: A Pentecostal Preacher Becomes Catholic - The Inspirational Story of Alex Jones as Told to Diane Hanson",33465,91260,259,"2006-04-30 00:00:00",75426
+10284,"The Alchemist",45302,80723,192,"2006-05-02 00:00:00",60878
+10285,"The Alchemist",64823,80723,197,"1993-05-01 00:00:00",56148
+10286,"Fullmetal Alchemist  Vol. 9 (Fullmetal Alchemist  #9)",14515,80723,192,"2006-09-19 00:00:00",33123
+10287,"Fullmetal Alchemist  Vol. 3 (Fullmetal Alchemist  #3)",14515,80723,192,"2005-09-13 00:00:00",33123
+10288,"Fullmetal Alchemist  Vol. 8 (Fullmetal Alchemist  #8)",14515,80723,192,"2006-07-18 00:00:00",33123
+10289,"Fullmetal Alchemist  Vol. 1 (Fullmetal Alchemist  #1)",14515,80723,192,"2005-05-03 00:00:00",33123
+10290,"Fullmetal Alchemist  Vol. 4 (Fullmetal Alchemist  #4)",14515,80723,200,"2005-11-08 00:00:00",33123
+10291,"The Illustrated Alchemist: A Fable about Following Your Dream",34944,38399,198,"1998-11-01 00:00:00",33650
+10292,"Fullmetal Alchemist  Vol. 2 (Fullmetal Alchemist  #2)",14515,80723,192,"2005-07-05 00:00:00",33123
+10293,Pompeii,11886,80723,274,"2005-11-08 00:00:00",69569
+10294,"The Last Days of Pompeii",66586,80723,360,"2002-12-03 00:00:00",66894
+10295,"Of Mice and Men",17440,80723,103,"2002-01-08 00:00:00",42484
+10296,"The Game: Penetrating the Secret Society of Pickup Artists",22890,38399,464,"2005-09-06 00:00:00",45898
+10297,"The Westing Game",80364,80723,182,"2004-04-12 00:00:00",30849
+10298,"The Egypt Game",39790,80723,215,"2009-07-07 00:00:00",18824
+10299,"Memoirs of a Geisha",56447,80723,503,"2005-11-22 00:00:00",91740
+10300,"Memoirs of a Geisha",56447,80723,434,"2005-11-15 00:00:00",35291
+10301,"Memoirs of a Geisha",56447,38399,497,"2005-12-01 00:00:00",86600
+10302,"Memoirs of a Geisha: A Portrait of the Film",NULL,80723,144,"2005-10-20 00:00:00",70196
+10303,"Memoirs of a Geisha",56447,80723,497,"1998-06-04 00:00:00",86600
+10304,"Geisha of Gion",62977,80723,334,"2003-05-06 00:00:00",81992
+10305,"Love As A Foreign Language #5",88989,80723,58,"2006-02-01 00:00:00",68397
+10306,"Jungle Love",NULL,80723,95,"2002-08-01 00:00:00",74289
+10307,"The 5 Love Languages / The 5 Love Languages Journal",23979,80723,0,"2005-01-01 00:00:00",43544
+10308,"Angels & Demons (Robert Langdon  #1)",89966,80723,736,"2006-04-01 00:00:00",81992
+10309,"Ángeles y demonios (Robert Langdon  #1)",89966,66092,508,"2005-12-01 00:00:00",48513
+10310,"Angeles & Demonios",NULL,66092,18,"2005-12-01 00:00:00",77610
+10311,"The Da Vinci Code (Robert Langdon  #2)",89966,80723,489,"2006-03-28 00:00:00",77877
+10312,"The Da Vinci Code",89966,80723,467,"2006-03-28 00:00:00",96592
+10313,"Da Vinci Code (Robert Langdon  #2)",NULL,30647,744,"2005-05-03 00:00:00",33450
+10314,"Deception Point",89966,80723,736,"2006-04-01 00:00:00",81992
+10315,"Deception Point",89966,80723,585,"2004-05-01 00:00:00",22816
+10316,"Deception Point",89966,80723,448,"2005-08-01 00:00:00",56029
+10317,"A Killing Rain (Louis Kincaid  #6)",20534,80723,383,"2005-02-01 00:00:00",84519
+10318,"The Millionaire Next Door: The Surprising Secrets of America's Wealthy",34309,80723,258,"1998-10-01 00:00:00",78127
+10319,"Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century",59291,80723,320,"2005-09-01 00:00:00",88062
+10320,"Think and Grow Rich",59291,80723,368,"2004-08-07 00:00:00",99296
+10321,"Pragmatic Version Control: Using Subversion (The Pragmatic Starter Kit Series)",19010,80723,256,"2006-06-07 00:00:00",68017
+10322,"Read My Lips: Sexual Subversion and the End of Gender",60858,38399,288,"2005-06-01 00:00:00",80093
+10323,"Trump: The Art of the Deal",83083,38399,384,"2004-12-28 00:00:00",81639
+10324,"The Richest Man in Babylon",81160,80723,194,"2008-02-01 00:00:00",41405
+10325,"The Richest Man in Babylon",81160,80723,4,"2005-06-17 00:00:00",66012
+10326,Shibumi,63533,80723,480,"2005-05-10 00:00:00",96592
+10327,1776,91058,80723,386,"2006-07-04 00:00:00",54948
+10328,1776,13894,80723,192,"1976-11-18 00:00:00",42484
+10329,"The Crescent Obscured: The United States and the Muslim World  1776-1815",89936,80723,284,"2000-07-15 00:00:00",32863
+10330,"The Good Earth (House of Earth  #1)",65184,80723,418,"2009-03-04 00:00:00",48171
+10331,"Purpose Driven Life - For Commuters: What on Earth Am I Here For?",72324,80723,5,"2005-03-15 00:00:00",84696
+10332,"Fast Food Nation: The Dark Side of the All-American Meal",78658,80723,399,"2005-07-05 00:00:00",NULL
+10333,"Fast Food Nation: What The All-American Meal is Doing to the World",78658,80723,384,"2002-04-04 00:00:00",42484
+10334,"Snow Flower and the Secret Fan",77391,80723,269,"2006-02-21 00:00:00",27496
+10335,"The Broker",NULL,80723,422,"2006-09-26 00:00:00",49117
+10336,"The Power Broker: Robert Moses and the Fall of New York",74009,80723,1344,"1975-07-12 00:00:00",86600
+10337,"The Power Broker: A Novel (Christian Gillette  #3)",71972,80723,320,"2006-07-25 00:00:00",81639
+10338,"Body For Life: 12 Weeks to Mental and Physical Strength",44069,38399,201,"1999-06-10 00:00:00",42642
+10339,"Body for Life for Women: A Woman's Plan for Physical and Mental Transformation",14152,38399,288,"2005-04-01 00:00:00",84966
+10340,"Eating for Life: Your Guide to Great Health  Fat Loss and Increased Energy!",19675,80723,405,"2003-11-26 00:00:00",60212
+10341,"The Warren Buffett Way",70003,38399,245,"2005-10-01 00:00:00",54407
+10342,"The Warren Buffett CEO: Secrets from the Berkshire Hathaway Managers",54743,80723,432,"2003-04-18 00:00:00",45871
+10343,"Monkey Business: True Story of the Scopes Trial",49120,80723,368,"2005-05-15 00:00:00",20182
+10344,"Junie B. Jones and a Little Monkey Business (Junie B. Jones  #2)",35892,38399,68,"1993-02-16 00:00:00",59807
+10345,"Monkey Business",21688,80723,392,"2004-09-24 00:00:00",82500
+10346,"Liar's Poker",38475,80723,256,"1990-10-01 00:00:00",42484
+10347,"Liar's Poker: A Harry Garnish Mystery",15317,80723,214,"1993-06-01 00:00:00",89736
+10348,"Risotto: 30 Simply Delicious Vegetarian Recipes from an Italian Kitchen",67647,80723,64,"2001-03-01 00:00:00",42659
+10349,"Giada's Family Dinners",52764,80723,256,"2006-04-04 00:00:00",33157
+10350,"Everyday Italian: 125 Simple and Delicious Recipes",32409,80723,256,"2005-02-22 00:00:00",33157
+10351,"Everyday Pasta",52764,80723,240,"2007-04-03 00:00:00",33157
+10352,"Tyler's Ultimate: Brilliant Simple Food to Make Any Time",67719,80723,256,"2006-09-26 00:00:00",33157
+10353,"Tyler Florence's Real Kitchen: An Indespensible Guide for Anybody Who Likes to Cook",30225,80723,304,"2003-03-25 00:00:00",60414
+10354,"Eat This Book: Cooking with Global Fresh Flavors",67719,80723,287,"2004-10-01 00:00:00",60414
+10355,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",16624,80723,320,"2006-10-17 00:00:00",97094
+10356,"Freakonomics: Un economista políticamente incorrecto explora el lado oculto de lo que nos afecta",16624,66092,250,"2006-08-01 00:00:00",77451
+10357,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",16624,38399,496,"2006-12-08 00:00:00",23030
+10358,"The Last Assassin (John Rain  #5)",NULL,80723,338,"2006-06-01 00:00:00",52970
+10359,"Life of Pi",19365,38399,401,"2004-05-03 00:00:00",77351
+10360,"L'Histoire de Pi",61187,30647,448,"2005-11-24 00:00:00",77907
+10361,"Shadows and Wind: A View of Modern Vietnam",71574,80723,400,"1999-09-01 00:00:00",42484
+10362,"A Million Little Pieces",31397,80723,515,"2005-09-22 00:00:00",72859
+10363,"A Million Little Pieces of Feces",63440,38399,256,"2006-02-10 00:00:00",22139
+10364,"A Million Little Lies",66222,38399,191,"2006-03-28 00:00:00",19967
+10365,"The Leadership Challenge",85487,38399,458,"2003-08-07 00:00:00",43339
+10366,"Lincoln on Leadership: Executive Strategies for Tough Times",59908,80723,193,"1993-02-01 00:00:00",19917
+10367,"Leadership in Organizations",74882,91260,542,"2005-07-07 00:00:00",85926
+10368,Leadership,NULL,80723,397,"2002-10-01 00:00:00",33212
+10369,"Men Are from Mars  Women Are from Venus",89645,80723,368,"2012-04-03 00:00:00",27873
+10370,"Mars and Venus Book of Days: 365 Inspriations to Enrich Your Relationships",89645,38399,368,"1998-10-21 00:00:00",23030
+10371,"Men Are from Mars  Women Are from Venus",89645,80723,2,"2007-04-03 00:00:00",64222
+10372,"How to Succeed with Women",53134,38399,320,"1998-10-29 00:00:00",68960
+10373,"The Clan of the Cave Bear (Earth's Children  #1)",54777,80723,512,"2002-06-25 00:00:00",57374
+10374,"The Clan of the Cave Bear (Earth's Children  #1)",54777,80723,468,"1980-05-04 00:00:00",99813
+10375,"Moneyball: The Art of Winning an Unfair Game",38475,80723,317,"2004-03-17 00:00:00",67248
+10376,"Juiced Official Strategy Guide",57203,80723,112,"2005-06-01 00:00:00",44954
+10377,"The 48 Laws of Power",54758,80723,452,"2000-09-01 00:00:00",80731
+10378,"Gates of Fire",60944,80723,392,"2005-09-27 00:00:00",57374
+10379,"Fire Sea (The Death Gate Cycle  #3)",55739,80723,414,"1992-03-01 00:00:00",42296
+10380,"The Gate of Fire (Oath Of Empire Book Two)",55786,38399,721,"2001-06-18 00:00:00",41775
+10381,"The Afghan Campaign",60944,80723,354,"2006-07-01 00:00:00",61865
+10382,"Tides of War",60944,80723,448,"2001-08-28 00:00:00",57374
+10383,"Last of the Amazons",60944,80723,400,"2003-07-01 00:00:00",57374
+10384,"The War of Art: Break Through the Blocks & Win Your Inner Creative Battles",38530,80723,168,"2003-04-01 00:00:00",88859
+10385,"Gita on the Green",83565,38399,176,"2002-05-30 00:00:00",82083
+10386,"Blood Stripes: The Grunt's View of the War in Iraq",52215,80723,340,"2006-04-24 00:00:00",18748
+10387,"Phaedrus and Letters VII and VIII",92164,38399,160,"1973-01-30 00:00:00",78389
+10388,Phaedrus,77736,80723,128,"2003-01-16 00:00:00",44555
+10389,Phaedrus,83768,80723,176,"2005-08-25 00:00:00",78389
+10390,"Lysis/Phaedrus/Symposium: Plato on Homosexuality",72465,80723,157,"1991-12-01 00:00:00",49222
+10391,"Enthusiasm and Divine Madness",10942,80723,125,"2019-02-11 00:00:00",48357
+10392,"On Love: Lysis/Symposium/Phaedrus/Alcibiades/Selections from Republic & Laws",30789,80723,272,"2006-06-15 00:00:00",80630
+10393,"Gorgias/Phaedrus (Agora)",86598,80723,233,"1998-09-01 00:00:00",20040
+10394,Statesman,83768,80723,128,"1999-03-15 00:00:00",80630
+10395,Gorgias,38565,91260,208,"2004-01-29 00:00:00",78389
+10396,"The Histories",30108,80723,716,"2003-01-30 00:00:00",42484
+10397,"The Histories",30108,80723,622,"1954-09-01 00:00:00",78389
+10398,"The History (Great Minds)",12191,38399,613,"1992-11-01 00:00:00",49222
+10399,"The Histories",64422,80723,772,"1998-11-19 00:00:00",43286
+10400,"The Histories",53122,38399,653,"1970-08-30 00:00:00",78389
+10401,"The Histories",77508,38399,464,"1992-01-17 00:00:00",77561
+10402,"The Histories",27207,38399,816,"1997-03-25 00:00:00",27736
+10403,"The History",59959,38399,710,"1987-03-14 00:00:00",32863
+10404,"The Iliad",48920,80723,683,"1999-04-29 00:00:00",78389
+10405,Iliad,61667,38399,574,"1997-03-12 00:00:00",80630
+10406,"The Iliad",45934,38399,588,"2004-04-03 00:00:00",67362
+10407,"The Iliad/The Odyssey",48920,80723,1556,"1999-11-01 00:00:00",78389
+10408,"The Iliad",NULL,80723,462,"2003-01-30 00:00:00",78389
+10409,"The Iliad",25201,38399,312,"1999-08-01 00:00:00",46460
+10410,"The Essential Iliad",NULL,38399,216,"2000-09-15 00:00:00",80630
+10411,"The Odyssey",48920,80723,541,"2006-11-30 00:00:00",78389
+10412,"The Odyssey",86365,80723,515,"1998-11-05 00:00:00",67362
+10413,"The Odyssey",46257,80723,374,"1999-06-01 00:00:00",NULL
+10414,"The Odyssey",NULL,80723,324,"2003-01-30 00:00:00",78389
+10415,"The Odyssey",25201,80723,304,"1999-08-01 00:00:00",46460
+10416,"Aeneid: Selections from Books 1  2  4  6  10  12",55220,80723,161,"2001-01-01 00:00:00",29695
+10417,"Eclogues. Georgics. Aeneid: Books 1-6",13932,66077,607,"1999-10-01 00:00:00",31128
+10418,"City Eclogue",51944,80723,136,"2006-01-30 00:00:00",43054
+10419,"The Eclogues and The Georgics",25303,80723,180,"1999-09-02 00:00:00",43286
+10420,"Paul Kirk's Championship Barbecue Sauces: 175 Make-Your-Own Sauces  Marinades  Dry Rubs  Wet Rubs  Mops and Salsas",85936,80723,272,"1997-12-03 00:00:00",46207
+10421,"The Complete Pelican Shakespeare",85916,80723,1808,"2002-11-07 00:00:00",14386
+10422,"The Complete Works",60774,80723,1248,"1991-10-13 00:00:00",83456
+10423,Hamlet,49953,80723,289,"2005-08-01 00:00:00",74289
+10424,"The Compleat Works of Wllm Shkspr (abridged)",89998,80723,137,"1994-02-01 00:00:00",76366
+10425,"The Pilgrimage: A Contemporary Quest for Ancient Wisdom",NULL,38399,272,"1995-05-01 00:00:00",60878
+10426,"The Valkyries",NULL,38399,212,"1996-09-28 00:00:00",60878
+10427,"Warrior of the Light",34515,38399,142,"2004-03-30 00:00:00",60878
+10428,"The Zahir",22210,80723,336,"2006-07-03 00:00:00",60878
+10429,"By the River Piedra I Sat Down and Wept",NULL,80723,208,"2006-05-23 00:00:00",60878
+10430,"The Fifth Mountain",90435,38399,256,"2000-04-26 00:00:00",60878
+10431,"Veronika Decides to Die",77214,80723,210,"2006-06-01 00:00:00",NULL
+10432,Hamlet,85916,80723,148,"2001-12-01 00:00:00",42484
+10433,"Cliffs Notes on Shakespeare's Hamlet",NULL,38399,129,"2000-05-30 00:00:00",47992
+10434,"Shakespeare's Hamlet",26422,80723,240,"2000-05-29 00:00:00",47992
+10435,"Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth",53142,80723,450,"2015-03-24 00:00:00",90026
+10436,"History of the Peloponnesian War: Bk. 1-2",22984,66077,496,"1919-01-01 00:00:00",31128
+10437,"On Justice  Power and Human Nature: Selections from The History of the Peloponnesian War",83232,80723,172,"1993-10-01 00:00:00",80630
+10438,"History of the Peloponnesian War: Bk. 5-6",22984,66077,400,"1921-01-01 00:00:00",31128
+10439,"The Peloponnesian War",71874,80723,530,"1998-06-01 00:00:00",80630
+10440,"The Peloponnesian War: A New Translation  Backgrounds  Interpretations",81084,80723,554,"1998-07-17 00:00:00",10455
+10441,"History of the Peloponnesian War  Bk. 7-8",22984,80723,480,"1923-01-01 00:00:00",31128
+10442,"Thucydides  Book 6 Commentary",97569,80723,34,"1989-01-30 00:00:00",99505
+10443,"Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus",50006,80723,221,"1955-02-15 00:00:00",32863
+10444,"Euripides V: Electra / The Phoenician Women / The Bacchae",10657,80723,228,"1969-01-15 00:00:00",32863
+10445,"Euripides IV: Rhesus / The Suppliant Women / Orestes / Iphigenia in Aulis",33362,80723,307,"1968-11-15 00:00:00",32863
+10446,"Grief Lessons: Four Plays by Euripides",NULL,80723,312,"2006-08-01 00:00:00",57554
+10447,"Ten Plays",NULL,38399,432,"1990-08-01 00:00:00",14659
+10448,"Euripides III: Hecuba / Andromache / The Trojan Women / Ion (Complete Greek Tragedies  #7)",78419,80723,255,"1992-01-15 00:00:00",32863
+10449,"Euripides II: The Cyclops / Heracles / Iphigenia in Tauris / Helen",15499,80723,264,"2002-04-15 00:00:00",32863
+10450,"Medea and Other Plays",74235,80723,206,"2003-03-27 00:00:00",42484
+10451,"Cyclops / Alcestis / Medea",43285,66077,432,"1994-01-01 00:00:00",72143
+10452,Medea,51259,84232,431,"2002-09-16 00:00:00",74289
+10453,"The Bacchae and Other Plays",74235,80723,360,"2006-01-26 00:00:00",78389
+10454,Bakkhai,NULL,80723,160,"2001-02-22 00:00:00",44555
+10455,"Plays 1: Medea/The Phoenician Women/Bacchae",62127,80723,192,"2000-11-09 00:00:00",83651
+10456,"The Trojan Women and Hippolytus",62910,80723,64,"2002-07-17 00:00:00",39193
+10457,"The Bacchae of Euripides: A Communion Rite",70606,80723,128,"2004-07-17 00:00:00",67248
+10458,"Orestes and Other Plays",13804,80723,282,"2001-12-20 00:00:00",43286
+10459,"Children of Heracles / Hippolytus / Andromache / Hecuba",43285,66077,528,"1995-02-15 00:00:00",72143
+10460,Alcestis,NULL,80723,142,"1990-02-01 00:00:00",44555
+10461,"Suppliant Women / Electra / Heracles",43285,66077,464,"1998-09-01 00:00:00",72143
+10462,Medea,90038,80723,116,"2006-08-10 00:00:00",44555
+10463,"Euripides: Medea",51537,80723,160,"2002-10-31 00:00:00",21121
+10464,"CliffsNotes on Euripides' Medea and Electra",53779,80723,69,"1965-09-13 00:00:00",47992
+10465,"Trojan Women / Iphigenia Among the Taurians / Ion",43285,66077,528,"1999-12-01 00:00:00",72143
+10466,"Helen / Phoenician Women / Orestes",43285,66077,605,"2002-06-15 00:00:00",72143
+10467,"Euripides: Iphigenia at Aulis (Companions to Greek & Roman Tragedy)",63087,80723,144,"2006-03-09 00:00:00",21121
+10468,"The Complete Greek Tragedies  Volume 3: Euripides",15656,80723,672,"1992-08-01 00:00:00",32863
+10469,"Aeschylus I: Oresteia (Agamemnon  The Libation Bearers  The Eumenides)",90918,38399,171,"1969-05-15 00:00:00",32863
+10470,"Aeschylus II: The Suppliant Maidens  The Persians  Seven against Thebes  and Prometheus Bound (The Complete Greek Tragedies)",12518,80723,188,"1992-02-01 00:00:00",32863
+10471,"The Oresteia",57195,80723,304,"2004-10-07 00:00:00",44555
+10472,"The Oresteia: Agamemnon  The Libation Bearers  The Eumenides",54357,80723,335,"1984-02-07 00:00:00",78389
+10473,Oresteia,81544,80723,224,"1998-09-15 00:00:00",80630
+10474,"Prometheus Bound and Other Plays",34124,80723,160,"1961-08-30 00:00:00",42484
+10475,"The Oresteia",91283,38399,208,"2004-09-04 00:00:00",67362
+10476,"Aeschylus  1: The Oresteia: Agamemnon/The Libation Bearers/The Eumenides",32553,80723,178,"1997-11-01 00:00:00",87982
+10477,"The Complete Greek Tragedies  Volume 1: Aeschylus",46192,80723,358,"1992-08-01 00:00:00",32863
+10478,"Aeschylus: The Oresteia (A Student Guide: Landmarks of World Literature)",52873,80723,95,"2004-01-22 00:00:00",74289
+10479,"The Oresteia: Agamemnon  Choephoroe & Eumenides (Everyman's Library  No. 260)",NULL,80723,127,"2004-01-20 00:00:00",62270
+10480,"Aeschylus 2: The Persians/Seven Against Thebes/The Suppliants/Prometheus Bound",32553,91260,232,"1998-01-01 00:00:00",87982
+10481,"The Oresteia Trilogy: Agamemnon/The Libation-Bearers/The Furies",43833,80723,151,"1996-09-24 00:00:00",39193
+10482,"The Suppliant Maidens/The Persians/Seven against Thebes/Prometheus Bound",43833,80723,208,"2004-06-17 00:00:00",59355
+10483,"Sophocles II: Ajax/Women of Trachis/Electra/Philoctetes (Complete Greek Tragedies 4)",55799,80723,254,"1969-05-15 00:00:00",32863
+10484,"The Oedipus Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",71030,80723,288,"1996-05-01 00:00:00",35983
+10485,"The Complete Plays",71030,80723,420,"2001-03-01 00:00:00",60412
+10486,"The Oedipus Cycle: Oedipus Rex  Oedipus at Colonus  Antigone",24002,80723,259,"2002-11-01 00:00:00",41516
+10487,"The Three Theban Plays: Antigone  Oedipus the King  Oedipus at Colonus",73708,80723,430,"2000-01-03 00:00:00",42484
+10488,"Theban Plays",24520,38399,304,"2003-03-15 00:00:00",80630
+10489,"The Theban Plays (Everyman's Library  #93)",90493,38399,223,"1994-10-18 00:00:00",33540
+10490,"Electra and Other Plays",28938,80723,218,"1953-04-30 00:00:00",34737
+10491,"Antigone; Oedipus the Kingn; Electra",19889,80723,178,"1998-09-17 00:00:00",43286
+10492,"Oedipus Rex  (The Theban Plays  #1)",45663,80723,75,"2006-06-22 00:00:00",68245
+10493,"The Oedipus Plays of Sophocles",71030,80723,390,"1958-09-01 00:00:00",62281
+10494,"Oedipus Rex (Greek and Latin Classics)",61286,84232,214,"2006-08-01 00:00:00",74289
+10495,"Oedipus the King",63101,80723,144,"2005-07-01 00:00:00",54948
+10496,"Four Plays: The Clouds/The Birds/Lysistrata/The Frogs",71853,80723,624,"1984-11-01 00:00:00",35983
+10497,"Three Plays by Aristophanes: Lysistrata/Women at the Thesmophoria/Assemblywomen",55039,80723,256,"1996-08-27 00:00:00",68537
+10498,"The Complete Plays",88174,80723,577,"1984-03-01 00:00:00",14659
+10499,"Aristophanes 1: The Acharnians/Peace/Celebrating Ladies/Wealth",71468,80723,336,"1998-01-29 00:00:00",87982
+10500,"Clouds/Wasps/Birds (Aristophanes 1)",27540,80723,480,"1998-09-15 00:00:00",80630
+10501,"Lysistrata and Other Plays",47465,38399,241,"2003-01-30 00:00:00",78389
+10502,Acharnians,55039,80723,96,"2003-05-01 00:00:00",51682
+10503,Clouds,NULL,80723,254,"1969-12-15 00:00:00",44555
+10504,Clouds/Wasps/Peace,55039,84232,624,"1998-12-15 00:00:00",57503
+10505,"Three Plays: The Wasps / The Poet and the Women / The Frogs",36224,80723,224,"1964-02-28 00:00:00",42484
+10506,"Four Comedies: Lysistrata / The Frogs / The Birds / Ladies' Day",39290,80723,400,"2003-01-06 00:00:00",71794
+10507,"Frogs/Assemblywomen/Wealth (Loeb Classical Library 180)",55039,84232,608,"2002-05-01 00:00:00",31128
+10508,"Cliffs Notes on Aristophanes' Lysistrata  The Birds  The Clouds  The Frogs",20123,80723,80,"1983-12-29 00:00:00",47992
+10509,"Aristophanes and Athens: An Introduction to the Plays",51481,80723,376,"1995-10-01 00:00:00",43286
+10510,Lysistrata,69593,80723,98,"1970-02-01 00:00:00",39218
+10511,Peace,15166,80723,408,"1999-02-25 00:00:00",44555
+10512,Lysistrata,62088,80723,132,"2003-03-01 00:00:00",80630
+10513,"The Knights / Peace / The Birds / The Assembly Women / Wealth",39903,38399,335,"1978-07-27 00:00:00",78389
+10514,"Genres in Dialogue: Plato and the Construct of Philosophy",66018,91260,238,"2000-04-13 00:00:00",74289
+10515,"The Curious Incident of the Dog in the Night-Time",51886,80723,226,"2004-05-18 00:00:00",86600
+10516,"The Night Gardener",66445,80723,372,"2006-08-08 00:00:00",81526
+10517,"Twelfth Night",60774,80723,272,"2004-07-01 00:00:00",25777
+10518,"Brokeback Mountain",71677,80723,55,"2005-12-02 00:00:00",41728
+10519,"Getting Things Done: The Art of Stress-Free Productivity",47333,91260,267,"2002-12-31 00:00:00",42484
+10520,"Getting Things Done When You Are Not in Charge",15171,80723,176,"2001-08-27 00:00:00",56552
+10521,"Formas breves",34979,66092,144,"2001-06-01 00:00:00",NULL
+10522,"El último lector",34979,66092,209,"2009-07-15 00:00:00",NULL
+10523,"Money to Burn",86505,80723,209,"2004-08-01 00:00:00",54711
+10524,"Respiración artificial",34979,66092,218,"2008-03-01 00:00:00",NULL
+10525,"Plata quemada",34979,66092,227,"2005-07-01 00:00:00",NULL
+10526,"American Government: Continuity and Change  Alternate Edition",NULL,80723,664,"2005-03-11 00:00:00",43439
+10527,"Essentials of American and Texas Government: Continuity and Change",NULL,80723,854,"2005-07-29 00:00:00",43439
+10528,"El túnel",12842,66092,159,"2003-07-01 00:00:00",85327
+10529,"The Confessions (Works of Saint Augustine 1)",46151,80723,416,"2002-12-01 00:00:00",18385
+10530,"The City of God",34908,80723,905,"2000-09-12 00:00:00",27496
+10531,"The Enchiridion on Faith Hope and Love (Augustine Series 1)",10575,80723,144,"1999-10-01 00:00:00",18385
+10532,"Augustine of Hippo: A Biography",73565,38399,576,"2000-11-24 00:00:00",52083
+10533,"On Christian Doctrine",77544,80723,191,"1958-01-11 00:00:00",56942
+10534,"Confessions  Books 1-13",70147,80723,296,"1993-01-01 00:00:00",91380
+10535,"Saint Augustine",81565,80723,176,"2005-08-30 00:00:00",42484
+10536,"Augustine: A Very Short Introduction",37349,80723,144,"2001-06-07 00:00:00",44555
+10537,"On Genesis/A Refutation of the Manichees/The Unfinished Literal Meaning of Genesis (Works of St Augustine 1)",80755,80723,540,"2004-05-01 00:00:00",18385
+10538,"Kitchen Confidential: Adventures in the Culinary Underbelly",37520,80723,302,"2001-05-01 00:00:00",64226
+10539,"Confesiones de un chef",37520,66092,478,"2003-02-01 00:00:00",27371
+10540,"The Metamorphoses of Ovid",NULL,80723,559,"1995-04-15 00:00:00",45124
+10541,Metamorphoses,NULL,80723,723,"2004-08-03 00:00:00",34737
+10542,Metamorphoses,21149,80723,624,"2003-11-17 00:00:00",67248
+10543,"Ovid's Metamorphoses: Books 1-5",79805,80723,584,"1998-01-15 00:00:00",84099
+10544,"Ovid’s Metamorphoses: Books 6-10",79805,80723,560,"1978-01-15 00:00:00",84099
+10545,"Latin Via Ovid: A First Course",21514,38399,524,"1982-09-01 00:00:00",69746
+10546,"The Art of Love and Other Poems",89103,80723,400,"1929-01-01 00:00:00",31128
+10547,"The Poems of Exile: Tristia and the Black Sea Letters",65034,80723,451,"2005-01-18 00:00:00",52083
+10548,"Metamorphoses: Volume 2  Books IX-XV",NULL,80723,499,"1985-01-01 00:00:00",31128
+10549,"Metamorphoses: Volume I  Books I-VIII",NULL,80723,496,"1977-01-01 00:00:00",31128
+10550,"Practice! Practice!: A Latin Via Ovid Workbook",52543,80723,152,"1995-07-01 00:00:00",69746
+10551,"Tibullus: A Commentary",78745,80723,222,"1979-11-15 00:00:00",84099
+10552,"Dionysiac Poetics and Euripides' Bacchae",78147,80723,440,"1997-11-16 00:00:00",69573
+10553,Antigone,22124,80723,197,"2007-09-01 00:00:00",43286
+10554,Antigone,22124,80723,208,"2003-06-05 00:00:00",44555
+10555,"Object-Oriented Programming in C++",16825,80723,640,"1999-08-13 00:00:00",85926
+10556,"The Iliad",60023,80723,594,"1992-03-19 00:00:00",40839
+10557,"Love  Sex & Tragedy: How the Ancient World Shapes Our Lives",52873,80723,345,"2005-11-01 00:00:00",32863
+10558,"Reading Greek Tragedy",52873,80723,302,"1986-08-05 00:00:00",74289
+10559,"Who Needs Greek? Contests in the Cultural History of Hellenism",52873,80723,334,"2002-04-04 00:00:00",74289
+10560,"Foucault's Virginity: Ancient Erotic Fiction & the History of Sexuality (Stanford Memorial Lecture)",52873,80723,212,"1995-01-26 00:00:00",74289
+10561,"2012: The Return of Quetzalcoatl",NULL,38399,408,"2006-05-04 00:00:00",76259
+10562,"Breaking Open the Head: A Psychedelic Journey Into the Heart of Contemporary Shamanism",55251,38399,336,"2003-08-12 00:00:00",41941
+10563,"Them: Adventures with Extremists",78795,80723,336,"2003-01-07 00:00:00",54948
+10564,"The Men Who Stare at Goats",78795,80723,259,"2006-04-10 00:00:00",54948
+10565,"Guns  Germs and Steel: The Fates of Human Societies",12501,80723,518,"2005-07-11 00:00:00",70048
+10566,"Caught Inside: A Surfer's Year on the California Coast",53843,80723,256,"1997-04-10 00:00:00",17941
+10567,"Into the Wild",82002,80723,207,"1997-01-20 00:00:00",72859
+10568,"Wild at Heart: Discovering the Secret of a Man's Soul",32239,80723,256,"2001-04-01 00:00:00",66523
+10569,"Wild Swans: Three Daughters of China",40440,80723,562,"2003-08-12 00:00:00",54948
+10570,"Wild Fire (John Corey  #4)",10700,80723,519,"2006-11-06 00:00:00",47669
+10571,"Born to Be Wild",28908,80723,354,"2006-07-25 00:00:00",23886
+10572,"The Call of the Wild",62289,80723,172,"2001-01-01 00:00:00",66612
+10573,"Wild About Books",65297,80723,40,"2004-08-10 00:00:00",89959
+10574,"In Web Design for Libraries",51041,80723,196,"2006-12-01 00:00:00",81109
+10575,"Nickel and Dimed: On (Not) Getting by in America",77912,80723,240,"2002-05-01 00:00:00",41128
+10576,"The History of Sexuality 1: An Introduction",21019,80723,168,"1978-10-01 00:00:00",11792
+10577,"The History of Sexuality  Volume 1: The Will to Knowledge",21019,80723,168,"1998-10-29 00:00:00",34737
+10578,"The History of Sexuality  Volume 2: The Use of Pleasure",21019,80723,304,"1998-07-30 00:00:00",34737
+10579,"The Making of Pride and Prejudice",25232,80723,128,"1995-09-07 00:00:00",32041
+10580,"Pride and Prejudice",25459,80723,333,"2004-02-11 00:00:00",43286
+10581,"Pride & Prejudice",78859,80723,392,"2005-09-01 00:00:00",42484
+10582,"Pride and Prejudice",20390,80723,476,"2005-05-05 00:00:00",39193
+10583,"Pride and Prejudice",89746,80723,392,"2004-09-20 00:00:00",86786
+10584,"Under the Banner of Heaven: A Story of Violent Faith",82002,80723,399,"2003-07-10 00:00:00",72859
+10585,"Iceland: Land of the Sagas",80388,80723,160,"1998-10-06 00:00:00",27912
+10586,"Into Thin Air: A Personal Account of the Mount Everest Disaster",82002,80723,368,"1999-10-19 00:00:00",72859
+10587,"In the Land of White Death: An Epic Story of Survival in the Siberian Arctic",29245,80723,288,"2001-09-04 00:00:00",64682
+10588,"The World Is Flat: A Brief History of the Twenty-first Century",18564,80723,616,"2006-04-18 00:00:00",47358
+10589,"La Tierra es plana: Breve historia del mundo globalizado del siglo XXI",18564,66092,495,"2006-01-01 00:00:00",68453
+10590,"The Avalanche Handbook",NULL,80723,342,"2006-10-12 00:00:00",31868
+10591,Avalanche,43819,80723,144,"1989-01-01 00:00:00",66612
+10592,"Little Women",38543,80723,449,"2004-04-06 00:00:00",46460
+10593,"Little Women (Little Women  #1)",25549,80723,536,"2004-10-01 00:00:00",26301
+10594,"Little Women",84041,80723,562,"2000-01-01 00:00:00",84127
+10595,"Little Women",66279,80723,389,"2002-09-03 00:00:00",31496
+10596,"Little Women  Little Men  Jo's Boys",22343,80723,1064,"2005-02-17 00:00:00",52951
+10597,"Little Women",38543,80723,327,"2004-02-01 00:00:00",30428
+10598,"A Tale of Two Cities",74066,80723,496,"2004-05-01 00:00:00",54948
+10599,"A Tale of Two Cities",62572,80723,409,"2004-07-25 00:00:00",20374
+10600,"A Tale of Two Cities: Charles Dickens",80023,80723,96,"2002-01-10 00:00:00",15972
+10601,"A Tale of Two Cities",62572,38399,429,"2003-12-01 00:00:00",86786
+10602,"A Tale of Two Cities",NULL,80723,432,"1993-03-18 00:00:00",62270
+10603,"Den of Thieves",46982,38399,592,"1992-09-01 00:00:00",54948
+10604,"Den of Thieves (Cat Royal  #3)",13545,80723,416,"2007-01-31 00:00:00",51615
+10605,"Charles Dickens: Four Novels:  Great Expectations  Hard Times  A Christmas Carol  and A Tale of Two Cities",43926,38399,848,"1993-10-02 00:00:00",83456
+10606,"Bleak House",90901,80723,887,"2002-07-09 00:00:00",64682
+10607,"David Copperfield",40499,80723,928,"2006-02-07 00:00:00",39218
+10608,"What Jane Austen Ate and Charles Dickens Knew: From Fox Hunting to Whist—the Facts of Daily Life in 19th-Century England",53040,38399,416,"1994-04-21 00:00:00",73840
+10609,"Charles Dickens",13396,80723,224,"2002-05-13 00:00:00",14386
+10610,"Martin Chuzzlewit",45101,80723,830,"1999-11-25 00:00:00",78389
+10611,"Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters)",12501,80723,176,"1998-09-25 00:00:00",22378
+10612,"The Third Chimpanzee: The Evolution & Future of the Human Animal",12501,80723,407,"1992-01-01 00:00:00",33650
+10613,J.K.Rowling,49359,80723,112,"2005-09-01 00:00:00",19520
+10614,"Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry",47320,80723,240,"2001-11-01 00:00:00",84472
+10615,"J.K. Rowling's Harry Potter Novels: A Reader's Guide",36684,80723,96,"2001-09-26 00:00:00",82772
+10616,"Harry Potter and the Half-Blood Prince (Harry Potter  #6)",47320,80723,768,"2006-06-23 00:00:00",73032
+10617,"The Santaroga Barrier",54240,80723,256,"2002-09-16 00:00:00",51760
+10618,"The Dosadi Experiment (ConSentiency Universe  #2)",54240,80723,320,"2002-09-16 00:00:00",51760
+10619,"The Eyes of Heisenberg",54240,80723,192,"2002-09-16 00:00:00",51760
+10620,"The Birds (Methuen Drama)",30067,91260,96,"2002-07-22 00:00:00",83651
+10621,"The Frogs",37611,38399,88,"2005-01-01 00:00:00",22325
+10622,Lysistrata,55039,80723,320,"1990-06-21 00:00:00",16935
+10623,"Myths of the Underworld Journey: Plato  Aristophanes  and the "Orphic" Gold Tablets",NULL,80723,276,"2004-11-18 00:00:00",74289
+10624,"Assembly of Women (Literary Classics)",73515,91260,124,"1997-04-01 00:00:00",49222
+10625,"Comoediae 1: Acharenses/Equites/Nubes/Vespae/Pax/Aves",87636,84232,364,"1922-02-22 00:00:00",44555
+10626,"Aristophanes and His Theatre of the Absurd",13923,80723,127,"1991-06-01 00:00:00",21121
+10627,"Later Novels and Other Writings: The Lady in the Lake / The Little Sister / The Long Goodbye / Playback / Double Indemnity (screenplay) / Selected Essays and Letters",38481,80723,1076,"1995-10-01 00:00:00",52951
+10628,"Stories and Early Novels: Pulp Stories / The Big Sleep / Farewell  My Lovely / The High Window",38481,80723,1199,"1995-10-01 00:00:00",52951
+10629,"The Lady in the Lake  The Little Sister  The Long Goodbye  Playback (Everyman's Library)",61763,80723,1016,"2002-10-15 00:00:00",62270
+10630,"The High Window (Philip Marlowe  #3)",64077,80723,265,"1992-08-12 00:00:00",57316
+10631,"The Simple Art of Murder",64077,80723,384,"1988-09-12 00:00:00",57316
+10632,"The Big Sleep (Philip Marlowe  #1)",64077,80723,231,"1988-07-12 00:00:00",65713
+10633,"The Long Goodbye (Philip Marlowe  #6)",64077,80723,379,"1988-08-12 00:00:00",57316
+10634,"An Evening of Long Goodbyes",31804,80723,448,"2005-09-13 00:00:00",69569
+10635,"The Long Goodbye: Memories of My Father",21671,80723,205,"2005-10-01 00:00:00",21505
+10636,"Ghost In the Shell 2: Innocence: After the Long Goodbye",63683,80723,196,"2005-10-11 00:00:00",33123
+10637,"The Long Goodbye (Philip Marlowe  #6)",64077,80723,2,"2004-09-20 00:00:00",45550
+10638,"Breaking the Spell: Religion as a Natural Phenomenon",84945,80723,448,"2006-02-24 00:00:00",51594
+10639,"Darwin's Dangerous Idea: Evolution and the Meanings of Life",84945,80723,588,"1996-06-12 00:00:00",54948
+10640,"Freedom Evolves",84945,80723,368,"2004-01-27 00:00:00",34737
+10641,"Brainstorms: Philosophical Essays on Mind and Psychology",84945,80723,424,"1981-07-13 00:00:00",22475
+10642,"Kinds of Minds: Towards an Understanding of Consciousness",84945,80723,192,"1997-06-12 00:00:00",22378
+10643,"Leaps of Faith: Science  Miracles & the Search for Supernatural Consolation",10568,38399,244,"1999-06-04 00:00:00",87120
+10644,"Elbow Room: The Varieties of Free Will Worth Wanting",84945,80723,212,"1984-11-21 00:00:00",22475
+10645,"The Mind’s I: Fantasies and Reflections on Self and Soul",74702,80723,512,"1985-04-01 00:00:00",67869
+10646,"The Illustrated A Brief History of Time",22290,80723,256,"1996-11-01 00:00:00",67869
+10647,"A Briefer History of Time",62749,80723,176,"2005-09-27 00:00:00",57374
+10648,"The Universe in a Nutshell",22290,80723,216,"2001-11-06 00:00:00",57374
+10649,"God Created the Integers: The Mathematical Breakthroughs That Changed History",22290,80723,1160,"2005-10-04 00:00:00",28343
+10650,"Stephen Hawking's Universe: The Cosmos Explained",65167,80723,304,"1998-10-09 00:00:00",22378
+10651,"The Future of Spacetime",64578,80723,224,"2003-06-17 00:00:00",67248
+10652,"Stephen Hawking's Universe",23036,80723,160,"1989-06-01 00:00:00",34291
+10653,"The Nature of Space and Time",33153,80723,152,"2000-10-08 00:00:00",69573
+10654,"The Physics of Star Trek",49888,80723,188,"1996-08-16 00:00:00",13675
+10655,"Falconry & Hawking",52530,80723,352,"2006-02-01 00:00:00",75932
+10656,"The World Treasury of Physics  Astronomy & Mathematics from Albert Einstein to Stephen W. Hawking & from Annie Dillard to John Updike",38422,80723,859,"1993-06-30 00:00:00",71093
+10657,"The Art of Nonfiction: A Guide for Writers and Readers",39281,38399,192,"2001-02-01 00:00:00",60412
+10658,"The Journals of Ayn Rand",91242,80723,752,"1999-08-01 00:00:00",91660
+10659,"The Fountainhead",64144,80723,704,"1996-09-01 00:00:00",71254
+10660,"The 36-Hour Day: A Family Guide to Caring for Persons with Alzheimer Disease  Related Dementing Illnesses  and Memory Loss in Later Life",36889,80723,624,"2006-11-01 00:00:00",31114
+10661,"The 3-Hour Diet: On the Go",84432,38399,192,"2005-10-18 00:00:00",19967
+10662,"The Last Hours of Ancient Sunlight: The Fate of the World and What We Can Do Before It's Too Late",16474,38399,400,"2004-04-27 00:00:00",96592
+10663,"Specimen Days",20564,80723,336,"2006-04-18 00:00:00",67543
+10664,"A Home at the End of the World",20564,80723,342,"2004-07-01 00:00:00",31969
+10665,"Blink: The Power of Thinking Without Thinking",84711,38399,277,"2005-01-11 00:00:00",66706
+10666,Blink,17197,80723,400,"2004-10-11 00:00:00",66523
+10667,"Blink-182: Tales from Beneath Your Mom",86941,80723,112,"2001-10-02 00:00:00",60280
+10668,"The Complete Novels",70735,80723,1103,"1995-09-03 00:00:00",31496
+10669,"The Jane Austen Book Club",42231,80723,288,"2005-04-26 00:00:00",75780
+10670,"Jane Austen: The Complete Novels",25459,80723,1103,"1994-06-01 00:00:00",31496
+10671,"Jane Austen's Letters",47912,80723,672,"1997-04-03 00:00:00",44555
+10672,Persuasion,55946,80723,249,"2004-03-18 00:00:00",43286
+10673,"Tea with Jane Austen",NULL,80723,128,"2004-09-03 00:00:00",16531
+10674,"The Old Man and the Sea",33879,80723,3,"2006-05-01 00:00:00",24976
+10675,"Cliffs Notes on Hemingway's The Old Man and the Sea",16967,38399,80,"2000-12-05 00:00:00",47992
+10676,"Flaubert's Parrot",98891,80723,190,"1990-11-27 00:00:00",86600
+10677,"Flaubert in Egypt: A Sensibility on Tour",82404,80723,230,"1996-03-30 00:00:00",29478
+10678,"A Sentimental Education",92204,80723,464,"2000-05-18 00:00:00",43286
+10679,"Three Tales",55014,80723,110,"2005-01-27 00:00:00",78389
+10680,"Sentimental Education",17865,80723,460,"2004-02-05 00:00:00",78389
+10681,"The Family Idiot 5: Gustave Flaubert 1821-1857",88273,38399,632,"1994-01-26 00:00:00",32863
+10682,Middlesex,19397,80723,529,"2003-09-16 00:00:00",67543
+10683,"Team of Rivals: The Political Genius of Abraham Lincoln",17261,80723,916,"2006-09-26 00:00:00",90425
+10684,"John Adams",91058,80723,751,"2001-05-22 00:00:00",80948
+10685,"The John Adams Reader: Eseential Writings on an American Composer",89002,80723,455,"2006-06-01 00:00:00",54039
+10686,"The Letters of John and Abigail Adams",57561,80723,512,"2003-12-30 00:00:00",78389
+10687,"Passionate Sage: The Character and Legacy of John Adams",41916,80723,288,"2001-02-17 00:00:00",67248
+10688,"The Portable John Adams",69171,80723,533,"2004-06-29 00:00:00",42484
+10689,"Sex For Dummies",41553,80723,432,"2000-12-28 00:00:00",61713
+10690,"Baby Signing For Dummies",47653,80723,257,"2006-10-01 00:00:00",54407
+10691,"The Feeling Good Handbook",29839,80723,729,"1999-10-28 00:00:00",34737
+10692,"On Death and Dying",56893,80723,288,"1997-07-02 00:00:00",41728
+10693,"Questions and Answers on Death and Dying: A Companion Volume to On Death and Dying",56893,80723,192,"1997-06-09 00:00:00",41728
+10694,"The Last Dance: Encountering Death and Dying",48464,80723,664,"2004-02-06 00:00:00",20824
+10695,"Mahatma Gandhi and His Myths: Civil Disobedience  Nonviolence  and Satyagraha in the Real World (Plus Why It's Gandhi  Not Ghandi)",49698,80723,46,"2002-01-01 00:00:00",51512
+10696,"The Seven Habits of Highly Effective People",20019,80723,368,"1990-09-15 00:00:00",72188
+10697,"The 7 Habits of Highly Effective People Personal Workbook",20019,80723,192,"2004-01-06 00:00:00",54948
+10698,"Daily Reflections For Highly Effective People: Living the 7 Habits of Highly Successful People Every Day",20019,80723,384,"1994-03-21 00:00:00",54948
+10699,"Way of the Peaceful Warrior: A Book That Changes Lives",70868,38399,240,"2006-04-13 00:00:00",19783
+10700,"Secret of the Peaceful Warrior",18972,38399,32,"1992-12-28 00:00:00",19783
+10701,"It's Not about the Bike: My Journey Back to Life",50321,80723,294,"2001-09-01 00:00:00",NULL
+10702,"23 Days in July: Inside the Tour de France and Lance Armstrong's Record-Breaking Victory",65434,80723,344,"2005-06-15 00:00:00",39071
+10703,Truman,91058,80723,1120,"1993-06-14 00:00:00",54948
+10704,"The Complete Stories of Truman Capote",59475,80723,320,"2005-09-13 00:00:00",86600
+10705,"Breakfast at Tiffany's: A Short Novel and Three Stories",35449,80723,162,"1994-01-13 00:00:00",64682
+10706,"Murder at The Washington Tribune (Capital Crimes  #21)",74204,80723,384,"2006-10-31 00:00:00",81639
+10707,"Murder at Ford's Theatre (Capital Crimes  #19)",74204,38399,376,"2003-09-30 00:00:00",87750
+10708,"Other Voices  Other Rooms",35449,80723,232,"1994-02-01 00:00:00",86600
+10709,"In Cold Blood",NULL,80723,15,"2006-01-03 00:00:00",35608
+10710,"Emergence: The Connected Lives of Ants  Brains  Cities  and Software",NULL,38399,288,"2002-09-10 00:00:00",41728
+10711,"Emergence: Labeled Autistic",NULL,91260,200,"1996-09-01 00:00:00",53497
+10712,"The Emergence of Life on Earth: A Historical and Scientific Overview",71848,80723,344,"2000-02-01 00:00:00",56685
+10713,"The Ghost Stories of Edith Wharton",48502,80723,303,"1997-10-10 00:00:00",41728
+10714,"The House of Mirth / The Reef / The Custom of the Country / The Age of Innocence",10557,80723,1328,"1986-05-12 00:00:00",52951
+10715,"Collected Stories  1911-1937",57832,80723,848,"2001-01-29 00:00:00",52951
+10716,"Novellas and Other Writings: Madame de Treymes / Ethan Frome / Summer / Old New York / The Mother’s Recompense / A Backward Glance",74988,80723,1137,"1990-04-01 00:00:00",52951
+10717,"The House of Mirth",78625,80723,272,"2002-08-06 00:00:00",39193
+10718,"Below the Root",35406,80723,231,"1975-01-01 00:00:00",10030
+10719,"The Witches of Worm",39790,80723,183,"1991-05-01 00:00:00",74834
+10720,"The Deeper Meaning of Liff",86530,80723,192,"2005-04-19 00:00:00",43699
+10721,"Dirk Gently's Holistic Detective Agency (Dirk Gently #1)",44271,80723,6,"2005-09-30 00:00:00",50235
+10722,"The Letters of J.R.R. Tolkien",38233,80723,502,"2000-06-06 00:00:00",41516
+10723,"The History of the Lord of the Rings (The History of Middle-earth #6-9)",32012,38399,1680,"2000-09-01 00:00:00",41516
+10724,"The Languages of Tolkien's Middle-Earth",81546,80723,207,"1980-05-28 00:00:00",75419
+10725,"The Lord of the Rings- 3 volumes set (The Lord of the Rings  #1-3)",NULL,38399,1438,"2005-06-01 00:00:00",41516
+10726,"Farmer Giles of Ham",46546,80723,127,"1999-11-15 00:00:00",81184
+10727,Tandia,14449,80723,905,"1998-08-31 00:00:00",53143
+10728,"Matthew Flinders' Cat",14449,80723,611,"2002-12-31 00:00:00",14386
+10729,"Solomon's Song (The Potato Factory  #3)",14449,80723,671,"2001-08-31 00:00:00",53143
+10730,"An Introduction to Old Norse",53447,80723,412,"1981-07-23 00:00:00",43286
+10731,"Cold Counsel: Women in Old Norse Literature and Myth",53173,80723,320,"2002-12-21 00:00:00",68537
+10732,"Brave Companions: Portraits in History",91058,80723,240,"1992-11-01 00:00:00",25777
+10733,"Mornings on Horseback: The Story of an Extraordinary Family  a Vanished Way of Life  and the Unique Child Who Became Theodore Roosevelt",91058,80723,445,"1982-05-12 00:00:00",54948
+10734,"John Adams",91058,38399,752,"2001-05-01 00:00:00",90425
+10735,"The Johnstown Flood",91058,80723,302,"1990-01-01 00:00:00",69455
+10736,"The Path Between the Seas: The Creation of the Panama Canal  1870-1914",91058,80723,697,"2004-06-01 00:00:00",54948
+10737,"The Bone Collector (Lincoln Rhyme  #1)",58102,80723,528,"1998-04-01 00:00:00",71254
+10738,"The Bone Collector's Son",58138,80723,137,"2004-01-01 00:00:00",88317
+10739,"El Coleccionista De Huesos (Lincoln Rhyme  #1)",58102,66092,640,"2003-06-01 00:00:00",16662
+10740,"Moby Dick",76316,80723,25,"2005-09-01 00:00:00",13943
+10741,Moby-Dick,85131,80723,192,"2006-09-12 00:00:00",30039
+10742,"Moby Dick",76316,80723,6,"2005-06-16 00:00:00",38649
+10743,Moby-Dick,50272,80723,707,"2003-04-01 00:00:00",86786
+10744,"Herman Melville's Moby-Dick: A Routledge Study Guide and Sourcebook",42866,80723,208,"2003-09-18 00:00:00",68537
+10745,"Moby Dick: or The White Whale (Oxford Illustrated Classics)",23364,80723,104,"1998-04-16 00:00:00",44555
+10746,"Melville's Moby Dick: An American Nekyia (Studies in Jungian Psychology by Jungian Analysts)",51936,80723,156,"2004-04-30 00:00:00",37104
+10747,"Moby Dick: Or  the White Whale (Oxford Illustrated Classics Series)",23364,80723,102,"1997-04-03 00:00:00",44555
+10748,"Melville and the politics of identity: From *King Lear* to *Moby-Dick*",18449,80723,164,"1993-07-01 00:00:00",89838
+10749,"Unpainted to the Last: "Moby Dick" and Twentieth-century American Art",79988,80723,400,"1995-10-20 00:00:00",86238
+10750,"Double Tap (Paul Madriani  #8)",32054,38399,401,"2005-12-27 00:00:00",66526
+10751,"The List",32054,80723,451,"1997-12-01 00:00:00",23886
+10752,"Witches Abroad (Discworld  #12; Witches #3)",NULL,80723,374,"2002-07-30 00:00:00",NULL
+10753,"The Innocents Abroad",66676,80723,560,"2003-02-11 00:00:00",64682
+10754,"Teaching English Abroad",66864,80723,576,"2007-01-01 00:00:00",31769
+10755,"Theocritus: Select Poems: Select Poems",57272,84232,395,"1991-06-01 00:00:00",21121
+10756,"The Shield. Catalogue of Women. Other Fragments. (Hesiod II)",44898,80723,434,"2007-03-01 00:00:00",31128
+10757,"Death and the King's Horseman",81360,38399,254,"2002-11-05 00:00:00",10455
+10758,"The Time Machine",44781,80723,104,"2005-03-31 00:00:00",32041
+10759,"The Time Machine",NULL,80723,150,"2004-07-01 00:00:00",54948
+10760,"The Ultimate Time Machine: A Remote Viewer's Perception of Time & Predictions for the New Millennium",56289,91260,275,"1998-10-01 00:00:00",96560
+10761,"The Time Machine",27402,80723,123,"2004-03-01 00:00:00",84127
+10762,"The Complete Short Stories",85160,80723,864,"2001-05-01 00:00:00",82810
+10763,"Selected Stories",35464,38399,432,"2004-07-13 00:00:00",64682
+10764,Tono-Bungay,71955,80723,414,"2005-06-28 00:00:00",78389
+10765,"The Name of the Rose (Everyman's Library (Cloth))",51586,38399,560,"2006-09-26 00:00:00",62270
+10766,"In the Name of Jesus: Reflections on Christian Leadership",40444,38399,120,"1992-10-01 00:00:00",16155
+10767,"Blood Done Sign My Name: A True Story",52611,80723,368,"2005-05-03 00:00:00",96592
+10768,Blindness,16109,80723,326,"1999-10-04 00:00:00",41516
+10769,"The Gospel According to Jesus Christ",16109,80723,377,"1994-09-28 00:00:00",71794
+10770,"All the Names",60828,80723,245,"2001-10-05 00:00:00",41516
+10771,"The Tale of the Unknown Island",67722,80723,64,"2000-10-05 00:00:00",41516
+10772,"Baltasar and Blimunda",16109,80723,346,"1998-10-16 00:00:00",41516
+10773,"The Cave",60828,80723,307,"2003-10-15 00:00:00",41516
+10774,"The Stone Raft",16109,38399,292,"1996-06-14 00:00:00",41516
+10775,"The Year of the Death of Ricardo Reis",16109,80723,384,"1998-09-17 00:00:00",23130
+10776,"El hombre duplicado",10661,66092,380,"2004-09-01 00:00:00",16662
+10777,"Ensayo sobre la lucidez",10661,66092,461,"2005-01-01 00:00:00",16662
+10778,"La caverna",10661,66092,441,"2003-02-01 00:00:00",16662
+10779,"The History of the Siege of Lisbon",16109,80723,314,"1998-09-01 00:00:00",41516
+10780,"Las intermitencias de la muerte",10661,66092,274,"2005-12-01 00:00:00",29879
+10781,"The Treasured Writings of Kahlil Gibran",NULL,80723,902,"2009-10-06 00:00:00",45456
+10782,"The Prophet",50299,80723,127,"2010-01-01 00:00:00",46060
+10783,"A Tear and a Smile",77047,80723,228,"1950-06-27 00:00:00",74716
+10784,"On the Road",23724,80723,320,"2005-09-06 00:00:00",42484
+10785,"On the Road",25825,80723,281,"2000-02-24 00:00:00",42484
+10786,"De Kooning: An American Master",49835,80723,732,"2006-04-04 00:00:00",52148
+10787,"Willem de Kooning: Late Paintings",64515,80723,83,"2006-09-01 00:00:00",60338
+10788,"Aké: The Years of Childhood",70606,80723,230,"1989-10-23 00:00:00",86600
+10789,"Ready for Anything: 52 Productivity Principles for Getting Things Done",47333,80723,165,"2004-12-28 00:00:00",42484
+10790,"The Facilitator's Book of Questions: Tools for Looking Together at Student and Teacher Work",76726,80723,142,"2004-04-29 00:00:00",22086
+10791,"Sun Tzu and the Art of Business: Six Strategic Principles for Managers",86602,80723,272,"2000-04-01 00:00:00",44555
+10792,"Marketing Warfare",44378,80723,216,"2005-12-13 00:00:00",76995
+10793,"The Tipping Point: How Little Things Can Make a Big Difference",84711,80723,301,"2002-01-07 00:00:00",71093
+10794,"Unleashing the Ideavirus: Stop Marketing AT People! Turn Your Ideas into Epidemics by Helping Your Customers Do the Marketing thing for You.",59446,38399,234,"2001-10-10 00:00:00",70381
+10795,"The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business",65211,80723,286,"2003-01-07 00:00:00",27873
+10796,"Great Expectations",86716,80723,512,"2002-12-31 00:00:00",42484
+10797,"Great Expectations: Authoritative Text  Backgrounds  Contexts  Criticism",79377,80723,776,"1999-01-19 00:00:00",77561
+10798,"Luther and Erasmus: Free Will and Salvation (Library of Christian Classics)",87508,80723,364,"1969-01-01 00:00:00",37940
+10799,"To Kill a Mockingbird",48531,80723,323,"2005-07-05 00:00:00",16043
+10800,"To Kill a Mockingbird",21719,80723,11,"2006-08-22 00:00:00",75384
+10801,"To Kill a Mockingbird",48531,38399,323,"2006-10-17 00:00:00",23030
+10802,"The Wealthy Barber: Everyone's Common-Sense Guide to Becoming Financially Independent",64231,80723,199,"1995-09-20 00:00:00",88078
+10803,"A Modest Proposal and Other Satirical Works",21081,80723,64,"1996-02-02 00:00:00",39193
+10804,"Gulliver's Travels / A Modest Proposal",78895,80723,416,"2005-08-01 00:00:00",54948
+10805,"Empire 2.0: A Modest Proposal for a United States of the West (Terra Nova)",58431,80723,144,"2004-05-04 00:00:00",73956
+10806,"The Bostonians",43020,80723,504,"1998-07-23 00:00:00",43286
+10807,"Novels 1896–1899: The Other House / The Spoils of Poynton / What Maisie Knew / The Awkward Age",68129,80723,1035,"2003-03-10 00:00:00",52951
+10808,"Novels 1901–1902: The Sacred Fount / The Wings of the Dove",30998,80723,713,"2006-02-02 00:00:00",52951
+10809,"Complete Stories 1892–1898",43292,80723,958,"1996-01-01 00:00:00",52951
+10810,"The Canterbury Tales",45221,80723,504,"2003-01-30 00:00:00",78389
+10811,"The Canterbury Tales",86095,80723,465,"1998-07-09 00:00:00",43286
+10812,"The Canterbury Tales (original-spelling edition)",84488,79480,1254,"2005-04-07 00:00:00",78389
+10813,"Chaucer's Canterbury Tales (Selected): An Interlinear Translation",56504,80723,530,"1977-12-31 00:00:00",76344
+10814,"Oxford Guides to Chaucer: The Canterbury Tales",90167,80723,456,"1996-05-23 00:00:00",44555
+10815,"Love Visions",27039,80723,272,"1983-05-26 00:00:00",78389
+10816,"Chaucer's Canterbury Tales",20602,80723,383,"1964-01-28 00:00:00",14922
+10817,"The Riverside Chaucer",55406,79480,1327,"1987-12-12 00:00:00",29955
+10818,"The Portable Chaucer",69831,80723,611,"1977-05-26 00:00:00",42484
+10819,"Salt: A World History",67478,80723,484,"2003-01-28 00:00:00",42484
+10820,"Salt in His Shoes: Michael Jordan in Pursuit of a Dream",NULL,80723,32,"2003-11-01 00:00:00",87364
+10821,"The Book of Salt",77000,80723,261,"2004-06-15 00:00:00",41516
+10822,"Cities of Salt (مدن الملح #1)",18013,80723,627,"1989-07-17 00:00:00",86600
+10823,"The Years of Rice and Salt",38948,80723,763,"2003-06-03 00:00:00",67869
+10824,"Illuminations: Essays and Reflections",26019,80723,288,"1969-01-13 00:00:00",61643
+10825,"Saul Steinberg: Illuminations",62880,80723,288,"2006-11-01 00:00:00",53777
+10826,"Advanced Global Illumination",13974,80723,366,"2006-08-30 00:00:00",83177
+10827,"Snow Falling On Cedars",90032,80723,404,"1999-10-21 00:00:00",22697
+10828,"The Lost Boy (Dave Pelzer #2)",90031,80723,331,"1997-08-01 00:00:00",48396
+10829,"Real Boys: Rescuing Our Sons from the Myths of Boyhood",80450,38399,480,"1999-05-10 00:00:00",53336
+10830,Microserfs,16591,80723,371,"2008-01-01 00:00:00",NULL
+10831,"New Media Language",55797,80723,209,"2003-05-22 00:00:00",68537
+10832,"The Denial of Death",44970,80723,336,"1997-05-08 00:00:00",72188
+10833,"A People's History of the United States",NULL,80723,729,"2005-08-02 00:00:00",NULL
+10834,"A People's History of the United States",77978,80723,619,"2003-07-01 00:00:00",69262
+10835,"A People's History of the United States: The Civil War to the Present",77978,80723,496,"2003-08-01 00:00:00",69262
+10836,"Graphic Design: A Concise History (World of Art)",15931,38399,232,"2002-05-17 00:00:00",59668
+10837,"Immigrant Acts: On Asian American Cultural Politics",41511,80723,272,"1996-10-21 00:00:00",19158
+10838,"The Old Way of Seeing: How Architecture Lost Its Magic - And How to Get It Back",91370,80723,256,"1995-09-01 00:00:00",41516
+10839,"The Crying of Lot 49",81732,80723,152,"2006-10-17 00:00:00",NULL
+10840,"E=mc²: A Biography of the World's Most Famous Equation",14250,80723,337,"2000-10-01 00:00:00",63821
+10841,"Passionate Minds",14250,38399,373,"2006-10-10 00:00:00",27252
+10842,"Christian Mythmakers: C.S. Lewis  Madeleine L'Engle  J.R.R. Tolkien  George MacDonald  G.K. Chesterton  Charles Williams  Dante Alighieri  John Bunyan  Walter Wangerin  Robert Siegel  and Hannah Hurnard",20817,80723,303,"2002-12-01 00:00:00",84522
+10843,"A House Like a Lotus (O'Keefe Family  #3)",36708,80723,307,"1985-11-01 00:00:00",34779
+10844,"The Rock That Is Higher: Story as Truth",36708,80723,320,"2002-03-19 00:00:00",78305
+10845,"The Glorious Impossible",NULL,80723,64,"1990-09-30 00:00:00",88585
+10846,"A Full House: An Austin Family Christmas (Austin Family  #5.6)",10946,80723,48,"2000-03-07 00:00:00",84238
+10847,"A Circle of Quiet (Crosswicks Journals #1)",36708,72322,246,"1984-01-01 00:00:00",60878
+10848,"The Birth of Tragedy and Other Writings",71977,80723,204,"1999-04-22 00:00:00",74289
+10849,"The Birth of Tragedy/The Genealogy of Morals",80953,38399,320,"1990-05-07 00:00:00",77877
+10850,"The Birth of Tragedy",15871,80723,84,"2004-06-17 00:00:00",59355
+10851,"The Birth of Tragedy",35166,38399,160,"2003-11-27 00:00:00",78389
+10852,"Birth Of A Tragedy: Kashmir 1947",21504,80723,179,"2008-03-14 00:00:00",41964
+10853,"The Tragedy of Pudd'nhead Wilson/Those Extraordinary Twins",12571,80723,512,"1997-03-06 00:00:00",44555
+10854,"The Tragedy of Pudd'nhead Wilson",49047,80723,0,"2003-01-01 00:00:00",74641
+10855,"Bridge to Terabithia",33482,38399,191,"2008-07-01 00:00:00",47175
+10856,"Literature Circle Guide: Bridge to Terabithia: Everything You Need For Successful Literature Circles That Get Kids Thinking  Talking  Writing—and Loving Literature",83672,80723,32,"2002-01-01 00:00:00",24790
+10857,"Bread and Roses  Too",43375,80723,275,"2006-09-04 00:00:00",76542
+10858,"The Invisible Child",43375,80723,266,"2001-12-31 00:00:00",21073
+10859,"A Short History of Decay",19565,80723,186,"1998-09-15 00:00:00",16775
+10860,"Scholar of Decay (Ravenloft  #14)",30787,80723,313,"2000-05-01 00:00:00",42601
+10861,"Girl with a Pearl Earring",78460,80723,233,"2003-09-30 00:00:00",21505
+10862,"The Golden Tulip",55114,80723,585,"1991-09-01 00:00:00",61314
+10863,"Burning Bright",78460,80723,320,"2007-03-20 00:00:00",39093
+10864,"Falling Angels",78460,80723,336,"2002-09-24 00:00:00",42484
+10865,"The Virgin Blue",78460,80723,304,"2003-06-24 00:00:00",42484
+10866,"Wenn Engel fallen",78460,20069,384,"2002-02-01 00:00:00",61692
+10867,"Tom Hunter: Living in Hell and Other Stories",15344,91260,80,"2006-03-08 00:00:00",24118
+10868,"Bleach  Volume 15",15033,80723,208,"2006-10-03 00:00:00",33123
+10869,"Bleach  Volume 01",15033,80723,200,"2004-05-19 00:00:00",33123
+10870,"Bleach  Volume 14",15033,80723,208,"2006-08-01 00:00:00",33123
+10871,"Bleach  Volume 11",15033,80723,208,"2006-02-07 00:00:00",33123
+10872,"Bleach  Volume 12",15033,80723,208,"2006-04-04 00:00:00",33123
+10873,"DEATH NOTE デスノート 1",51156,82917,195,"2004-04-02 00:00:00",86201
+10874,"Death Note  Vol. 4: 恋心 (Death Note  #4)",32112,82917,204,"2004-11-11 00:00:00",61295
+10875,"Death Note  Vol. 3: 激走 (Death Note  #3)",32112,82917,194,"2004-09-03 00:00:00",61295
+10876,"Love Artist (Harlequin Romance #2860)",26545,80723,187,"1987-07-24 00:00:00",42479
+10877,"Perfume: The Story of a Murderer",13269,80723,255,"2001-02-13 00:00:00",41762
+10878,"Das Parfum. Die Geschichte eines Mörders",52208,20069,321,"1994-06-01 00:00:00",20891
+10879,"Three Stories and a Reflection",52208,80723,128,"1997-11-13 00:00:00",22697
+10880,"The Pigeon",52208,80723,77,"1989-06-29 00:00:00",34737
+10881,"The Story of Mr Sommer",16417,80723,128,"2003-11-03 00:00:00",70618
+10882,"Bleach―ブリーチ― 1 [Burīchi 1] (Bleach  #1)",15033,82917,189,"2002-01-05 00:00:00",61295
+10883,"Bleach  Tome 1: The Death and the Strawberry",15033,30647,192,"2003-07-02 00:00:00",40134
+10884,"Escape from Fire Mountain (World of Adventure  #3)",41262,80723,80,"1995-01-01 00:00:00",63362
+10885,"How Angel Peterson Got His Name",36252,80723,111,"2004-08-10 00:00:00",63362
+10886,"Tucket's Travels: Francis Tucket's Adventures In The West  1847-1849 (The Tucket Adventures  #1-5)",36252,38399,560,"2003-09-09 00:00:00",63362
+10887,"Chicago Blues: The City and the Music",NULL,80723,226,"1981-08-22 00:00:00",39071
+10888,"Winterdance: The Fine Madness of Running the Iditarod",36252,80723,272,"1995-02-17 00:00:00",41516
+10889,"Brian's Winter",36252,38399,133,"1996-01-01 00:00:00",67231
+10890,"Robinson Crusoe (Robinson Crusoe #1)",91442,80723,320,"2001-06-12 00:00:00",64682
+10891,"Robinson Crusoe",91188,80723,286,"2003-03-27 00:00:00",78389
+10892,"Robinson Crusoe",39996,38399,436,"1994-12-19 00:00:00",77561
+10893,"Robinson Crusoe",69631,80723,482,"2001-07-01 00:00:00",65791
+10894,"Robinson Crusoe",63521,80723,288,"2006-07-14 00:00:00",34753
+10895,"A General History of the Pyrates",81603,80723,733,"1999-01-26 00:00:00",39193
+10896,"Huck Finn & Tom Sawyer among the Indians & Other Unfinished Stories (Mark Twain Library)",92199,80723,389,"2003-03-15 00:00:00",52083
+10897,"Huck Finn and Tom Sawyer Among the Indians",68043,80723,277,"2003-04-22 00:00:00",12219
+10898,"Huck Finn/Pudd'nhead Wilson/No 44 Mysterious Stranger other Writings",73133,38399,808,"2000-08-01 00:00:00",52951
+10899,"The Adventures of Huckleberry Finn (Adventures of Tom and Huck  #2)",44286,80723,327,"2002-12-31 00:00:00",78389
+10900,"Adventures of Huckleberry Finn",69331,80723,368,"2005-05-06 00:00:00",39193
+10901,"Adventures of Huckleberry Finn",73592,80723,244,"2001-08-14 00:00:00",74480
+10902,"The Annotated Huckleberry Finn",33781,80723,656,"2001-10-17 00:00:00",67248
+10903,"The Wit and Wisdom of Mark Twain",35674,80723,64,"1998-12-23 00:00:00",39193
+10904,"Mark Twain's Helpful Hints for Good Living: A Handbook for the Damned Human Race",59864,80723,221,"2004-10-18 00:00:00",52083
+10905,"The Complete Short Stories of Mark Twain",NULL,80723,848,"1984-03-01 00:00:00",14659
+10906,"The Autobiography of Mark Twain",NULL,80723,508,"2000-11-28 00:00:00",NULL
+10907,"Collected Tales  Sketches  Speeches  & Essays 1891–1910",48558,80723,1050,"1992-10-15 00:00:00",52951
+10908,"Lost Horizon",83816,80723,241,"2004-06-15 00:00:00",NULL
+10909,"Louisa May Alcott's Christmas Treasury",37185,80723,282,"2002-06-01 00:00:00",89896
+10910,"My Secret Garden: Women's Sexual Fantasies",52606,80723,361,"2003-10-28 00:00:00",81992
+10911,"The Secret Garden",77646,80723,331,"1998-09-01 00:00:00",41719
+10912,"The Secret Garden",69813,80723,281,"2003-07-01 00:00:00",39218
+10913,"The Secret Garden",50504,80723,160,"2005-03-01 00:00:00",26301
+10914,"The Secret Garden",18111,91260,288,"2003-01-30 00:00:00",78389
+10915,"A Little Princess",66227,80723,242,"2002-02-26 00:00:00",42484
+10916,"Waiting for the Party: The Life of Frances Hodgson Burnett  1849-1924",47546,80723,274,"1994-09-01 00:00:00",65328
+10917,"The Secret Garden Cookbook: Recipes Inspired by Frances Hodgson Burnett's The Secret Garden",78366,80723,128,"1999-03-19 00:00:00",24928
+10918,"Basic Economics: A Citizen's Guide to the Economy",50247,80723,448,"2003-12-24 00:00:00",22378
+10919,"Basic Economics: A Common Sense Guide to the Economy",50247,80723,627,"2007-04-03 00:00:00",59505
+10920,"Black Rednecks and White Liberals",50247,80723,372,"2005-06-01 00:00:00",91535
+10921,"Applied Economics: Thinking Beyond Stage One",50247,80723,256,"2003-11-13 00:00:00",22378
+10922,"Knowledge And Decisions",50247,80723,422,"1996-10-04 00:00:00",22378
+10923,"A Conflict of Visions: Ideological Origins of Political Struggles",50247,80723,304,"2002-01-03 00:00:00",22378
+10924,"Sir Gawain and the Green Knight",35407,80723,29,"1991-06-27 00:00:00",73360
+10925,"Alcoholics Anonymous",45888,80723,250,"1993-08-01 00:00:00",10120
+10926,"Alcoholics Anonymous",45888,38399,576,"2002-02-10 00:00:00",25670
+10927,"The Twelve Steps & Twelve Traditions of Overeaters Anonymous",54305,38399,221,"1993-01-01 00:00:00",54237
+10928,"The Natural Way to Draw",NULL,38399,240,"1990-02-01 00:00:00",41516
+10929,"Natural Health  Natural Medicine",36618,38399,448,"2004-12-09 00:00:00",41516
+10930,"The Fixer",31290,80723,335,"2004-05-05 00:00:00",67362
+10931,"The Complete Stories",43422,38399,656,"1998-10-12 00:00:00",67362
+10932,"The Assistant",47554,38399,246,"2003-07-07 00:00:00",15528
+10933,"Conversations with Bernard Malamud (Literary Conversations)",63252,80723,184,"1991-03-01 00:00:00",49295
+10934,"The Tenants",78916,80723,248,"2003-09-18 00:00:00",67362
+10935,"Enchanted April: Acting Edition",23624,80723,73,"2004-04-07 00:00:00",52803
+10936,"April  May und June",93906,20069,88,"1995-04-01 00:00:00",82818
+10937,"A Room with a View",NULL,80723,119,"2005-01-01 00:00:00",22325
+10938,"A Room with a View / Howards End",22897,80723,449,"1986-02-04 00:00:00",39218
+10939,"E.M. Forster: Critical Guidebook",74072,80723,208,"1971-01-17 00:00:00",26170
+10940,"The Longest Journey",82475,80723,396,"2006-07-27 00:00:00",78389
+10941,"Howards End",NULL,80723,246,"2002-10-29 00:00:00",39193
+10942,Maurice,NULL,80723,256,"2005-12-17 00:00:00",67248
+10943,"E. M. Forster: A Life",72993,80723,648,"1994-05-02 00:00:00",41516
+10944,"Howards End",NULL,80723,352,"2000-09-28 00:00:00",42484
+10945,"The Sixteen Pleasures",86196,80723,384,"1995-05-01 00:00:00",49117
+10946,"Revolutionary Characters: What Made the Founders Different",52121,80723,336,"2006-05-18 00:00:00",29071
+10947,"The Rescue (Kidnapped  #3)",NULL,80723,140,"2006-09-01 00:00:00",88225
+10948,"Hunting the Hunter (On the Run  #6)",NULL,80723,151,"2006-02-01 00:00:00",66612
+10949,"Public Enemies (On The Run  #5)",NULL,80723,150,"2005-12-01 00:00:00",66612
+10950,"Runaway Bride",89767,80723,390,"1994-09-28 00:00:00",34291
+10951,"The Bridge over the Drina",24070,80723,314,"1995-04-05 00:00:00",24479
+10952,"Drina Dances in Paris",88899,80723,194,"1991-04-01 00:00:00",11092
+10953,"Drina Ballerina",88899,80723,188,"1991-01-17 00:00:00",17932
+10954,"Le Pont sur la Drina",27374,30647,384,"1999-07-05 00:00:00",67003
+10955,"Drina Dances in Italy",88899,80723,191,"1992-08-31 00:00:00",17932
+10956,"Drina Goes on Tour",17212,80723,188,"1991-10-20 00:00:00",11092
+10957,"Drina Dances in Madeira",17212,80723,164,"1991-02-06 00:00:00",11092
+10958,Phaedrus/Apology/Crito/Symposium,72465,38399,144,"2006-01-01 00:00:00",22325
+10959,"The Dialogues of Plato  Volume 1: Euthyphro  Apology  Crito  Meno  Gorgias  Menexenus",16230,80723,352,"1989-09-10 00:00:00",53777
+10960,Gorgias/Timaeus,72465,80723,256,"2003-07-15 00:00:00",39193
+10961,"Minor Works: On Colours/On Things Heard/Physiognomics/On Plants/On Marvellous Things Heard/Mechanical Problems/On Indivisible Lines/The...Gorgias",60104,84232,528,"1963-06-28 00:00:00",58293
+10962,"Aristophanes I: Clouds/Wasps/Birds",20061,80723,480,"1998-09-01 00:00:00",21637
+10963,"The Trojan Women",NULL,80723,80,"2006-01-01 00:00:00",22325
+10964,"Greek Tragedies  Volume 2",59500,80723,304,"1960-02-15 00:00:00",28913
+10965,"Moloka'i (Moloka'i #1)",30674,80723,405,"2004-10-04 00:00:00",75811
+10966,"Teaching with the Brain in Mind",80974,80723,186,"2005-06-15 00:00:00",53081
+10967,"Introducing Mind and Brain (Introducing...)",49305,91260,176,"2001-05-10 00:00:00",23581
+10968,"Eva Luna",62157,80723,320,"2005-08-30 00:00:00",90194
+10969,"The Stories of Eva Luna",77535,80723,352,"2001-11-13 00:00:00",41728
+10970,"Diez Cuentos de Eva Luna Con Guia de Comprension y Repaso de Gramatica",58531,80723,256,"1994-12-01 00:00:00",20824
+10971,"El bosque de los pigmeos",77535,66092,304,"2005-09-06 00:00:00",47193
+10972,"Inés of My Soul",62157,80723,321,"2006-11-07 00:00:00",23030
+10973,"La casa de los espíritus",77535,66092,454,"2001-09-18 00:00:00",47193
+10974,"El plan infinito",77535,66092,336,"2002-05-14 00:00:00",NULL
+10975,"El reino del dragón de oro",77535,66092,432,"2004-09-07 00:00:00",47193
+10976,"City of the Beasts (Eagle and Jaguar  #1)",62157,80723,408,"2004-04-27 00:00:00",80265
+10977,Self,19365,80723,331,"2003-04-07 00:00:00",76176
+10978,"Die Brücke über die Drina",99453,20069,407,"2003-03-01 00:00:00",24079
+10979,"Drina Dances in Switzerland",83585,80723,188,"1993-08-23 00:00:00",86033
+10980,"The Story of Salt",62552,80723,48,"2006-09-07 00:00:00",66459
+10981,"Nonviolence: Twenty-Five Lessons from the History of a Dangerous Idea",48243,80723,203,"2006-09-12 00:00:00",64682
+10982,"Boogaloo on 2nd Avenue",67478,80723,319,"2006-02-28 00:00:00",36592
+10983,"Cod: A Biography of the Fish That Changed the World",67478,80723,294,"1998-07-01 00:00:00",42484
+10984,"1968: The Year That Rocked the World",67478,80723,480,"2005-01-11 00:00:00",69569
+10985,"A Chosen Few: The Resurrection of European Jewry (Reader's Circle)",67478,80723,456,"2002-03-26 00:00:00",81639
+10986,"The Basque History of the World: The Story of a Nation",67478,80723,400,"2001-02-01 00:00:00",42484
+10987,"The Cod's Tale",62552,80723,48,"2001-09-10 00:00:00",66459
+10988,"Open City 6: The Only Woman He Ever Left",NULL,80723,200,"2000-10-13 00:00:00",75300
+10989,"Harry Potter Y La Piedra Filosofal (Harry Potter  #1)",47320,66092,254,"2001-03-06 00:00:00",18824
+10990,"Angle of Repose",72194,80723,557,"2000-12-01 00:00:00",78389
+10991,"Don't Make Me Think: A Common Sense Approach to Web Usability",69421,38399,201,"2005-08-28 00:00:00",32979
+10992,"Girlfriend in a Coma",16591,80723,288,"1999-03-01 00:00:00",13675
+10993,"Corelli's Mandolin",77615,80723,437,"1995-08-29 00:00:00",86600
+10994,"Kiffe Kiffe Tomorrow",17457,80723,179,"2006-07-03 00:00:00",41516
+10995,"Our Kind of People: Inside America's Black Upper Class",NULL,38399,406,"1999-12-22 00:00:00",NULL
+10996,"The Senator and the Socialite: The True Story of America's First Black Dynasty",NULL,80723,480,"2006-06-27 00:00:00",23030
+10997,Temptations,62829,80723,304,"2002-06-25 00:00:00",83076
+10998,"The Thorn Birds",60561,80723,673,"2005-09-06 00:00:00",46181
+10999,"Caesar (Masters of Rome  #5)",60561,80723,928,"2003-01-28 00:00:00",34291
+11000,"Caesar's Women (Masters of Rome  #4)",60561,80723,943,"1997-02-01 00:00:00",34291

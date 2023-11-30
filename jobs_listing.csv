@@ -1,0 +1,1001 @@
+job id,job title 1,job title 2,published date,removed date,SALARY ESTIMATE,COMPANY_NAME,COMPANY_RANK,STATE_OF_COMPANY,HEADQUARTERS_OF_COMPANY,COMPANY_SIZE,COMPANY_MARKET_VALUE
+1,Administrative,Assistant II,2020-05-27 15:29:13,2020-07-04 15:29:13,67K-143K,Kwilith,5.0,          Virginia         ,Arlington,40.0 to 68.0 employees,734.2857142857142
+2,Software,Engineer II,2020-04-28 16:39:35,2020-07-20 16:39:35,31K-180K,Photojam,6.0,          Florida         ,Cape Coral,50.0 to 85.0 employees,770.0
+3,Physical,Therapy Assistant,2016-10-14 10:24:03,2016-12-18 10:24:03,50K-121K,Gabvine,5.0,          Colorado         ,,40.0 to 68.0 employees,734.2857142857142
+4,Research,Assistant I,2016-11-14 04:18:12,2017-01-21 04:18:12,40K-182K,Lajo,2.0,          Texas         ,Abilene,10.0 to 17.0 employees,520.0
+5,Assistant,Professor,2018-02-25 06:44:02,2018-04-22 06:44:02,16K-185K,Avaveo,4.0,          Texas         ,Austin,30.0 to 51.0 employees,686.6666666666666
+6,Database,Administrator II,2019-02-14 14:00:53,2019-03-05 14:00:53,18K-104K,Brainverse,8.0,          Illinois         ,Peoria,70.0 to 119.0 employees,820.0
+7,Account,Coordinator,2018-07-27 10:17:18,2018-08-01 10:17:18,93K-106K,Linklinks,7.0,          Florida         ,Miami,60.0 to 102.0 employees,797.7777777777777
+8,Associate,Professor,2016-05-03 02:56:17,2016-07-03 02:56:17,50K-196K,Tazzy,3.0,          Ohio         ,Cleveland,20.0 to 34.0 employees,620.0
+9,Budget/Accounting,Analyst IV,2019-11-15 07:43:27,2019-12-10 07:43:27,32K-112K,Wikizz,4.0,          Arkansas         ,North Little Rock,30.0 to 51.0 employees,686.6666666666666
+10,Database,Administrator I,2017-10-01 13:19:22,2017-10-23 13:19:22,88K-157K,Linktype,6.0,          Virginia         ,Suffolk,50.0 to 85.0 employees,770.0
+11,VP,Marketing,2017-08-03 02:32:01,2017-08-07 02:32:01,49K-172K,Mybuzz,4.0,          Virginia         ,Virginia Beach,30.0 to 51.0 employees,686.6666666666666
+12,Nurse,,2016-10-13 17:47:31,2016-12-14 17:47:31,73K-182K,Shuffledrive,10.0,          Arizona         ,Phoenix,90.0 to 153.0 employees,853.3333333333335
+13,Account,Coordinator,2020-08-25 07:23:03,2020-11-10 07:23:03,91K-198K,Skalith,5.0,          Florida         ,West Palm Beach,40.0 to 68.0 employees,734.2857142857142
+14,Sales,Associate,2020-10-30 15:37:50,2021-01-31 15:37:50,86K-200K,Eabox,3.0,          Arkansas         ,North Little Rock,20.0 to 34.0 employees,620.0
+15,Quality,Engineer,2017-08-14 04:20:43,2017-09-19 04:20:43,72K-113K,Gigaclub,6.0,          Missouri         ,Kansas City,50.0 to 85.0 employees,770.0
+16,Research,Nurse,2019-02-02 05:05:24,2019-04-12 05:05:24,26K-132K,Edgeclub,6.0,          Ohio         ,Cincinnati,50.0 to 85.0 employees,770.0
+17,Systems,Administrator III,2016-03-10 15:56:12,2016-05-05 15:56:12,85K-114K,Roomm,3.0,          Texas         ,Dallas,20.0 to 34.0 employees,620.0
+18,Speech,Pathologist,2019-11-14 11:36:19,2019-11-30 11:36:19,89K-172K,Realbuzz,6.0,          Texas         ,El Paso,50.0 to 85.0 employees,770.0
+19,Executive,Secretary,2020-03-13 16:11:53,2020-06-10 16:11:53,36K-108K,Skippad,5.0,          District of Columbia         ,Washington,40.0 to 68.0 employees,734.2857142857142
+20,Account,Representative III,2016-10-25 16:43:40,2017-02-02 16:43:40,92K-155K,Devbug,4.0,          Connecticut         ,Hartford,30.0 to 51.0 employees,686.6666666666666
+21,Human,Resources Manager,2021-01-17 13:55:42,2021-03-08 13:55:42,87K-129K,Abatz,3.0,          Utah         ,Salt Lake City,20.0 to 34.0 employees,620.0
+22,Registered,Nurse,2020-04-13 09:37:09,2020-05-23 09:37:09,30K-173K,Twitterlist,9.0,          Nevada         ,Carson City,80.0 to 136.0 employees,838.1818181818182
+23,Environmental,Specialist,2020-06-03 17:47:55,2020-07-17 17:47:55,10K-103K,Eidel,3.0,          Ohio         ,Dayton,20.0 to 34.0 employees,620.0
+24,Account,Executive,2017-10-08 04:43:52,2017-12-30 04:43:52,55K-105K,Realfire,6.0,          Minnesota         ,Duluth,50.0 to 85.0 employees,770.0
+25,Internal,Auditor,2019-03-02 20:05:00,2019-05-23 20:05:00,67K-198K,Thoughtstorm,10.0,          Texas         ,Corpus Christi,90.0 to 153.0 employees,853.3333333333335
+26,Food,Chemist,2016-08-29 07:19:20,2016-12-03 07:19:20,100K-153K,Flipbug,5.0,          Louisiana         ,Baton Rouge,40.0 to 68.0 employees,734.2857142857142
+27,Environmental,Specialist,2019-03-06 12:25:40,2019-05-21 12:25:40,25K-182K,Vinder,4.0,          Indiana         ,Evansville,30.0 to 51.0 employees,686.6666666666666
+28,Administrative,Assistant I,2020-12-14 11:21:35,2021-01-27 11:21:35,45K-170K,Flashdog,6.0,          Florida         ,Pensacola,50.0 to 85.0 employees,770.0
+29,Research,Nurse,2018-09-19 08:21:13,2018-11-27 08:21:13,70K-176K,Tambee,4.0,          California         ,Visalia,30.0 to 51.0 employees,686.6666666666666
+30,Recruiting,Manager,2017-02-03 15:41:21,2017-03-27 15:41:21,46K-178K,Feedbug,5.0,          Georgia         ,Atlanta,40.0 to 68.0 employees,734.2857142857142
+31,Structural,Analysis Engineer,2017-06-03 17:06:07,2017-06-06 17:06:07,94K-143K,Jabberbean,8.0,          New Jersey         ,Camden,70.0 to 119.0 employees,820.0
+32,Sales,Representative,2017-08-10 18:41:24,2017-09-12 18:41:24,25K-190K,Dabtype,5.0,          Florida         ,Lehigh Acres,40.0 to 68.0 employees,734.2857142857142
+33,Pharmacist,,2018-11-01 02:48:20,2019-02-01 02:48:20,13K-163K,Oba,1.0,          Connecticut         ,Fairfield,0.0 to 0.0 employees,353.33333333333326
+34,VP,Marketing,2020-08-01 21:12:51,2020-09-24 21:12:51,90K-110K,Oyope,3.0,          North Carolina         ,Winston Salem,20.0 to 34.0 employees,620.0
+35,Help,Desk Technician,2016-04-11 08:05:27,2016-05-03 08:05:27,12K-135K,Roodel,4.0,          Virginia         ,Richmond,30.0 to 51.0 employees,686.6666666666666
+36,Health,Coach IV,2019-01-13 00:47:33,2019-03-14 00:47:33,9K-132K,Latz,2.0,          California         ,Van Nuys,10.0 to 17.0 employees,520.0
+37,Project,Manager,2018-07-08 10:55:40,2018-07-26 10:55:40,73K-158K,Latz,2.0,          Michigan         ,Flint,10.0 to 17.0 employees,520.0
+38,VP,Quality Control,2020-12-07 14:55:47,2021-03-10 14:55:47,88K-111K,Topdrive,6.0,          Illinois         ,Chicago,50.0 to 85.0 employees,770.0
+39,Software,Engineer III,2020-05-07 16:47:12,2020-07-08 16:47:12,96K-162K,Livetube,6.0,          California         ,San Diego,50.0 to 85.0 employees,770.0
+40,Graphic,Designer,2020-02-24 19:02:53,2020-04-18 19:02:53,98K-103K,Buzzster,6.0,          Texas         ,Katy,50.0 to 85.0 employees,770.0
+41,Help,Desk Operator,2018-04-19 09:57:56,2018-07-09 09:57:56,66K-154K,Voolith,5.0,          Texas         ,Bryan,40.0 to 68.0 employees,734.2857142857142
+42,Media,Manager I,2019-03-25 06:16:46,2019-04-13 06:16:46,4K-154K,Buzzbean,6.0,          Texas         ,Corpus Christi,50.0 to 85.0 employees,770.0
+43,Actuary,,2019-08-05 00:52:23,2019-11-07 00:52:23,69K-200K,Abatz,3.0,          New York         ,White Plains,20.0 to 34.0 employees,620.0
+44,Biostatistician,II,2020-11-03 00:28:10,2020-12-25 00:28:10,12K-180K,Zoombox,5.0,          Missouri         ,Columbia,40.0 to 68.0 employees,734.2857142857142
+45,Teacher,,2017-12-04 16:56:43,2018-02-05 16:56:43,53K-124K,Buzzbean,6.0,          New York         ,Flushing,50.0 to 85.0 employees,770.0
+46,Data,Coordiator,2020-03-29 10:42:59,2020-04-25 10:42:59,3K-189K,LiveZ,3.0,          Minnesota         ,Duluth,20.0 to 34.0 employees,620.0
+47,Engineer,IV,2018-03-01 12:47:33,2018-03-28 12:47:33,4K-139K,Rhynoodle,7.0,          Indiana         ,Indianapolis,60.0 to 102.0 employees,797.7777777777777
+48,Analyst,Programmer,2021-01-10 03:38:44,2021-02-05 03:38:44,28K-167K,Eayo,2.0,          New York         ,Brooklyn,10.0 to 17.0 employees,520.0
+49,Professor,,2018-04-10 12:09:25,2018-04-14 12:09:25,86K-189K,Mydeo,3.0,          Florida         ,Clearwater,20.0 to 34.0 employees,620.0
+50,Physical,Therapy Assistant,2020-08-05 16:43:55,2020-10-03 16:43:55,24K-145K,Zoomlounge,8.0,          New York         ,New York City,70.0 to 119.0 employees,820.0
+51,Librarian,,2017-10-03 08:03:58,2017-12-13 08:03:58,42K-150K,Skyble,4.0,          Illinois         ,Springfield,30.0 to 51.0 employees,686.6666666666666
+52,Software,Engineer II,2018-05-11 07:02:23,2018-06-06 07:02:23,100K-189K,Pixope,4.0,          Florida         ,Saint Petersburg,30.0 to 51.0 employees,686.6666666666666
+53,Associate,Professor,2016-03-23 11:40:52,2016-06-02 11:40:52,95K-117K,Linklinks,7.0,          Kentucky         ,Lexington,60.0 to 102.0 employees,797.7777777777777
+54,Geological,Engineer,2017-07-01 02:25:56,2017-09-01 02:25:56,67K-170K,Devbug,4.0,          Texas         ,Denton,30.0 to 51.0 employees,686.6666666666666
+55,Community,Outreach Specialist,2017-01-07 06:03:01,2017-01-15 06:03:01,17K-173K,Shuffledrive,10.0,          Florida         ,Lehigh Acres,90.0 to 153.0 employees,853.3333333333335
+56,Sales,Representative,2021-01-14 09:38:26,2021-03-26 09:38:26,38K-112K,Viva,2.0,          Florida         ,Clearwater,10.0 to 17.0 employees,520.0
+57,Software,Consultant,2017-04-01 22:34:16,2017-04-21 22:34:16,74K-195K,Voonix,4.0,          Mississippi         ,Jackson,30.0 to 51.0 employees,686.6666666666666
+58,Librarian,,2017-03-31 01:02:32,2017-04-15 01:02:32,55K-188K,Wordpedia,7.0,          Mississippi         ,Meridian,60.0 to 102.0 employees,797.7777777777777
+59,Human,Resources Assistant I,2018-04-26 16:49:35,2018-05-15 16:49:35,62K-163K,Skiptube,6.0,          Texas         ,Dallas,50.0 to 85.0 employees,770.0
+60,Executive,Secretary,2020-06-05 18:37:44,2020-08-20 18:37:44,57K-199K,Tanoodle,6.0,          Indiana         ,South Bend,50.0 to 85.0 employees,770.0
+61,Librarian,,2018-01-26 14:50:44,2018-03-13 14:50:44,98K-186K,Rhybox,4.0,          Colorado         ,,30.0 to 51.0 employees,686.6666666666666
+62,Human,Resources Manager,2018-01-29 02:17:16,2018-04-03 02:17:16,81K-101K,Skyvu,3.0,          California         ,Irvine,20.0 to 34.0 employees,620.0
+63,Project,Manager,2020-01-26 03:24:40,2020-04-06 03:24:40,14K-171K,Kayveo,4.0,          Virginia         ,Roanoke,30.0 to 51.0 employees,686.6666666666666
+64,Physical,Therapy Assistant,2019-08-11 22:56:09,2019-08-29 22:56:09,42K-133K,Blogpad,5.0,          Virginia         ,Richmond,40.0 to 68.0 employees,734.2857142857142
+65,Account,Executive,2017-02-15 12:42:23,2017-03-03 12:42:23,4K-143K,Buzzster,6.0,          Nebraska         ,Omaha,50.0 to 85.0 employees,770.0
+66,Physical,Therapy Assistant,2016-08-20 00:59:38,2016-10-25 00:59:38,50K-104K,Eidel,3.0,          Louisiana         ,Shreveport,20.0 to 34.0 employees,620.0
+67,Safety,Technician IV,2018-07-02 13:45:12,2018-08-06 13:45:12,100K-132K,Oyoloo,4.0,          Texas         ,Amarillo,30.0 to 51.0 employees,686.6666666666666
+68,Senior,Sales Associate,2019-02-19 07:17:24,2019-04-04 07:17:24,15K-166K,Plambee,5.0,          Texas         ,Bryan,40.0 to 68.0 employees,734.2857142857142
+69,Chief,Design Engineer,2017-09-20 04:58:53,2017-10-20 04:58:53,81K-121K,Voomm,3.0,          California         ,Salinas,20.0 to 34.0 employees,620.0
+70,Physical,Therapy Assistant,2020-06-28 03:54:51,2020-07-24 03:54:51,63K-125K,Twitterbeat,9.0,          Florida         ,Miami,80.0 to 136.0 employees,838.1818181818182
+71,Senior,Editor,2018-05-16 20:08:43,2018-07-30 20:08:43,63K-171K,Blognation,8.0,          District of Columbia         ,Washington,70.0 to 119.0 employees,820.0
+72,Senior,Financial Analyst,2021-01-10 04:38:28,2021-04-14 04:38:28,78K-113K,Realbuzz,6.0,          Georgia         ,Columbus,50.0 to 85.0 employees,770.0
+73,Senior,Sales Associate,2016-06-04 21:00:42,2016-08-17 21:00:42,27K-136K,Tavu,2.0,          Pennsylvania         ,Philadelphia,10.0 to 17.0 employees,520.0
+74,Business,Systems Development Analyst,2019-11-11 07:06:56,2019-12-26 07:06:56,24K-176K,Zoovu,3.0,          Hawaii         ,Honolulu,20.0 to 34.0 employees,620.0
+75,Office,Assistant IV,2019-05-30 02:43:55,2019-06-23 02:43:55,27K-145K,Ooba,2.0,          Tennessee         ,Knoxville,10.0 to 17.0 employees,520.0
+76,Sales,Associate,2016-09-05 13:02:45,2016-10-31 13:02:45,91K-146K,Trudoo,4.0,          Colorado         ,Littleton,30.0 to 51.0 employees,686.6666666666666
+77,Programmer,Analyst IV,2016-08-24 08:44:17,2016-10-26 08:44:17,10K-126K,Jazzy,3.0,          North Carolina         ,Greensboro,20.0 to 34.0 employees,620.0
+78,VP,Product Management,2018-08-05 16:29:07,2018-09-26 16:29:07,77K-171K,Devshare,6.0,          Texas         ,Austin,50.0 to 85.0 employees,770.0
+79,Environmental,Tech,2018-05-15 14:41:28,2018-06-13 14:41:28,65K-176K,Jetpulse,6.0,          Illinois         ,Springfield,50.0 to 85.0 employees,770.0
+80,Chief,Design Engineer,2018-08-24 06:38:10,2018-09-22 06:38:10,38K-169K,Plajo,3.0,          Florida         ,Tampa,20.0 to 34.0 employees,620.0
+81,Speech,Pathologist,2017-05-09 07:46:16,2017-07-08 07:46:16,25K-163K,Dynazzy,5.0,          Louisiana         ,New Orleans,40.0 to 68.0 employees,734.2857142857142
+82,Tax,Accountant,2017-12-26 05:23:13,2018-01-14 05:23:13,73K-131K,Linkbuzz,6.0,          Texas         ,Dallas,50.0 to 85.0 employees,770.0
+83,Assistant,Professor,2017-09-11 22:08:54,2017-10-16 22:08:54,42K-115K,Gigazoom,6.0,          California         ,Burbank,50.0 to 85.0 employees,770.0
+84,Statistician,I,2018-01-10 15:11:12,2018-03-05 15:11:12,76K-128K,Ooba,2.0,          Illinois         ,Chicago,10.0 to 17.0 employees,520.0
+85,Paralegal,,2021-01-10 16:13:49,2021-03-12 16:13:49,27K-197K,Kaymbo,4.0,          North Dakota         ,Bismarck,30.0 to 51.0 employees,686.6666666666666
+86,Database,Administrator II,2016-02-11 12:49:37,2016-03-07 12:49:37,50K-110K,Realblab,6.0,          Louisiana         ,Baton Rouge,50.0 to 85.0 employees,770.0
+87,Design,Engineer,2016-05-24 08:32:27,2016-08-11 08:32:27,55K-155K,Zooveo,4.0,          Tennessee         ,Nashville,30.0 to 51.0 employees,686.6666666666666
+88,Clinical,Specialist,2016-04-25 02:11:46,2016-07-14 02:11:46,14K-119K,Jamia,3.0,          Texas         ,Garland,20.0 to 34.0 employees,620.0
+89,VP,Quality Control,2020-01-01 04:05:38,2020-01-26 04:05:38,13K-152K,Quatz,3.0,          Indiana         ,Fort Wayne,20.0 to 34.0 employees,620.0
+90,Internal,Auditor,2017-01-24 07:44:51,2017-04-07 07:44:51,28K-131K,Oyonder,5.0,          Pennsylvania         ,Scranton,40.0 to 68.0 employees,734.2857142857142
+91,Junior,Executive,2019-01-26 16:51:52,2019-03-12 16:51:52,5K-176K,Edgeclub,6.0,          Pennsylvania         ,Pittsburgh,50.0 to 85.0 employees,770.0
+92,Administrative,Assistant IV,2016-12-26 17:47:07,2017-01-19 17:47:07,53K-133K,Innojam,5.0,          Delaware         ,Newark,40.0 to 68.0 employees,734.2857142857142
+93,Web,Developer IV,2020-08-24 19:45:02,2020-11-09 19:45:02,30K-155K,Omba,2.0,          Minnesota         ,Minneapolis,10.0 to 17.0 employees,520.0
+94,Structural,Analysis Engineer,2018-10-26 07:54:22,2019-01-01 07:54:22,95K-120K,Zoonder,5.0,          Texas         ,San Antonio,40.0 to 68.0 employees,734.2857142857142
+95,Civil,Engineer,2018-01-23 11:37:01,2018-01-28 11:37:01,32K-124K,Kwideo,4.0,          Illinois         ,Chicago,30.0 to 51.0 employees,686.6666666666666
+96,Librarian,,2017-11-22 13:29:49,2017-12-21 13:29:49,17K-134K,Youspan,5.0,          New Mexico         ,Albuquerque,40.0 to 68.0 employees,734.2857142857142
+97,Community,Outreach Specialist,2018-02-03 10:41:47,2018-03-29 10:41:47,77K-181K,Skaboo,4.0,          Alabama         ,Montgomery,30.0 to 51.0 employees,686.6666666666666
+98,Teacher,,2019-10-12 13:37:05,2019-10-25 13:37:05,90K-105K,Quimba,4.0,          Arizona         ,Phoenix,30.0 to 51.0 employees,686.6666666666666
+99,Structural,Engineer,2020-02-02 11:28:00,2020-05-04 11:28:00,100K-150K,Voonyx,4.0,          California         ,Santa Clara,30.0 to 51.0 employees,686.6666666666666
+100,Chemical,Engineer,2021-02-01 07:07:57,2021-02-11 07:07:57,34K-116K,Vipe,2.0,          Florida         ,Saint Petersburg,10.0 to 17.0 employees,520.0
+101,Assistant,Media Planner,2020-08-18 08:12:02,2020-11-12 08:12:02,88K-111K,Gigabox,5.0,          Texas         ,Wichita Falls,40.0 to 68.0 employees,734.2857142857142
+102,Chemical,Engineer,2016-10-19 23:20:20,2016-11-12 23:20:20,72K-164K,Fliptune,6.0,          California         ,Riverside,50.0 to 85.0 employees,770.0
+103,Staff,Accountant I,2020-03-31 07:06:03,2020-05-21 07:06:03,32K-121K,Riffpath,6.0,          Florida         ,Orlando,50.0 to 85.0 employees,770.0
+104,Product,Engineer,2019-11-24 20:07:38,2019-12-05 20:07:38,97K-113K,Tanoodle,6.0,          California         ,San Jose,50.0 to 85.0 employees,770.0
+105,Chemical,Engineer,2020-09-07 09:59:20,2020-12-10 09:59:20,69K-174K,Bubblemix,7.0,          District of Columbia         ,Washington,60.0 to 102.0 employees,797.7777777777777
+106,Software,Engineer IV,2017-09-22 00:19:12,2017-09-30 00:19:12,44K-101K,Voomm,3.0,          Illinois         ,Rockford,20.0 to 34.0 employees,620.0
+107,Recruiting,Manager,2017-06-15 12:58:21,2017-08-04 12:58:21,82K-131K,Wikivu,4.0,          California         ,Fresno,30.0 to 51.0 employees,686.6666666666666
+108,Research,Associate,2020-05-24 18:17:47,2020-07-21 18:17:47,90K-112K,Babbleopia,8.0,          Oregon         ,Portland,70.0 to 119.0 employees,820.0
+109,Human,Resources Manager,2020-04-24 01:04:17,2020-07-23 01:04:17,98K-109K,Edgetag,5.0,          Florida         ,Clearwater,40.0 to 68.0 employees,734.2857142857142
+110,Technical,Writer,2019-11-01 18:35:48,2019-11-07 18:35:48,35K-102K,Riffwire,6.0,          California         ,Richmond,50.0 to 85.0 employees,770.0
+111,Social,Worker,2020-12-27 10:51:39,2021-02-27 10:51:39,22K-174K,Gabvine,5.0,          Michigan         ,Lansing,40.0 to 68.0 employees,734.2857142857142
+112,Account,Executive,2018-01-05 18:43:20,2018-02-07 18:43:20,2K-135K,Trilith,5.0,          Missouri         ,Kansas City,40.0 to 68.0 employees,734.2857142857142
+113,Graphic,Designer,2019-02-04 10:46:41,2019-03-06 10:46:41,43K-197K,Dynabox,5.0,          Pennsylvania         ,Philadelphia,40.0 to 68.0 employees,734.2857142857142
+114,Financial,Analyst,2018-07-09 14:35:20,2018-08-10 14:35:20,58K-171K,Photojam,6.0,          Texas         ,Dallas,50.0 to 85.0 employees,770.0
+115,Analog,Circuit Design manager,2019-01-25 23:08:32,2019-04-20 23:08:32,31K-129K,Photojam,6.0,          Connecticut         ,Stamford,50.0 to 85.0 employees,770.0
+116,Community,Outreach Specialist,2018-12-11 05:51:28,2019-01-06 05:51:28,22K-175K,Layo,2.0,          Texas         ,El Paso,10.0 to 17.0 employees,520.0
+117,Quality,Engineer,2017-10-19 18:19:46,2017-10-29 18:19:46,66K-188K,JumpXS,4.0,          Arizona         ,Phoenix,30.0 to 51.0 employees,686.6666666666666
+118,Accountant,IV,2019-11-17 17:15:19,2020-01-30 17:15:19,37K-171K,Twitterwire,9.0,          Colorado         ,Denver,80.0 to 136.0 employees,838.1818181818182
+119,Account,Representative II,2017-12-29 08:33:52,2018-03-01 08:33:52,52K-164K,Tagfeed,5.0,          Virginia         ,Newport News,40.0 to 68.0 employees,734.2857142857142
+120,Technical,Writer,2018-04-03 16:43:50,2018-06-27 16:43:50,22K-143K,Youtags,5.0,          New Jersey         ,Newark,40.0 to 68.0 employees,734.2857142857142
+121,Registered,Nurse,2016-08-02 03:54:35,2016-08-31 03:54:35,69K-196K,Quimba,4.0,          Mississippi         ,Jackson,30.0 to 51.0 employees,686.6666666666666
+122,Accounting,Assistant III,2017-01-13 05:37:13,2017-02-16 05:37:13,30K-150K,Tagopia,5.0,          Louisiana         ,New Orleans,40.0 to 68.0 employees,734.2857142857142
+123,Structural,Engineer,2016-10-27 21:20:46,2017-01-25 21:20:46,64K-131K,Jaloo,3.0,          Florida         ,Pensacola,20.0 to 34.0 employees,620.0
+124,Sales,Associate,2020-08-13 16:04:45,2020-09-27 16:04:45,100K-101K,Oba,1.0,          Missouri         ,Saint Louis,0.0 to 0.0 employees,353.33333333333326
+125,Quality,Engineer,2016-06-21 07:14:15,2016-08-18 07:14:15,30K-192K,Realpoint,7.0,          Ohio         ,Columbus,60.0 to 102.0 employees,797.7777777777777
+126,Social,Worker,2017-12-16 18:20:12,2018-01-10 18:20:12,39K-178K,Wikizz,4.0,          Texas         ,Plano,30.0 to 51.0 employees,686.6666666666666
+127,Systems,Administrator III,2018-05-26 03:31:52,2018-05-29 03:31:52,59K-124K,Avaveo,4.0,          Texas         ,San Antonio,30.0 to 51.0 employees,686.6666666666666
+128,Structural,Engineer,2017-08-25 15:54:14,2017-11-20 15:54:14,22K-101K,Gigaclub,6.0,          Indiana         ,Indianapolis,50.0 to 85.0 employees,770.0
+129,Recruiter,,2016-08-21 23:57:29,2016-10-19 23:57:29,36K-148K,Flipstorm,7.0,          Washington         ,Spokane,60.0 to 102.0 employees,797.7777777777777
+130,Biostatistician,IV,2020-06-19 05:01:44,2020-09-20 05:01:44,35K-141K,Jetwire,5.0,          Michigan         ,Lansing,40.0 to 68.0 employees,734.2857142857142
+131,Account,Representative I,2016-07-29 15:48:50,2016-10-12 15:48:50,84K-142K,Quamba,4.0,          Mississippi         ,Meridian,30.0 to 51.0 employees,686.6666666666666
+132,Registered,Nurse,2017-09-09 10:21:13,2017-10-16 10:21:13,23K-143K,Voomm,3.0,          Kansas         ,Shawnee Mission,20.0 to 34.0 employees,620.0
+133,Senior,Cost Accountant,2016-11-08 19:11:51,2017-01-25 19:11:51,13K-115K,Vinte,3.0,          Illinois         ,Chicago,20.0 to 34.0 employees,620.0
+134,Account,Representative I,2019-08-20 11:13:56,2019-11-26 11:13:56,80K-105K,Linktype,6.0,          Texas         ,Houston,50.0 to 85.0 employees,770.0
+135,Structural,Engineer,2020-08-05 19:35:32,2020-09-24 19:35:32,21K-132K,Avamba,4.0,          Texas         ,Houston,30.0 to 51.0 employees,686.6666666666666
+136,Cost,Accountant,2017-05-07 17:47:58,2017-05-09 17:47:58,87K-149K,Browsecat,7.0,          Oklahoma         ,Tulsa,60.0 to 102.0 employees,797.7777777777777
+137,Legal,Assistant,2018-06-21 21:07:09,2018-07-12 21:07:09,49K-197K,Devcast,5.0,          Florida         ,Fort Myers,40.0 to 68.0 employees,734.2857142857142
+138,Help,Desk Operator,2021-01-14 23:34:56,2021-01-27 23:34:56,91K-102K,Skyvu,3.0,          Oklahoma         ,Oklahoma City,20.0 to 34.0 employees,620.0
+139,Research,Associate,2020-02-01 17:10:23,2020-04-21 17:10:23,84K-162K,Einti,3.0,          Texas         ,El Paso,20.0 to 34.0 employees,620.0
+140,Assistant,Media Planner,2020-08-28 05:17:32,2020-11-10 05:17:32,17K-132K,Kwideo,4.0,          Texas         ,Dallas,30.0 to 51.0 employees,686.6666666666666
+141,Senior,Cost Accountant,2019-11-03 16:18:37,2019-12-30 16:18:37,50K-102K,Minyx,3.0,          Georgia         ,Athens,20.0 to 34.0 employees,620.0
+142,Environmental,Specialist,2017-07-25 20:10:58,2017-08-02 20:10:58,67K-140K,Topicstorm,8.0,          West Virginia         ,Huntington,70.0 to 119.0 employees,820.0
+143,Payment,Adjustment Coordinator,2016-07-26 03:06:52,2016-09-11 03:06:52,38K-147K,Gevee,3.0,          Florida         ,Daytona Beach,20.0 to 34.0 employees,620.0
+144,Research,Nurse,2020-06-17 06:19:51,2020-08-11 06:19:51,47K-131K,Livetube,6.0,          District of Columbia         ,Washington,50.0 to 85.0 employees,770.0
+145,Structural,Analysis Engineer,2018-12-11 06:00:48,2019-01-09 06:00:48,33K-131K,Eamia,3.0,          Hawaii         ,Honolulu,20.0 to 34.0 employees,620.0
+146,Food,Chemist,2019-02-03 03:03:16,2019-05-02 03:03:16,88K-123K,Flipopia,6.0,          New York         ,Flushing,50.0 to 85.0 employees,770.0
+147,Product,Engineer,2016-12-29 06:31:42,2017-01-19 06:31:42,50K-110K,Chatterbridge,11.0,          Florida         ,Fort Lauderdale,100.0 to 170.0 employees,866.1538461538463
+148,Business,Systems Development Analyst,2020-06-17 06:16:20,2020-09-01 06:16:20,77K-120K,Yodoo,3.0,          Illinois         ,Peoria,20.0 to 34.0 employees,620.0
+149,Senior,Editor,2017-02-08 15:06:27,2017-02-19 15:06:27,96K-123K,Skynoodle,7.0,          Louisiana         ,Lake Charles,60.0 to 102.0 employees,797.7777777777777
+150,Programmer,Analyst IV,2019-09-19 20:55:48,2019-10-16 20:55:48,43K-116K,Topiczoom,7.0,          Iowa         ,Des Moines,60.0 to 102.0 employees,797.7777777777777
+151,Staff,Accountant III,2016-09-19 00:59:49,2016-11-03 00:59:49,15K-102K,Oyondu,4.0,          California         ,Santa Barbara,30.0 to 51.0 employees,686.6666666666666
+152,Senior,Financial Analyst,2019-09-25 22:01:46,2019-12-12 22:01:46,78K-197K,Oozz,2.0,          Louisiana         ,Baton Rouge,10.0 to 17.0 employees,520.0
+153,Pharmacist,,2019-09-11 23:46:53,2019-11-07 23:46:53,86K-187K,Oozz,2.0,          Texas         ,San Antonio,10.0 to 17.0 employees,520.0
+154,Environmental,Tech,2020-02-20 19:54:33,2020-02-29 19:54:33,28K-131K,Thoughtbeat,9.0,          Florida         ,Miami Beach,80.0 to 136.0 employees,838.1818181818182
+155,Research,Assistant IV,2018-01-01 06:02:54,2018-03-12 06:02:54,75K-138K,Skiptube,6.0,          North Carolina         ,Charlotte,50.0 to 85.0 employees,770.0
+156,Structural,Analysis Engineer,2018-09-15 10:11:39,2018-11-17 10:11:39,88K-177K,Photojam,6.0,          North Carolina         ,Charlotte,50.0 to 85.0 employees,770.0
+157,Internal,Auditor,2017-05-16 04:33:00,2017-07-30 04:33:00,59K-157K,Skidoo,4.0,          Arizona         ,Glendale,30.0 to 51.0 employees,686.6666666666666
+158,Senior,Quality Engineer,2019-11-16 21:01:14,2020-01-13 21:01:14,49K-193K,Meejo,3.0,          Tennessee         ,Knoxville,20.0 to 34.0 employees,620.0
+159,Web,Designer I,2016-11-12 05:28:41,2017-02-01 05:28:41,77K-200K,Jamia,3.0,          Missouri         ,Saint Louis,20.0 to 34.0 employees,620.0
+160,Computer,Systems Analyst III,2016-02-15 00:02:14,2016-05-04 00:02:14,20K-118K,Ooba,2.0,          Washington         ,Spokane,10.0 to 17.0 employees,520.0
+161,Computer,Systems Analyst II,2016-04-18 23:08:16,2016-05-18 23:08:16,69K-128K,Einti,3.0,          Oklahoma         ,Tulsa,20.0 to 34.0 employees,620.0
+162,Systems,Administrator III,2019-12-06 18:49:06,2019-12-20 18:49:06,52K-110K,Roomm,3.0,          Texas         ,San Antonio,20.0 to 34.0 employees,620.0
+163,Human,Resources Manager,2018-02-25 06:40:01,2018-06-05 06:40:01,68K-145K,Fliptune,6.0,          Minnesota         ,Saint Paul,50.0 to 85.0 employees,770.0
+164,Occupational,Therapist,2017-10-09 21:15:57,2018-01-03 21:15:57,1K-200K,Blognation,8.0,          Indiana         ,Evansville,70.0 to 119.0 employees,820.0
+165,Web,Designer II,2019-10-30 18:23:21,2019-11-08 18:23:21,91K-199K,Jetpulse,6.0,          Iowa         ,Des Moines,50.0 to 85.0 employees,770.0
+166,Computer,Systems Analyst II,2019-06-15 13:15:33,2019-09-20 13:15:33,40K-155K,Buzzdog,5.0,          Indiana         ,South Bend,40.0 to 68.0 employees,734.2857142857142
+167,Human,Resources Assistant II,2016-08-25 06:07:52,2016-11-10 06:07:52,68K-118K,Trunyx,4.0,          Arizona         ,Phoenix,30.0 to 51.0 employees,686.6666666666666
+168,Help,Desk Operator,2017-02-18 21:07:45,2017-03-29 21:07:45,9K-137K,Aibox,3.0,          California         ,Inglewood,20.0 to 34.0 employees,620.0
+169,Social,Worker,2018-02-19 01:11:46,2018-03-27 01:11:46,50K-152K,Twinte,4.0,          Ohio         ,Dayton,30.0 to 51.0 employees,686.6666666666666
+170,Accountant,IV,2021-02-05 08:04:41,2021-05-03 08:04:41,8K-184K,Linktype,6.0,          Texas         ,Houston,50.0 to 85.0 employees,770.0
+171,Software,Test Engineer I,2017-05-13 07:14:45,2017-06-19 07:14:45,48K-118K,Quinu,3.0,          Pennsylvania         ,Erie,20.0 to 34.0 employees,620.0
+172,Chief,Design Engineer,2020-10-30 16:53:54,2021-01-10 16:53:54,67K-190K,Edgetag,5.0,          California         ,Los Angeles,40.0 to 68.0 employees,734.2857142857142
+173,Biostatistician,III,2019-08-24 00:57:22,2019-09-15 00:57:22,16K-107K,Dabfeed,5.0,          California         ,Fresno,40.0 to 68.0 employees,734.2857142857142
+174,Account,Executive,2020-04-10 09:46:36,2020-04-18 09:46:36,72K-137K,Shuffletag,8.0,          Nebraska         ,Omaha,70.0 to 119.0 employees,820.0
+175,Assistant,Media Planner,2017-02-01 21:15:33,2017-03-01 21:15:33,87K-191K,Topiclounge,9.0,          Texas         ,Temple,80.0 to 136.0 employees,838.1818181818182
+176,Safety,Technician III,2020-05-05 10:31:22,2020-07-20 10:31:22,72K-182K,Eamia,3.0,          California         ,Whittier,20.0 to 34.0 employees,620.0
+177,Information,Systems Manager,2017-11-16 03:01:52,2018-01-26 03:01:52,95K-107K,Lazzy,3.0,          Ohio         ,Cincinnati,20.0 to 34.0 employees,620.0
+178,Information,Systems Manager,2016-12-12 15:43:46,2016-12-25 15:43:46,14K-194K,Nlounge,5.0,          New York         ,New York City,40.0 to 68.0 employees,734.2857142857142
+179,Quality,Engineer,2017-01-15 02:40:50,2017-03-06 02:40:50,70K-180K,Zoomzone,6.0,          Minnesota         ,Minneapolis,50.0 to 85.0 employees,770.0
+180,Accounting,Assistant II,2019-03-21 04:24:14,2019-06-05 04:24:14,47K-130K,Quinu,3.0,          Michigan         ,Troy,20.0 to 34.0 employees,620.0
+181,Design,Engineer,2019-02-28 05:52:30,2019-06-06 05:52:30,89K-134K,Tazz,2.0,          Oregon         ,Portland,10.0 to 17.0 employees,520.0
+182,Help,Desk Technician,2018-11-07 21:26:34,2018-11-09 21:26:34,60K-184K,Oyoyo,3.0,          South Carolina         ,Charleston,20.0 to 34.0 employees,620.0
+183,VP,Product Management,2016-10-06 16:48:40,2016-12-05 16:48:40,30K-178K,Quimm,3.0,          Minnesota         ,Minneapolis,20.0 to 34.0 employees,620.0
+184,Junior,Executive,2017-01-01 00:20:00,2017-01-20 00:20:00,20K-150K,Jaxspan,5.0,          Virginia         ,Manassas,40.0 to 68.0 employees,734.2857142857142
+185,Quality,Control Specialist,2019-10-02 11:39:21,2019-12-13 11:39:21,80K-118K,Layo,2.0,          Texas         ,San Antonio,10.0 to 17.0 employees,520.0
+186,Financial,Analyst,2019-02-22 21:18:30,2019-05-03 21:18:30,53K-145K,Skilith,5.0,          Texas         ,San Antonio,40.0 to 68.0 employees,734.2857142857142
+187,Sales,Associate,2016-10-19 20:37:04,2016-10-28 20:37:04,60K-122K,Meembee,5.0,          Indiana         ,Anderson,40.0 to 68.0 employees,734.2857142857142
+188,Data,Coordiator,2017-07-22 22:29:19,2017-09-19 22:29:19,33K-108K,Viva,2.0,          Texas         ,El Paso,10.0 to 17.0 employees,520.0
+189,Research,Nurse,2019-08-09 11:33:34,2019-08-22 11:33:34,65K-135K,Yamia,3.0,          Missouri         ,Saint Louis,20.0 to 34.0 employees,620.0
+190,Chief,Design Engineer,2016-12-11 06:46:56,2017-01-19 06:46:56,64K-199K,Gevee,3.0,          Louisiana         ,New Orleans,20.0 to 34.0 employees,620.0
+191,Professor,,2020-06-12 18:55:03,2020-09-01 18:55:03,15K-191K,Jayo,2.0,          Minnesota         ,Loretto,10.0 to 17.0 employees,520.0
+192,Marketing,Assistant,2017-03-21 11:34:31,2017-04-23 11:34:31,21K-107K,Muxo,2.0,          Indiana         ,Gary,10.0 to 17.0 employees,520.0
+193,Associate,Professor,2020-11-05 15:39:31,2020-12-15 15:39:31,6K-160K,Cogibox,5.0,          Missouri         ,Saint Louis,40.0 to 68.0 employees,734.2857142857142
+194,Human,Resources Assistant I,2019-06-14 12:45:10,2019-06-27 12:45:10,60K-115K,Wordify,5.0,          Kentucky         ,Louisville,40.0 to 68.0 employees,734.2857142857142
+195,Graphic,Designer,2020-06-26 15:09:59,2020-07-11 15:09:59,45K-148K,Trilia,4.0,          Missouri         ,Columbia,30.0 to 51.0 employees,686.6666666666666
+196,Structural,Analysis Engineer,2019-05-19 19:58:33,2019-07-26 19:58:33,35K-183K,Quatz,3.0,          New York         ,New York City,20.0 to 34.0 employees,620.0
+197,Account,Executive,2018-03-27 06:51:28,2018-05-22 06:51:28,60K-120K,Yambee,4.0,          Virginia         ,Roanoke,30.0 to 51.0 employees,686.6666666666666
+198,VP,Product Management,2017-05-07 01:09:25,2017-05-11 01:09:25,32K-141K,Centimia,6.0,          Texas         ,Fort Worth,50.0 to 85.0 employees,770.0
+199,Senior,Quality Engineer,2019-03-28 17:14:30,2019-04-26 17:14:30,58K-183K,Brainbox,6.0,          Wisconsin         ,Milwaukee,50.0 to 85.0 employees,770.0
+200,Marketing,Assistant,2018-01-10 10:32:21,2018-04-10 10:32:21,30K-158K,Avamba,4.0,          Nevada         ,Reno,30.0 to 51.0 employees,686.6666666666666
+201,Quality,Control Specialist,2019-01-12 01:37:48,2019-01-27 01:37:48,54K-184K,Yambee,4.0,          Virginia         ,Alexandria,30.0 to 51.0 employees,686.6666666666666
+202,GIS,Technical Architect,2018-03-09 04:49:07,2018-03-23 04:49:07,46K-189K,Aimbo,3.0,          Tennessee         ,Knoxville,20.0 to 34.0 employees,620.0
+203,Computer,Systems Analyst III,2016-08-10 17:37:10,2016-08-13 17:37:10,60K-141K,Lajo,2.0,          Colorado         ,Aurora,10.0 to 17.0 employees,520.0
+204,Recruiting,Manager,2016-04-20 19:58:03,2016-06-02 19:58:03,48K-178K,Digitube,6.0,          West Virginia         ,Huntington,50.0 to 85.0 employees,770.0
+205,Senior,Financial Analyst,2016-11-22 03:07:53,2017-02-13 03:07:53,1K-192K,Buzzshare,7.0,          Maryland         ,Ridgely,60.0 to 102.0 employees,797.7777777777777
+206,Paralegal,,2019-03-17 13:05:57,2019-06-05 13:05:57,79K-110K,Fanoodle,6.0,          Arkansas         ,North Little Rock,50.0 to 85.0 employees,770.0
+207,Information,Systems Manager,2019-04-30 22:39:19,2019-07-05 22:39:19,78K-129K,Ailane,4.0,          Minnesota         ,Minneapolis,30.0 to 51.0 employees,686.6666666666666
+208,Administrative,Officer,2019-10-29 16:23:59,2020-02-05 16:23:59,40K-153K,Devbug,4.0,          Tennessee         ,Memphis,30.0 to 51.0 employees,686.6666666666666
+209,Research,Nurse,2016-09-13 16:21:28,2016-10-11 16:21:28,41K-102K,Avamba,4.0,          New York         ,Jamaica,30.0 to 51.0 employees,686.6666666666666
+210,Financial,Analyst,2017-01-14 21:47:23,2017-01-22 21:47:23,81K-101K,Oba,1.0,          Florida         ,Panama City,0.0 to 0.0 employees,353.33333333333326
+211,Speech,Pathologist,2018-07-10 13:14:29,2018-07-27 13:14:29,19K-148K,Voomm,3.0,          Kansas         ,Topeka,20.0 to 34.0 employees,620.0
+212,Analyst,Programmer,2019-01-01 22:40:12,2019-04-06 22:40:12,13K-105K,Mydo,2.0,          Ohio         ,Toledo,10.0 to 17.0 employees,520.0
+213,Software,Consultant,2020-04-14 18:35:45,2020-06-09 18:35:45,91K-165K,Skyvu,3.0,          Florida         ,Tampa,20.0 to 34.0 employees,620.0
+214,Legal,Assistant,2018-02-21 15:11:56,2018-04-28 15:11:56,83K-144K,Zoomzone,6.0,          Texas         ,Dallas,50.0 to 85.0 employees,770.0
+215,Senior,Quality Engineer,2019-11-23 18:12:17,2019-11-25 18:12:17,64K-126K,Twitterbeat,9.0,          Georgia         ,Duluth,80.0 to 136.0 employees,838.1818181818182
+216,Programmer,Analyst I,2016-05-16 13:46:53,2016-07-10 13:46:53,20K-143K,Zoomzone,6.0,          Pennsylvania         ,Philadelphia,50.0 to 85.0 employees,770.0
+217,Biostatistician,I,2017-01-22 00:13:36,2017-02-28 00:13:36,68K-167K,Bluezoom,6.0,          Iowa         ,Waterloo,50.0 to 85.0 employees,770.0
+218,Pharmacist,,2016-02-28 15:23:45,2016-05-29 15:23:45,3K-135K,Skinder,5.0,          Virginia         ,Virginia Beach,40.0 to 68.0 employees,734.2857142857142
+219,Technical,Writer,2020-06-11 23:17:54,2020-09-08 23:17:54,37K-108K,Meejo,3.0,          Louisiana         ,New Orleans,20.0 to 34.0 employees,620.0
+220,Quality,Control Specialist,2017-09-06 03:13:27,2017-09-10 03:13:27,13K-151K,Kwinu,3.0,          Missouri         ,Saint Louis,20.0 to 34.0 employees,620.0
+221,Mechanical,Systems Engineer,2018-04-01 03:42:37,2018-04-23 03:42:37,87K-162K,Linklinks,7.0,          Texas         ,Lubbock,60.0 to 102.0 employees,797.7777777777777
+222,Programmer,I,2017-08-13 13:19:57,2017-09-19 13:19:57,31K-134K,Bubblebox,7.0,          Georgia         ,Macon,60.0 to 102.0 employees,797.7777777777777
+223,Computer,Systems Analyst I,2018-07-31 04:16:11,2018-10-26 04:16:11,59K-147K,Skaboo,4.0,          Missouri         ,Kansas City,30.0 to 51.0 employees,686.6666666666666
+224,Software,Consultant,2019-08-06 18:55:46,2019-09-12 18:55:46,79K-159K,Eabox,3.0,          Virginia         ,Arlington,20.0 to 34.0 employees,620.0
+225,Information,Systems Manager,2018-01-11 16:40:18,2018-03-03 16:40:18,51K-192K,Vitz,2.0,          Nebraska         ,Omaha,10.0 to 17.0 employees,520.0
+226,Recruiting,Manager,2018-12-19 17:48:11,2019-02-22 17:48:11,44K-196K,Topicblab,7.0,          Nebraska         ,Omaha,60.0 to 102.0 employees,797.7777777777777
+227,Quality,Engineer,2016-05-13 00:06:04,2016-06-04 00:06:04,97K-121K,Voonyx,4.0,          New Mexico         ,Santa Fe,30.0 to 51.0 employees,686.6666666666666
+228,VP,Quality Control,2019-07-20 03:21:11,2019-08-07 03:21:11,59K-190K,Meevee,4.0,          Pennsylvania         ,York,30.0 to 51.0 employees,686.6666666666666
+229,Social,Worker,2016-11-08 00:26:16,2017-02-07 00:26:16,19K-137K,Talane,4.0,          New York         ,White Plains,30.0 to 51.0 employees,686.6666666666666
+230,GIS,Technical Architect,2020-07-12 00:23:45,2020-09-11 00:23:45,0K-109K,Thoughtmix,8.0,          Virginia         ,Lynchburg,70.0 to 119.0 employees,820.0
+231,Structural,Analysis Engineer,2019-01-04 06:18:23,2019-03-13 06:18:23,27K-126K,Chatterbridge,11.0,          Massachusetts         ,Brockton,100.0 to 170.0 employees,866.1538461538463
+232,Senior,Cost Accountant,2017-12-01 04:12:16,2018-02-02 04:12:16,40K-186K,Zava,2.0,          Florida         ,Tampa,10.0 to 17.0 employees,520.0
+233,Senior,Cost Accountant,2018-02-28 07:28:01,2018-03-29 07:28:01,89K-125K,Feedbug,5.0,          Washington         ,Lakewood,40.0 to 68.0 employees,734.2857142857142
+234,Sales,Associate,2018-11-23 04:17:21,2019-02-09 04:17:21,22K-156K,Omba,2.0,          Minnesota         ,Minneapolis,10.0 to 17.0 employees,520.0
+235,Programmer,Analyst III,2019-04-04 03:58:57,2019-06-06 03:58:57,96K-125K,Youspan,5.0,          Ohio         ,Cincinnati,40.0 to 68.0 employees,734.2857142857142
+236,Assistant,Professor,2020-06-03 06:27:47,2020-09-07 06:27:47,4K-121K,Feedbug,5.0,          Texas         ,Corpus Christi,40.0 to 68.0 employees,734.2857142857142
+237,Product,Engineer,2020-10-09 17:27:56,2020-11-23 17:27:56,59K-143K,Oyoloo,4.0,          California         ,Alhambra,30.0 to 51.0 employees,686.6666666666666
+238,VP,Quality Control,2020-11-25 23:52:44,2020-12-20 23:52:44,21K-183K,Oozz,2.0,          Michigan         ,Grand Rapids,10.0 to 17.0 employees,520.0
+239,Statistician,I,2020-02-15 13:31:37,2020-05-14 13:31:37,88K-146K,Dynava,4.0,          Missouri         ,Columbia,30.0 to 51.0 employees,686.6666666666666
+240,Analog,Circuit Design manager,2019-04-15 09:02:11,2019-06-22 09:02:11,92K-123K,Zazio,3.0,          Kentucky         ,Lexington,20.0 to 34.0 employees,620.0
+241,Recruiter,,2018-02-03 14:26:43,2018-02-09 14:26:43,71K-138K,Yombu,3.0,          Kentucky         ,Louisville,20.0 to 34.0 employees,620.0
+242,Structural,Engineer,2018-03-12 05:16:12,2018-04-03 05:16:12,91K-116K,Eadel,3.0,          Texas         ,Dallas,20.0 to 34.0 employees,620.0
+243,GIS,Technical Architect,2016-03-25 21:35:31,2016-06-26 21:35:31,30K-119K,Rhyzio,4.0,          California         ,Carlsbad,30.0 to 51.0 employees,686.6666666666666
+244,Internal,Auditor,2021-01-31 00:36:37,2021-04-01 00:36:37,24K-134K,Edgewire,6.0,          New York         ,New Hyde Park,50.0 to 85.0 employees,770.0
+245,Occupational,Therapist,2018-08-17 10:53:58,2018-10-16 10:53:58,12K-192K,Tagpad,4.0,          Arizona         ,Tucson,30.0 to 51.0 employees,686.6666666666666
+246,Data,Coordiator,2017-10-06 23:45:44,2017-10-30 23:45:44,75K-132K,Fadeo,3.0,          Michigan         ,Detroit,20.0 to 34.0 employees,620.0
+247,Geologist,I,2016-07-29 08:21:24,2016-09-22 08:21:24,41K-182K,Kwideo,4.0,          North Carolina         ,Wilmington,30.0 to 51.0 employees,686.6666666666666
+248,Technical,Writer,2020-12-18 17:34:36,2021-03-06 17:34:36,30K-159K,Dynabox,5.0,          Oklahoma         ,Oklahoma City,40.0 to 68.0 employees,734.2857142857142
+249,Recruiter,,2020-12-30 11:44:01,2021-03-06 11:44:01,48K-114K,Topicshots,8.0,          Missouri         ,Independence,70.0 to 119.0 employees,820.0
+250,Editor,,2016-02-28 06:11:25,2016-04-19 06:11:25,92K-101K,Realmix,5.0,          Florida         ,Pensacola,40.0 to 68.0 employees,734.2857142857142
+251,Operator,,2019-06-26 21:44:57,2019-07-03 21:44:57,10K-165K,Npath,3.0,          Texas         ,Fort Worth,20.0 to 34.0 employees,620.0
+252,Internal,Auditor,2017-07-04 18:32:08,2017-08-26 18:32:08,45K-158K,Tekfly,4.0,          Florida         ,Daytona Beach,30.0 to 51.0 employees,686.6666666666666
+253,Staff,Scientist,2019-03-02 03:52:37,2019-05-07 03:52:37,2K-120K,Realcube,6.0,          Georgia         ,Atlanta,50.0 to 85.0 employees,770.0
+254,Compensation,Analyst,2016-07-10 05:49:39,2016-07-31 05:49:39,97K-143K,Tanoodle,6.0,          Illinois         ,Peoria,50.0 to 85.0 employees,770.0
+255,Research,Associate,2017-04-14 11:15:24,2017-06-11 11:15:24,70K-188K,Meevee,4.0,          Texas         ,Houston,30.0 to 51.0 employees,686.6666666666666
+256,Recruiter,,2016-02-18 12:55:37,2016-04-13 12:55:37,64K-177K,Mybuzz,4.0,          California         ,Pasadena,30.0 to 51.0 employees,686.6666666666666
+257,Junior,Executive,2020-12-05 02:36:26,2020-12-22 02:36:26,0K-147K,Rhybox,4.0,          New York         ,Brooklyn,30.0 to 51.0 employees,686.6666666666666
+258,Technical,Writer,2020-08-03 03:23:52,2020-11-06 03:23:52,91K-104K,Devshare,6.0,          District of Columbia         ,Washington,50.0 to 85.0 employees,770.0
+259,Actuary,,2021-02-04 09:00:17,2021-05-13 09:00:17,40K-164K,Livetube,6.0,          Michigan         ,Grand Rapids,50.0 to 85.0 employees,770.0
+260,Food,Chemist,2017-12-01 20:17:17,2018-02-04 20:17:17,14K-154K,Fliptune,6.0,          Idaho         ,Boise,50.0 to 85.0 employees,770.0
+261,Speech,Pathologist,2019-11-15 20:16:00,2020-01-08 20:16:00,40K-131K,Skyba,3.0,          Oregon         ,Portland,20.0 to 34.0 employees,620.0
+262,Help,Desk Technician,2017-08-26 01:28:50,2017-09-19 01:28:50,76K-200K,Wikizz,4.0,          California         ,San Jose,30.0 to 51.0 employees,686.6666666666666
+263,Marketing,Manager,2020-12-28 12:25:52,2021-01-30 12:25:52,65K-136K,Brainlounge,9.0,          Massachusetts         ,Boston,80.0 to 136.0 employees,838.1818181818182
+264,Senior,Editor,2020-01-19 03:28:44,2020-01-20 03:28:44,76K-121K,Voonix,4.0,          Nevada         ,Reno,30.0 to 51.0 employees,686.6666666666666
+265,Senior,Cost Accountant,2020-09-08 18:52:10,2020-11-27 18:52:10,13K-114K,Brainlounge,9.0,          Kentucky         ,Louisville,80.0 to 136.0 employees,838.1818181818182
+266,Chief,Design Engineer,2019-06-23 03:15:51,2019-09-23 03:15:51,71K-121K,Twiyo,3.0,          Massachusetts         ,Boston,20.0 to 34.0 employees,620.0
+267,Electrical,Engineer,2018-10-16 13:56:49,2018-10-23 13:56:49,52K-138K,Yakidoo,5.0,          Florida         ,Fort Lauderdale,40.0 to 68.0 employees,734.2857142857142
+268,Senior,Cost Accountant,2018-12-07 16:48:59,2019-02-09 16:48:59,20K-188K,Voolia,4.0,          California         ,Irvine,30.0 to 51.0 employees,686.6666666666666
+269,Actuary,,2017-12-05 04:00:28,2018-02-21 04:00:28,15K-198K,Tekfly,4.0,          Florida         ,Port Charlotte,30.0 to 51.0 employees,686.6666666666666
+270,Financial,Analyst,2017-07-21 17:55:24,2017-09-04 17:55:24,11K-138K,Feedmix,5.0,          New Jersey         ,Trenton,40.0 to 68.0 employees,734.2857142857142
+271,Database,Administrator I,2020-06-15 15:12:39,2020-07-16 15:12:39,47K-177K,Zooxo,3.0,          Minnesota         ,Minneapolis,20.0 to 34.0 employees,620.0
+272,Compensation,Analyst,2017-05-18 14:58:04,2017-07-02 14:58:04,59K-117K,Divanoodle,8.0,          Massachusetts         ,Newton,70.0 to 119.0 employees,820.0
+273,Dental,Hygienist,2020-11-05 13:27:59,2021-02-11 13:27:59,95K-113K,Devify,4.0,          Washington         ,Vancouver,30.0 to 51.0 employees,686.6666666666666
+274,Help,Desk Technician,2020-11-11 01:36:29,2020-12-31 01:36:29,49K-146K,Kimia,3.0,          North Carolina         ,Durham,20.0 to 34.0 employees,620.0
+275,Actuary,,2017-11-22 04:12:52,2017-11-29 04:12:52,16K-114K,Dynabox,5.0,          Texas         ,El Paso,40.0 to 68.0 employees,734.2857142857142
+276,Social,Worker,2019-12-31 00:26:14,2020-02-12 00:26:14,90K-172K,Plajo,3.0,          Arizona         ,Phoenix,20.0 to 34.0 employees,620.0
+277,Physical,Therapy Assistant,2018-10-19 13:58:07,2018-11-06 13:58:07,69K-196K,Skiba,3.0,          Texas         ,Killeen,20.0 to 34.0 employees,620.0
+278,Food,Chemist,2020-01-22 15:57:05,2020-03-31 15:57:05,6K-158K,Rhyzio,4.0,          Missouri         ,Saint Joseph,30.0 to 51.0 employees,686.6666666666666
+279,Structural,Engineer,2017-03-17 08:44:00,2017-03-30 08:44:00,4K-151K,Pixonyx,5.0,          Indiana         ,Fort Wayne,40.0 to 68.0 employees,734.2857142857142
+280,Nurse,,2017-04-18 21:57:25,2017-05-26 21:57:25,25K-126K,Voonder,5.0,          Florida         ,Kissimmee,40.0 to 68.0 employees,734.2857142857142
+281,Operator,,2017-03-16 02:39:10,2017-04-06 02:39:10,59K-105K,Quimba,4.0,          Colorado         ,Denver,30.0 to 51.0 employees,686.6666666666666
+282,Graphic,Designer,2016-11-03 01:12:11,2017-02-11 01:12:11,30K-139K,Gabcube,5.0,          Illinois         ,Springfield,40.0 to 68.0 employees,734.2857142857142
+283,Structural,Engineer,2016-11-11 15:32:39,2016-12-11 15:32:39,74K-128K,Youtags,5.0,          North Dakota         ,Bismarck,40.0 to 68.0 employees,734.2857142857142
+284,Food,Chemist,2020-12-23 01:52:42,2021-03-01 01:52:42,72K-149K,Youfeed,5.0,          Delaware         ,Newark,40.0 to 68.0 employees,734.2857142857142
+285,Help,Desk Operator,2019-10-13 22:17:41,2019-11-15 22:17:41,15K-198K,Riffpedia,7.0,          Kansas         ,Wichita,60.0 to 102.0 employees,797.7777777777777
+286,Automation,Specialist III,2018-03-23 07:16:23,2018-04-10 07:16:23,99K-161K,Fiveclub,6.0,          Wisconsin         ,Milwaukee,50.0 to 85.0 employees,770.0
+287,Design,Engineer,2017-01-05 10:06:34,2017-03-15 10:06:34,63K-190K,Kwimbee,5.0,          Massachusetts         ,Boston,40.0 to 68.0 employees,734.2857142857142
+288,Structural,Engineer,2020-12-29 15:29:56,2021-04-07 15:29:56,81K-148K,Pixoboo,5.0,          Arizona         ,Phoenix,40.0 to 68.0 employees,734.2857142857142
+289,Desktop,Support Technician,2017-12-26 02:09:44,2018-03-07 02:09:44,45K-156K,Dabtype,5.0,          Georgia         ,Atlanta,40.0 to 68.0 employees,734.2857142857142
+290,Marketing,Assistant,2017-06-29 12:51:33,2017-08-18 12:51:33,10K-127K,JumpXS,4.0,          Colorado         ,Littleton,30.0 to 51.0 employees,686.6666666666666
+291,Marketing,Assistant,2019-11-30 06:13:19,2020-02-18 06:13:19,28K-159K,Twitterworks,10.0,          Virginia         ,Roanoke,90.0 to 153.0 employees,853.3333333333335
+292,Community,Outreach Specialist,2016-04-13 20:59:06,2016-05-07 20:59:06,56K-134K,Zoombox,5.0,          Pennsylvania         ,Pittsburgh,40.0 to 68.0 employees,734.2857142857142
+293,Social,Worker,2020-03-27 01:15:09,2020-04-01 01:15:09,55K-193K,Bubblemix,7.0,          Virginia         ,Fredericksburg,60.0 to 102.0 employees,797.7777777777777
+294,VP,Product Management,2019-04-01 13:18:24,2019-04-06 13:18:24,33K-111K,Buzzster,6.0,          Illinois         ,Aurora,50.0 to 85.0 employees,770.0
+295,Recruiter,,2016-11-30 13:50:42,2017-01-25 13:50:42,89K-168K,Plambee,5.0,          Indiana         ,Indianapolis,40.0 to 68.0 employees,734.2857142857142
+296,Community,Outreach Specialist,2018-11-06 15:11:56,2019-01-26 15:11:56,7K-165K,Devpulse,6.0,          Missouri         ,Kansas City,50.0 to 85.0 employees,770.0
+297,Biostatistician,III,2017-02-13 14:20:06,2017-04-03 14:20:06,91K-175K,Mynte,3.0,          Missouri         ,Kansas City,20.0 to 34.0 employees,620.0
+298,Nurse,Practicioner,2020-07-23 16:43:08,2020-08-03 16:43:08,29K-184K,Topicware,7.0,          Georgia         ,Valdosta,60.0 to 102.0 employees,797.7777777777777
+299,Health,Coach IV,2019-06-13 00:57:18,2019-06-18 00:57:18,55K-125K,Vinte,3.0,          Florida         ,Vero Beach,20.0 to 34.0 employees,620.0
+300,Legal,Assistant,2016-08-21 08:10:13,2016-10-16 08:10:13,100K-101K,Yata,2.0,          Iowa         ,Waterloo,10.0 to 17.0 employees,520.0
+301,Statistician,III,2019-08-10 16:16:22,2019-08-21 16:16:22,90K-198K,Mymm,2.0,          Florida         ,Miami,10.0 to 17.0 employees,520.0
+302,Quality,Control Specialist,2019-01-16 21:48:42,2019-04-16 21:48:42,56K-123K,Eayo,2.0,          Alabama         ,Mobile,10.0 to 17.0 employees,520.0
+303,Information,Systems Manager,2017-08-13 10:36:01,2017-11-19 10:36:01,57K-130K,Kwinu,3.0,          New York         ,Brooklyn,20.0 to 34.0 employees,620.0
+304,Programmer,IV,2019-11-03 10:31:07,2020-01-07 10:31:07,62K-114K,Oba,1.0,          Michigan         ,Detroit,0.0 to 0.0 employees,353.33333333333326
+305,Assistant,Manager,2020-11-05 23:57:33,2020-11-21 23:57:33,85K-123K,Zoomdog,5.0,          District of Columbia         ,Washington,40.0 to 68.0 employees,734.2857142857142
+306,Software,Consultant,2019-08-24 16:53:39,2019-11-20 16:53:39,78K-125K,Tavu,2.0,          Michigan         ,Grand Rapids,10.0 to 17.0 employees,520.0
+307,Administrative,Officer,2016-07-26 18:18:41,2016-09-24 18:18:41,26K-184K,Oba,1.0,          Illinois         ,Springfield,0.0 to 0.0 employees,353.33333333333326
+308,Senior,Financial Analyst,2019-04-01 10:31:04,2019-06-25 10:31:04,64K-134K,Kare,2.0,          Nebraska         ,Omaha,10.0 to 17.0 employees,520.0
+309,Human,Resources Assistant IV,2019-06-28 12:32:41,2019-08-03 12:32:41,71K-173K,Gabtune,5.0,          Michigan         ,Saginaw,40.0 to 68.0 employees,734.2857142857142
+310,Professor,,2019-08-12 16:56:10,2019-10-18 16:56:10,41K-171K,Fadeo,3.0,          Ohio         ,Columbus,20.0 to 34.0 employees,620.0
+311,Legal,Assistant,2017-05-30 15:52:43,2017-07-24 15:52:43,40K-125K,Tagtune,5.0,          South Carolina         ,Charleston,40.0 to 68.0 employees,734.2857142857142
+312,Geological,Engineer,2016-05-25 10:30:43,2016-07-29 10:30:43,28K-183K,Skidoo,4.0,          Virginia         ,Richmond,30.0 to 51.0 employees,686.6666666666666
+313,Actuary,,2018-06-23 06:32:48,2018-08-25 06:32:48,78K-106K,Blogtag,5.0,          Alabama         ,Mobile,40.0 to 68.0 employees,734.2857142857142
+314,Environmental,Specialist,2017-11-20 15:29:07,2017-12-22 15:29:07,70K-135K,Mymm,2.0,          Georgia         ,Decatur,10.0 to 17.0 employees,520.0
+315,Nuclear,Power Engineer,2017-01-02 12:34:00,2017-02-13 12:34:00,77K-184K,Brainverse,8.0,          California         ,Oakland,70.0 to 119.0 employees,820.0
+316,Sales,Associate,2016-06-23 05:53:11,2016-08-14 05:53:11,38K-193K,Avaveo,4.0,          Missouri         ,Jefferson City,30.0 to 51.0 employees,686.6666666666666
+317,Teacher,,2017-11-29 13:28:32,2017-12-05 13:28:32,7K-116K,Chatterpoint,10.0,          California         ,Mountain View,90.0 to 153.0 employees,853.3333333333335
+318,Civil,Engineer,2019-09-01 03:43:23,2019-09-18 03:43:23,92K-176K,Skiptube,6.0,          Texas         ,Abilene,50.0 to 85.0 employees,770.0
+319,Senior,Cost Accountant,2020-02-19 09:51:08,2020-02-25 09:51:08,53K-118K,Brainlounge,9.0,          Colorado         ,Boulder,80.0 to 136.0 employees,838.1818181818182
+320,Nurse,Practicioner,2018-01-05 11:04:30,2018-01-31 11:04:30,69K-176K,Gabspot,5.0,          California         ,Pasadena,40.0 to 68.0 employees,734.2857142857142
+321,Graphic,Designer,2017-03-31 01:14:06,2017-06-22 01:14:06,44K-164K,Browsetype,8.0,          Georgia         ,Atlanta,70.0 to 119.0 employees,820.0
+322,Budget/Accounting,Analyst IV,2019-06-25 12:07:31,2019-07-22 12:07:31,88K-185K,Gabspot,5.0,          New York         ,Rochester,40.0 to 68.0 employees,734.2857142857142
+323,Chemical,Engineer,2016-02-24 02:20:45,2016-03-17 02:20:45,61K-142K,Photospace,8.0,          Florida         ,Orlando,70.0 to 119.0 employees,820.0
+324,Programmer,I,2018-07-20 02:56:16,2018-10-04 02:56:16,98K-141K,Blogpad,5.0,          Texas         ,El Paso,40.0 to 68.0 employees,734.2857142857142
+325,Junior,Executive,2020-12-12 23:47:33,2020-12-27 23:47:33,21K-197K,Gabcube,5.0,          Florida         ,Saint Augustine,40.0 to 68.0 employees,734.2857142857142
+326,Systems,Administrator IV,2017-09-19 17:00:29,2017-12-03 17:00:29,5K-138K,Edgetag,5.0,          Kansas         ,Shawnee Mission,40.0 to 68.0 employees,734.2857142857142
+327,Help,Desk Operator,2020-05-21 11:34:44,2020-06-11 11:34:44,78K-136K,Roodel,4.0,          Georgia         ,Atlanta,30.0 to 51.0 employees,686.6666666666666
+328,Research,Assistant III,2019-01-07 04:09:07,2019-02-07 04:09:07,98K-104K,Reallinks,7.0,          Virginia         ,Vienna,60.0 to 102.0 employees,797.7777777777777
+329,VP,Accounting,2018-11-24 07:07:04,2018-12-23 07:07:04,84K-199K,Vimbo,3.0,          Texas         ,El Paso,20.0 to 34.0 employees,620.0
+330,Software,Consultant,2018-05-31 04:04:27,2018-07-30 04:04:27,57K-194K,Oloo,2.0,          Texas         ,San Antonio,10.0 to 17.0 employees,520.0
+331,Assistant,Manager,2017-11-11 09:47:33,2017-12-06 09:47:33,9K-143K,Dynabox,5.0,          California         ,Los Angeles,40.0 to 68.0 employees,734.2857142857142
+332,Senior,Financial Analyst,2020-04-20 00:38:30,2020-05-09 00:38:30,62K-176K,Zoomzone,6.0,          South Dakota         ,Sioux Falls,50.0 to 85.0 employees,770.0
+333,Data,Coordiator,2019-04-17 18:06:39,2019-06-27 18:06:39,40K-198K,Katz,2.0,          Tennessee         ,Knoxville,10.0 to 17.0 employees,520.0
+334,Nurse,,2017-03-09 02:00:29,2017-06-03 02:00:29,10K-153K,Eazzy,3.0,          California         ,Sacramento,20.0 to 34.0 employees,620.0
+335,Statistician,IV,2018-01-27 10:03:07,2018-04-26 10:03:07,86K-129K,InnoZ,3.0,          Colorado         ,Denver,20.0 to 34.0 employees,620.0
+336,Staff,Scientist,2018-02-14 19:42:49,2018-04-09 19:42:49,52K-143K,Demivee,5.0,          Virginia         ,Chesapeake,40.0 to 68.0 employees,734.2857142857142
+337,Sales,Associate,2020-08-16 18:38:22,2020-11-11 18:38:22,80K-155K,Youspan,5.0,          Florida         ,Kissimmee,40.0 to 68.0 employees,734.2857142857142
+338,Community,Outreach Specialist,2019-06-11 10:58:30,2019-08-09 10:58:30,42K-123K,Tagcat,4.0,          Texas         ,El Paso,30.0 to 51.0 employees,686.6666666666666
+339,Computer,Systems Analyst I,2020-07-29 22:27:26,2020-10-29 22:27:26,2K-122K,Mymm,2.0,          Virginia         ,Suffolk,10.0 to 17.0 employees,520.0
+340,Community,Outreach Specialist,2019-04-22 17:39:56,2019-07-11 17:39:56,4K-195K,Bubblebox,7.0,          California         ,Northridge,60.0 to 102.0 employees,797.7777777777777
+341,Staff,Accountant II,2020-04-04 00:10:01,2020-05-06 00:10:01,31K-112K,Trunyx,4.0,          California         ,Torrance,30.0 to 51.0 employees,686.6666666666666
+342,Senior,Editor,2020-01-12 01:14:17,2020-03-19 01:14:17,92K-119K,Livefish,6.0,          Pennsylvania         ,Philadelphia,50.0 to 85.0 employees,770.0
+343,Geologist,I,2016-12-17 10:51:57,2017-01-27 10:51:57,0K-110K,Kare,2.0,          California         ,San Diego,10.0 to 17.0 employees,520.0
+344,Senior,Editor,2020-02-24 23:22:29,2020-05-27 23:22:29,62K-123K,Yamia,3.0,          Indiana         ,Indianapolis,20.0 to 34.0 employees,620.0
+345,Tax,Accountant,2020-11-30 11:45:49,2021-03-06 11:45:49,77K-131K,Aimbu,3.0,          California         ,Richmond,20.0 to 34.0 employees,620.0
+346,Recruiting,Manager,2020-01-01 10:27:49,2020-02-20 10:27:49,36K-127K,Brightbean,8.0,          Hawaii         ,Honolulu,70.0 to 119.0 employees,820.0
+347,Software,Consultant,2018-04-03 20:26:38,2018-04-14 20:26:38,28K-167K,Talane,4.0,          Texas         ,Temple,30.0 to 51.0 employees,686.6666666666666
+348,Data,Coordiator,2020-08-02 10:11:30,2020-08-26 10:11:30,87K-170K,Avaveo,4.0,          Nevada         ,Reno,30.0 to 51.0 employees,686.6666666666666
+349,Cost,Accountant,2019-06-10 13:49:22,2019-06-21 13:49:22,76K-147K,Edgeblab,6.0,          Florida         ,Miami,50.0 to 85.0 employees,770.0
+350,Database,Administrator II,2016-07-16 02:42:51,2016-09-15 02:42:51,50K-133K,Dabfeed,5.0,          Illinois         ,Carol Stream,40.0 to 68.0 employees,734.2857142857142
+351,Senior,Developer,2020-09-05 11:29:17,2020-11-15 11:29:17,50K-125K,Fadeo,3.0,          South Carolina         ,Greenville,20.0 to 34.0 employees,620.0
+352,Structural,Engineer,2020-05-27 14:44:25,2020-08-20 14:44:25,51K-103K,Dabtype,5.0,          Missouri         ,Saint Louis,40.0 to 68.0 employees,734.2857142857142
+353,Budget/Accounting,Analyst I,2016-10-09 03:51:21,2017-01-03 03:51:21,95K-115K,Oodoo,3.0,          Nebraska         ,Lincoln,20.0 to 34.0 employees,620.0
+354,Database,Administrator I,2017-10-23 01:34:09,2017-11-04 01:34:09,74K-103K,Tavu,2.0,          Texas         ,Dallas,10.0 to 17.0 employees,520.0
+355,Human,Resources Manager,2020-09-19 04:25:49,2020-11-15 04:25:49,22K-198K,Gigazoom,6.0,          Minnesota         ,Minneapolis,50.0 to 85.0 employees,770.0
+356,Electrical,Engineer,2017-11-21 06:31:19,2018-02-17 06:31:19,21K-178K,Divape,4.0,          West Virginia         ,Huntington,30.0 to 51.0 employees,686.6666666666666
+357,Health,Coach III,2020-09-24 09:25:52,2020-11-27 09:25:52,11K-195K,Livetube,6.0,          Nevada         ,Las Vegas,50.0 to 85.0 employees,770.0
+358,Information,Systems Manager,2019-12-11 04:02:35,2020-01-16 04:02:35,20K-161K,Kare,2.0,          California         ,Sacramento,10.0 to 17.0 employees,520.0
+359,VP,Sales,2020-06-21 23:56:58,2020-09-19 23:56:58,54K-103K,Brainbox,6.0,          Massachusetts         ,Boston,50.0 to 85.0 employees,770.0
+360,Structural,Analysis Engineer,2020-10-04 05:42:08,2020-11-09 05:42:08,83K-200K,Aivee,3.0,          Alabama         ,Mobile,20.0 to 34.0 employees,620.0
+361,Desktop,Support Technician,2018-06-12 17:50:08,2018-07-31 17:50:08,31K-123K,Quamba,4.0,          South Carolina         ,Anderson,30.0 to 51.0 employees,686.6666666666666
+362,Junior,Executive,2017-06-26 15:05:59,2017-09-09 15:05:59,75K-166K,Dynava,4.0,          Connecticut         ,Waterbury,30.0 to 51.0 employees,686.6666666666666
+363,Chief,Design Engineer,2020-03-08 21:52:42,2020-05-06 21:52:42,40K-167K,Divanoodle,8.0,          Nevada         ,Reno,70.0 to 119.0 employees,820.0
+364,Nurse,Practicioner,2020-10-14 18:14:59,2020-12-06 18:14:59,31K-139K,Mybuzz,4.0,          Colorado         ,,30.0 to 51.0 employees,686.6666666666666
+365,Account,Representative II,2017-05-13 04:12:54,2017-07-03 04:12:54,92K-122K,Katz,2.0,          Alabama         ,Birmingham,10.0 to 17.0 employees,520.0
+366,Accountant,III,2016-04-04 14:22:38,2016-05-19 14:22:38,93K-110K,Zoombeat,6.0,          Massachusetts         ,Boston,50.0 to 85.0 employees,770.0
+367,Senior,Quality Engineer,2020-06-04 08:37:04,2020-09-02 08:37:04,20K-173K,Yacero,4.0,          Texas         ,Irving,30.0 to 51.0 employees,686.6666666666666
+368,Programmer,III,2018-04-23 20:11:42,2018-06-07 20:11:42,98K-174K,Feedbug,5.0,          Alaska         ,Fairbanks,40.0 to 68.0 employees,734.2857142857142
+369,Account,Executive,2019-07-08 13:57:50,2019-09-04 13:57:50,72K-171K,Demimbu,5.0,          California         ,Oakland,40.0 to 68.0 employees,734.2857142857142
+370,Sales,Representative,2019-10-12 00:00:16,2019-11-28 00:00:16,48K-106K,Linktype,6.0,          Utah         ,Ogden,50.0 to 85.0 employees,770.0
+371,Desktop,Support Technician,2017-05-14 07:39:00,2017-07-19 07:39:00,66K-113K,Roombo,4.0,          California         ,Pasadena,30.0 to 51.0 employees,686.6666666666666
+372,Civil,Engineer,2018-12-22 15:14:09,2019-03-27 15:14:09,58K-140K,Wikizz,4.0,          Indiana         ,Fort Wayne,30.0 to 51.0 employees,686.6666666666666
+373,Help,Desk Operator,2016-12-29 14:25:26,2017-01-15 14:25:26,65K-110K,Vipe,2.0,          Florida         ,Fort Lauderdale,10.0 to 17.0 employees,520.0
+374,Recruiter,,2020-07-06 15:57:33,2020-07-08 15:57:33,71K-157K,Shuffletag,8.0,          New York         ,Buffalo,70.0 to 119.0 employees,820.0
+375,Media,Manager III,2016-07-01 02:43:43,2016-09-12 02:43:43,97K-121K,Photobean,7.0,          North Dakota         ,Bismarck,60.0 to 102.0 employees,797.7777777777777
+376,Senior,Cost Accountant,2017-10-16 12:41:56,2018-01-22 12:41:56,65K-132K,Meevee,4.0,          Missouri         ,Kansas City,30.0 to 51.0 employees,686.6666666666666
+377,Recruiting,Manager,2017-10-12 13:05:31,2017-11-22 13:05:31,91K-166K,Yakidoo,5.0,          California         ,Santa Barbara,40.0 to 68.0 employees,734.2857142857142
+378,Human,Resources Manager,2020-07-13 20:51:00,2020-10-10 20:51:00,47K-134K,Skibox,4.0,          Kansas         ,Shawnee Mission,30.0 to 51.0 employees,686.6666666666666
+379,Database,Administrator I,2018-05-17 18:07:01,2018-06-12 18:07:01,70K-110K,Nlounge,5.0,          California         ,San Diego,40.0 to 68.0 employees,734.2857142857142
+380,Cost,Accountant,2017-04-14 03:28:30,2017-05-25 03:28:30,44K-116K,Fanoodle,6.0,          Illinois         ,Chicago,50.0 to 85.0 employees,770.0
+381,Systems,Administrator II,2017-11-22 10:41:34,2017-12-17 10:41:34,98K-188K,Twitterworks,10.0,          Florida         ,Tallahassee,90.0 to 153.0 employees,853.3333333333335
+382,Professor,,2019-12-06 16:30:51,2020-02-22 16:30:51,7K-156K,Ainyx,3.0,          Texas         ,Galveston,20.0 to 34.0 employees,620.0
+383,Director,of Sales,2017-09-11 21:36:59,2017-11-09 21:36:59,74K-144K,Yadel,3.0,          Texas         ,Houston,20.0 to 34.0 employees,620.0
+384,Media,Manager II,2021-02-02 01:16:49,2021-04-10 01:16:49,40K-147K,Devify,4.0,          Wisconsin         ,Appleton,30.0 to 51.0 employees,686.6666666666666
+385,Administrative,Officer,2017-04-23 17:11:07,2017-06-29 17:11:07,94K-114K,Aimbu,3.0,          Oklahoma         ,Tulsa,20.0 to 34.0 employees,620.0
+386,Assistant,Manager,2016-11-21 08:17:03,2017-01-30 08:17:03,84K-113K,Yodel,3.0,          Maine         ,Portland,20.0 to 34.0 employees,620.0
+387,Staff,Accountant II,2020-12-21 05:18:56,2021-01-12 05:18:56,17K-135K,Trudeo,4.0,          Virginia         ,Roanoke,30.0 to 51.0 employees,686.6666666666666
+388,Chief,Design Engineer,2016-05-10 10:47:49,2016-07-07 10:47:49,10K-191K,Yakijo,4.0,          Montana         ,Helena,30.0 to 51.0 employees,686.6666666666666
+389,Tax,Accountant,2017-01-15 16:29:26,2017-01-17 16:29:26,0K-124K,Brainbox,6.0,          Tennessee         ,Nashville,50.0 to 85.0 employees,770.0
+390,Programmer,Analyst III,2017-08-17 15:24:13,2017-11-06 15:24:13,93K-147K,Tekfly,4.0,          California         ,Santa Cruz,30.0 to 51.0 employees,686.6666666666666
+391,Senior,Cost Accountant,2019-02-11 06:32:26,2019-05-19 06:32:26,45K-141K,Yakitri,5.0,          Texas         ,Austin,40.0 to 68.0 employees,734.2857142857142
+392,Chief,Design Engineer,2017-02-21 08:05:33,2017-04-30 08:05:33,19K-188K,Skiba,3.0,          California         ,Sacramento,20.0 to 34.0 employees,620.0
+393,Human,Resources Manager,2017-08-17 09:25:56,2017-10-28 09:25:56,97K-175K,JumpXS,4.0,          Texas         ,Abilene,30.0 to 51.0 employees,686.6666666666666
+394,Pharmacist,,2018-07-12 12:58:17,2018-07-17 12:58:17,27K-132K,Jabberbean,8.0,          California         ,Pasadena,70.0 to 119.0 employees,820.0
+395,Librarian,,2017-12-04 06:58:45,2018-02-02 06:58:45,56K-197K,Tambee,4.0,          California         ,Los Angeles,30.0 to 51.0 employees,686.6666666666666
+396,Statistician,II,2017-06-20 21:46:27,2017-09-08 21:46:27,36K-148K,Mita,2.0,          Georgia         ,Lawrenceville,10.0 to 17.0 employees,520.0
+397,Nuclear,Power Engineer,2017-08-17 01:03:36,2017-09-07 01:03:36,1K-160K,Brainlounge,9.0,          Georgia         ,Augusta,80.0 to 136.0 employees,838.1818181818182
+398,Internal,Auditor,2019-05-22 21:11:06,2019-07-11 21:11:06,27K-121K,Vimbo,3.0,          Indiana         ,Indianapolis,20.0 to 34.0 employees,620.0
+399,Teacher,,2016-04-18 22:48:29,2016-07-25 22:48:29,96K-178K,Wikizz,4.0,          Michigan         ,Lansing,30.0 to 51.0 employees,686.6666666666666
+400,Librarian,,2020-01-09 00:21:30,2020-01-23 00:21:30,5K-160K,Brainverse,8.0,          Texas         ,Corpus Christi,70.0 to 119.0 employees,820.0
+401,Senior,Developer,2019-05-10 02:01:16,2019-06-12 02:01:16,100K-153K,Dynabox,5.0,          Nebraska         ,Lincoln,40.0 to 68.0 employees,734.2857142857142
+402,Structural,Analysis Engineer,2020-09-15 15:15:53,2020-11-22 15:15:53,82K-184K,Quatz,3.0,          Pennsylvania         ,Erie,20.0 to 34.0 employees,620.0
+403,Senior,Editor,2021-01-25 07:08:00,2021-03-30 07:08:00,64K-161K,Twitterworks,10.0,          Kansas         ,Topeka,90.0 to 153.0 employees,853.3333333333335
+404,Help,Desk Technician,2018-02-21 15:56:21,2018-05-08 15:56:21,96K-119K,Brightbean,8.0,          Texas         ,El Paso,70.0 to 119.0 employees,820.0
+405,Business,Systems Development Analyst,2016-11-29 18:55:03,2017-01-03 18:55:03,37K-116K,Eayo,2.0,          Minnesota         ,Duluth,10.0 to 17.0 employees,520.0
+406,Human,Resources Assistant I,2019-06-09 20:40:42,2019-07-06 20:40:42,82K-107K,Tambee,4.0,          Florida         ,,30.0 to 51.0 employees,686.6666666666666
+407,Sales,Associate,2016-07-25 16:42:37,2016-10-06 16:42:37,77K-177K,Skyndu,4.0,          Texas         ,El Paso,30.0 to 51.0 employees,686.6666666666666
+408,Technical,Writer,2018-08-05 16:40:58,2018-09-28 16:40:58,92K-122K,Digitube,6.0,          Wisconsin         ,Milwaukee,50.0 to 85.0 employees,770.0
+409,Web,Designer II,2020-11-22 01:01:26,2021-01-12 01:01:26,79K-109K,Kwilith,5.0,          Missouri         ,Kansas City,40.0 to 68.0 employees,734.2857142857142
+410,Account,Executive,2017-09-08 05:21:17,2016-09-29 05:21:17,6K-130K,Twinte,4.0,          Washington         ,Vancouver,30.0 to 51.0 employees,686.6666666666666
+411,Director,of Sales,2016-11-11 08:47:13,2016-12-20 08:47:13,22K-178K,Twitternation,11.0,          Oklahoma         ,Tulsa,100.0 to 170.0 employees,866.1538461538463
+412,Sales,Associate,2016-11-14 09:59:06,2016-12-28 09:59:06,24K-175K,Dynabox,5.0,          Texas         ,Denton,40.0 to 68.0 employees,734.2857142857142
+413,Accounting,Assistant III,2016-04-12 09:08:51,2016-05-04 09:08:51,70K-105K,Livetube,6.0,          California         ,Sacramento,50.0 to 85.0 employees,770.0
+414,Staff,Scientist,2016-08-31 22:30:41,2016-09-16 22:30:41,9K-153K,Eabox,3.0,          Texas         ,El Paso,20.0 to 34.0 employees,620.0
+415,Project,Manager,2020-08-01 19:20:28,2020-11-09 19:20:28,30K-120K,Chatterpoint,10.0,          Texas         ,Dallas,90.0 to 153.0 employees,853.3333333333335
+416,Web,Developer IV,2018-08-14 14:46:03,2018-09-27 14:46:03,4K-106K,Thoughtblab,9.0,          Massachusetts         ,Boston,80.0 to 136.0 employees,838.1818181818182
+417,Teacher,,2018-07-05 11:04:10,2018-07-14 11:04:10,31K-171K,Eayo,2.0,          Alabama         ,Birmingham,10.0 to 17.0 employees,520.0
+418,Social,Worker,2016-12-05 02:39:24,2017-01-26 02:39:24,9K-183K,DabZ,2.0,          Texas         ,Austin,10.0 to 17.0 employees,520.0
+419,Recruiter,,2020-11-05 09:54:52,2021-01-04 09:54:52,40K-176K,Skyndu,4.0,          Indiana         ,South Bend,30.0 to 51.0 employees,686.6666666666666
+420,Technical,Writer,2018-07-31 15:46:37,2018-09-07 15:46:37,32K-146K,Gabvine,5.0,          Oklahoma         ,Oklahoma City,40.0 to 68.0 employees,734.2857142857142
+421,VP,Product Management,2019-08-06 20:22:45,2017-08-30 20:22:45,28K-132K,Flashset,6.0,          Texas         ,El Paso,50.0 to 85.0 employees,770.0
+422,Analog,Circuit Design manager,2019-10-29 18:43:32,2020-01-06 18:43:32,31K-187K,Tavu,2.0,          Texas         ,San Antonio,10.0 to 17.0 employees,520.0
+423,Database,Administrator III,2016-09-30 03:55:20,2016-10-19 03:55:20,41K-166K,Shuffledrive,10.0,          New Mexico         ,Albuquerque,90.0 to 153.0 employees,853.3333333333335
+424,Marketing,Manager,2018-10-07 04:06:39,2018-11-14 04:06:39,54K-199K,Jaxworks,6.0,          District of Columbia         ,Washington,50.0 to 85.0 employees,770.0
+425,Office,Assistant IV,2017-06-15 18:24:18,2017-07-25 18:24:18,85K-106K,LiveZ,3.0,          New Jersey         ,Trenton,20.0 to 34.0 employees,620.0
+426,Teacher,,2016-11-15 01:10:32,2016-12-15 01:10:32,46K-114K,Voonyx,4.0,          Florida         ,,30.0 to 51.0 employees,686.6666666666666
+427,Media,Manager III,2019-11-24 22:36:51,2020-02-21 22:36:51,74K-132K,Youspan,5.0,          North Carolina         ,Raleigh,40.0 to 68.0 employees,734.2857142857142
+428,Graphic,Designer,2017-08-05 02:05:22,2017-11-10 02:05:22,97K-125K,Quatz,3.0,          Washington         ,Yakima,20.0 to 34.0 employees,620.0
+429,Database,Administrator I,2020-03-18 20:35:49,2020-04-04 20:35:49,89K-189K,Tazz,2.0,          North Carolina         ,Charlotte,10.0 to 17.0 employees,520.0
+430,Director,of Sales,2017-10-02 15:36:06,2017-10-05 15:36:06,2K-158K,Brightbean,8.0,          Illinois         ,Chicago,70.0 to 119.0 employees,820.0
+431,Electrical,Engineer,2021-02-03 08:13:52,2018-05-13 08:13:52,34K-127K,Jayo,2.0,          California         ,Sacramento,10.0 to 17.0 employees,520.0
+432,Research,Assistant I,2019-01-31 02:11:44,2019-03-14 02:11:44,27K-121K,Dazzlesphere,10.0,          Arizona         ,Phoenix,90.0 to 153.0 employees,853.3333333333335
+433,Product,Engineer,2016-11-07 06:27:11,2016-11-16 06:27:11,86K-148K,Buzzshare,7.0,          California         ,Los Angeles,60.0 to 102.0 employees,797.7777777777777
+434,Junior,Executive,2018-03-11 09:16:59,2018-03-16 09:16:59,24K-125K,Quire,3.0,          Arizona         ,Tucson,20.0 to 34.0 employees,620.0
+435,Business,Systems Development Analyst,2020-12-05 02:48:59,2021-02-28 02:48:59,84K-120K,Ntags,3.0,          Ohio         ,Canton,20.0 to 34.0 employees,620.0
+436,Product,Engineer,2016-08-13 03:24:42,2016-11-07 03:24:42,33K-131K,Avavee,4.0,          Kentucky         ,Louisville,30.0 to 51.0 employees,686.6666666666666
+437,Quality,Control Specialist,2016-12-31 11:03:18,2017-03-28 11:03:18,5K-107K,Fiveclub,6.0,          Georgia         ,Atlanta,50.0 to 85.0 employees,770.0
+438,Safety,Technician II,2020-11-18 11:30:04,2020-12-25 11:30:04,8K-139K,Gigaclub,6.0,          Pennsylvania         ,Pittsburgh,50.0 to 85.0 employees,770.0
+439,Product,Engineer,2019-04-06 11:55:51,2019-06-03 11:55:51,77K-188K,Babbleopia,8.0,          Alabama         ,Montgomery,70.0 to 119.0 employees,820.0
+440,Project,Manager,2016-06-04 10:49:21,2016-08-05 10:49:21,81K-112K,Gabvine,5.0,          California         ,Fresno,40.0 to 68.0 employees,734.2857142857142
+441,Information,Systems Manager,2020-12-20 15:29:41,2021-03-22 15:29:41,10K-184K,Kare,2.0,          Texas         ,Bryan,10.0 to 17.0 employees,520.0
+442,Assistant,Manager,2019-05-02 01:02:36,2019-06-07 01:02:36,91K-184K,Avavee,4.0,          Texas         ,Fort Worth,30.0 to 51.0 employees,686.6666666666666
+443,Speech,Pathologist,2018-04-01 03:12:12,2018-05-08 03:12:12,33K-158K,Livepath,6.0,          Pennsylvania         ,Pittsburgh,50.0 to 85.0 employees,770.0
+444,Speech,Pathologist,2019-03-10 08:27:37,2019-05-20 08:27:37,5K-199K,Kare,2.0,          Kentucky         ,Lexington,10.0 to 17.0 employees,520.0
+445,Health,Coach IV,2020-06-29 17:58:56,2020-08-15 17:58:56,80K-178K,Meejo,3.0,          California         ,Sacramento,20.0 to 34.0 employees,620.0
+446,Chemical,Engineer,2020-10-31 16:10:09,2020-12-23 16:10:09,51K-130K,Feedfire,6.0,          District of Columbia         ,Washington,50.0 to 85.0 employees,770.0
+447,Payment,Adjustment Coordinator,2020-07-06 02:42:45,2020-09-02 02:42:45,37K-178K,Ntag,2.0,          Nevada         ,Henderson,10.0 to 17.0 employees,520.0
+448,Software,Engineer III,2017-06-12 10:46:40,2017-06-18 10:46:40,7K-145K,Buzzster,6.0,          Georgia         ,Duluth,50.0 to 85.0 employees,770.0
+449,Media,Manager I,2020-01-31 23:37:23,2020-03-01 23:37:23,96K-135K,Jaloo,3.0,          Arkansas         ,Little Rock,20.0 to 34.0 employees,620.0
+450,Developer,II,2018-12-30 08:55:49,2019-02-14 08:55:49,70K-118K,Vipe,2.0,          Texas         ,El Paso,10.0 to 17.0 employees,520.0
+451,Dental,Hygienist,2019-10-02 02:43:24,2019-12-02 02:43:24,14K-176K,Feedfish,6.0,          Virginia         ,Hampton,50.0 to 85.0 employees,770.0
+452,Internal,Auditor,2020-09-28 23:53:34,2020-11-01 23:53:34,53K-137K,Skiptube,6.0,          Texas         ,Corpus Christi,50.0 to 85.0 employees,770.0
+453,Desktop,Support Technician,2020-11-25 15:29:07,2021-03-03 15:29:07,30K-128K,Jabbersphere,10.0,          Texas         ,Dallas,90.0 to 153.0 employees,853.3333333333335
+454,Financial,Advisor,2017-03-03 01:52:35,2017-05-16 01:52:35,54K-120K,Skipfire,6.0,          New York         ,Jamaica,50.0 to 85.0 employees,770.0
+455,Office,Assistant I,2018-12-16 01:21:10,2019-01-28 01:21:10,51K-188K,Dabfeed,5.0,          Texas         ,Dallas,40.0 to 68.0 employees,734.2857142857142
+456,VP,Quality Control,2018-05-25 07:33:03,2018-07-04 07:33:03,40K-155K,Trilith,5.0,          Oklahoma         ,Tulsa,40.0 to 68.0 employees,734.2857142857142
+457,Payment,Adjustment Coordinator,2019-06-11 15:54:59,2019-07-27 15:54:59,22K-162K,Layo,2.0,          Alabama         ,Montgomery,10.0 to 17.0 employees,520.0
+458,Social,Worker,2017-11-15 01:21:56,2017-12-09 01:21:56,35K-186K,BlogXS,4.0,          Minnesota         ,Saint Paul,30.0 to 51.0 employees,686.6666666666666
+459,Assistant,Manager,2017-06-08 05:52:21,2017-08-30 05:52:21,5K-178K,Roodel,4.0,          Alaska         ,Anchorage,30.0 to 51.0 employees,686.6666666666666
+460,Cost,Accountant,2017-10-21 11:35:25,2017-11-22 11:35:25,52K-189K,Eire,2.0,          New York         ,Buffalo,10.0 to 17.0 employees,520.0
+461,Biostatistician,IV,2020-12-29 14:40:45,2021-03-03 14:40:45,78K-141K,Jabbersphere,10.0,          New York         ,New York City,90.0 to 153.0 employees,853.3333333333335
+462,VP,Product Management,2018-09-12 15:33:00,2018-10-21 15:33:00,64K-124K,Skinder,5.0,          Kansas         ,Wichita,40.0 to 68.0 employees,734.2857142857142
+463,VP,Sales,2017-12-08 10:25:27,2018-02-20 10:25:27,81K-162K,Thoughtblab,9.0,          Illinois         ,Peoria,80.0 to 136.0 employees,838.1818181818182
+464,Administrative,Officer,2017-06-26 16:22:30,2017-07-06 16:22:30,45K-117K,Topiclounge,9.0,          Mississippi         ,Columbus,80.0 to 136.0 employees,838.1818181818182
+465,VP,Sales,2016-09-02 06:26:50,2016-11-10 06:26:50,23K-192K,Riffpath,6.0,          Illinois         ,Chicago,50.0 to 85.0 employees,770.0
+466,Paralegal,,2016-10-09 21:56:33,2016-11-25 21:56:33,87K-151K,Plajo,3.0,          Arizona         ,Tucson,20.0 to 34.0 employees,620.0
+467,Information,Systems Manager,2018-05-16 20:16:15,2018-07-12 20:16:15,78K-121K,Flipbug,5.0,          Illinois         ,Chicago,40.0 to 68.0 employees,734.2857142857142
+468,Cost,Accountant,2016-03-08 06:17:26,2016-04-04 06:17:26,96K-130K,Thoughtstorm,10.0,          Nevada         ,Reno,90.0 to 153.0 employees,853.3333333333335
+469,Physical,Therapy Assistant,2019-09-25 19:37:48,2019-10-21 19:37:48,9K-104K,Kamba,3.0,          California         ,San Diego,20.0 to 34.0 employees,620.0
+470,Statistician,II,2019-04-01 09:19:18,2019-04-18 09:19:18,48K-135K,Yotz,2.0,          New Jersey         ,Trenton,10.0 to 17.0 employees,520.0
+471,Accountant,III,2016-04-17 08:46:05,2016-06-14 08:46:05,83K-135K,Wikizz,4.0,          California         ,San Jose,30.0 to 51.0 employees,686.6666666666666
+472,Help,Desk Technician,2019-09-25 08:17:06,2019-11-10 08:17:06,6K-132K,Kwideo,4.0,          Missouri         ,Jefferson City,30.0 to 51.0 employees,686.6666666666666
+473,VP,Accounting,2019-03-08 10:00:19,2019-05-18 10:00:19,41K-120K,Avamm,3.0,          Arizona         ,Tucson,20.0 to 34.0 employees,620.0
+474,Software,Consultant,2019-01-17 07:15:18,2010-03-10 07:15:18,22K-155K,Twiyo,3.0,          Pennsylvania         ,Pittsburgh,20.0 to 34.0 employees,620.0
+475,Software,Engineer III,2018-07-22 17:22:26,2018-08-22 17:22:26,14K-126K,Rhynyx,4.0,          North Carolina         ,Charlotte,30.0 to 51.0 employees,686.6666666666666
+476,Human,Resources Assistant II,2017-01-06 11:20:47,2017-04-01 11:20:47,81K-133K,Yakidoo,5.0,          North Carolina         ,Charlotte,40.0 to 68.0 employees,734.2857142857142
+477,Professor,,2017-02-13 17:25:55,2017-04-01 17:25:55,70K-120K,Aibox,3.0,          Texas         ,Austin,20.0 to 34.0 employees,620.0
+478,Help,Desk Technician,2017-05-22 11:48:35,2017-07-19 11:48:35,26K-144K,Kazu,2.0,          District of Columbia         ,Washington,10.0 to 17.0 employees,520.0
+479,Structural,Engineer,2019-08-09 15:16:13,2019-09-27 15:16:13,19K-105K,Skyndu,4.0,          Florida         ,Naples,30.0 to 51.0 employees,686.6666666666666
+480,Account,Executive,2017-05-17 07:57:10,2017-08-12 07:57:10,27K-193K,JumpXS,4.0,          Alabama         ,Mobile,30.0 to 51.0 employees,686.6666666666666
+481,Dental,Hygienist,2018-05-07 17:49:46,2018-07-24 17:49:46,84K-141K,Roomm,3.0,          District of Columbia         ,Washington,20.0 to 34.0 employees,620.0
+482,Health,Coach IV,2017-10-06 20:46:07,2017-10-09 20:46:07,76K-165K,Thoughtmix,8.0,          Georgia         ,Atlanta,70.0 to 119.0 employees,820.0
+483,Information,Systems Manager,2021-01-05 13:12:11,2021-04-13 13:12:11,95K-195K,Kwideo,4.0,          Ohio         ,Cincinnati,30.0 to 51.0 employees,686.6666666666666
+484,Nurse,,2018-02-12 21:02:39,2018-02-27 21:02:39,87K-144K,Jaloo,3.0,          Missouri         ,Saint Louis,20.0 to 34.0 employees,620.0
+485,Pharmacist,,2017-05-07 13:04:39,2017-05-29 13:04:39,46K-147K,Quimba,4.0,          Massachusetts         ,Springfield,30.0 to 51.0 employees,686.6666666666666
+486,Human,Resources Assistant II,2016-05-12 07:12:01,2016-07-23 07:12:01,40K-134K,Dabshots,6.0,          Washington         ,Yakima,50.0 to 85.0 employees,770.0
+487,Administrative,Officer,2017-07-11 20:00:28,2017-09-06 20:00:28,45K-126K,Abatz,3.0,          Michigan         ,Lansing,20.0 to 34.0 employees,620.0
+488,Professor,,2019-10-25 21:34:37,2020-01-07 21:34:37,46K-200K,Feedspan,6.0,          Georgia         ,Augusta,50.0 to 85.0 employees,770.0
+489,Quality,Control Specialist,2017-02-04 15:28:59,2017-02-08 15:28:59,83K-187K,Browsecat,7.0,          Oklahoma         ,Oklahoma City,60.0 to 102.0 employees,797.7777777777777
+490,Associate,Professor,2019-12-02 16:10:28,2020-02-15 16:10:28,96K-183K,Riffpath,6.0,          Florida         ,Tallahassee,50.0 to 85.0 employees,770.0
+491,Research,Nurse,2017-06-16 06:07:32,2017-08-16 06:07:32,83K-178K,Yamia,3.0,          Nevada         ,Las Vegas,20.0 to 34.0 employees,620.0
+492,Product,Engineer,2020-05-07 14:49:01,2020-06-15 14:49:01,94K-158K,Riffpath,6.0,          New Jersey         ,Paterson,50.0 to 85.0 employees,770.0
+493,Clinical,Specialist,2016-09-01 04:12:57,2016-11-08 04:12:57,16K-191K,Feedbug,5.0,          Wisconsin         ,Green Bay,40.0 to 68.0 employees,734.2857142857142
+494,Desktop,Support Technician,2019-07-16 04:45:52,2019-09-03 04:45:52,99K-176K,Katz,2.0,          Colorado         ,,10.0 to 17.0 employees,520.0
+495,Data,Coordiator,2016-06-02 15:58:32,2016-09-09 15:58:32,77K-102K,Latz,2.0,          Texas         ,Gatesville,10.0 to 17.0 employees,520.0
+496,Senior,Financial Analyst,2019-10-02 14:54:17,2020-01-02 14:54:17,55K-195K,Tagtune,5.0,          Connecticut         ,New Haven,40.0 to 68.0 employees,734.2857142857142
+497,Analog,Circuit Design manager,2016-03-24 11:03:11,2016-05-01 11:03:11,55K-123K,Camido,4.0,          South Dakota         ,Sioux Falls,30.0 to 51.0 employees,686.6666666666666
+498,Administrative,Officer,2019-08-25 21:41:23,2019-09-01 21:41:23,3K-135K,Tavu,2.0,          California         ,Fresno,10.0 to 17.0 employees,520.0
+499,Cost,Accountant,2019-11-27 15:08:39,2020-01-19 15:08:39,30K-159K,Kimia,3.0,          Oregon         ,Portland,20.0 to 34.0 employees,620.0
+500,Quality,Engineer,2020-10-22 17:10:41,2020-11-19 17:10:41,97K-163K,Ntags,3.0,          Michigan         ,Lansing,20.0 to 34.0 employees,620.0
+501,Data,Coordiator,2020-08-20 02:30:18,2020-10-07 02:30:18,27K-158K,Thoughtmix,8.0,          Colorado         ,,70.0 to 119.0 employees,820.0
+502,GIS,Technical Architect,2017-04-16 00:57:07,2017-06-10 00:57:07,89K-170K,Tekfly,4.0,          California         ,San Bernardino,30.0 to 51.0 employees,686.6666666666666
+503,Junior,Executive,2020-12-17 08:36:27,2020-12-27 08:36:27,42K-149K,Rhybox,4.0,          Ohio         ,Akron,30.0 to 51.0 employees,686.6666666666666
+504,Payment,Adjustment Coordinator,2017-12-29 00:34:46,2018-03-30 00:34:46,15K-182K,Bubblebox,7.0,          Kentucky         ,Louisville,60.0 to 102.0 employees,797.7777777777777
+505,Nuclear,Power Engineer,2018-07-29 00:52:05,2018-09-16 00:52:05,87K-121K,Viva,2.0,          Florida         ,Naples,10.0 to 17.0 employees,520.0
+506,Web,Developer IV,2019-06-29 16:32:20,2019-08-06 16:32:20,7K-128K,Kwinu,3.0,          Ohio         ,Dayton,20.0 to 34.0 employees,620.0
+507,Structural,Engineer,2020-02-14 03:14:25,2020-04-08 03:14:25,7K-138K,Yakitri,5.0,          New York         ,New York City,40.0 to 68.0 employees,734.2857142857142
+508,Systems,Administrator IV,2018-03-27 20:32:45,2018-06-23 20:32:45,76K-119K,Browsedrive,9.0,          Oregon         ,Portland,80.0 to 136.0 employees,838.1818181818182
+509,Assistant,Manager,2017-11-06 19:02:25,2018-02-04 19:02:25,69K-156K,Divanoodle,8.0,          California         ,San Francisco,70.0 to 119.0 employees,820.0
+510,Software,Consultant,2021-01-17 15:09:45,2021-03-03 15:09:45,77K-157K,Layo,2.0,          California         ,Los Angeles,10.0 to 17.0 employees,520.0
+511,Environmental,Specialist,2020-08-27 23:41:04,2020-12-02 23:41:04,27K-167K,Wikido,4.0,          California         ,San Jose,30.0 to 51.0 employees,686.6666666666666
+512,Engineer,III,2017-08-20 01:38:35,2017-10-12 01:38:35,0K-197K,Roodel,4.0,          Kentucky         ,Louisville,30.0 to 51.0 employees,686.6666666666666
+513,Health,Coach I,2018-05-29 18:11:51,2018-07-06 18:11:51,12K-174K,Voonix,4.0,          Florida         ,,30.0 to 51.0 employees,686.6666666666666
+514,Staff,Scientist,2018-01-26 15:05:47,2018-03-21 15:05:47,66K-189K,Eayo,2.0,          North Dakota         ,Bismarck,10.0 to 17.0 employees,520.0
+515,Electrical,Engineer,2018-12-25 12:08:25,2019-03-19 12:08:25,38K-131K,Dynava,4.0,          Michigan         ,Lansing,30.0 to 51.0 employees,686.6666666666666
+516,Senior,Quality Engineer,2020-06-28 14:52:59,2020-10-02 14:52:59,27K-120K,Skiptube,6.0,          Texas         ,Houston,50.0 to 85.0 employees,770.0
+517,Systems,Administrator IV,2020-10-17 22:29:43,2020-12-17 22:29:43,70K-183K,Thoughtmix,8.0,          New York         ,Albany,70.0 to 119.0 employees,820.0
+518,Community,Outreach Specialist,2020-10-11 01:21:49,2020-11-15 01:21:49,83K-161K,Topicshots,8.0,          Ohio         ,Cincinnati,70.0 to 119.0 employees,820.0
+519,Chief,Design Engineer,2019-05-01 19:29:34,2019-05-17 19:29:34,72K-111K,Yombu,3.0,          New York         ,New York City,20.0 to 34.0 employees,620.0
+520,Clinical,Specialist,2018-04-19 17:45:53,2018-06-09 17:45:53,12K-131K,Blogspan,6.0,          Ohio         ,Dayton,50.0 to 85.0 employees,770.0
+521,Biostatistician,III,2017-11-18 05:28:30,2017-11-21 05:28:30,92K-129K,Jayo,2.0,          Illinois         ,Chicago,10.0 to 17.0 employees,520.0
+522,Sales,Representative,2021-02-05 02:40:50,2021-02-11 02:40:50,64K-150K,Minyx,3.0,          Indiana         ,Crawfordsville,20.0 to 34.0 employees,620.0
+523,Dental,Hygienist,2020-08-16 01:47:26,2020-09-30 01:47:26,8K-130K,Twimm,3.0,          Texas         ,Austin,20.0 to 34.0 employees,620.0
+524,Quality,Engineer,2018-01-21 19:38:20,2018-02-24 19:38:20,86K-101K,Realblab,6.0,          Texas         ,San Antonio,50.0 to 85.0 employees,770.0
+525,Research,Nurse,2018-05-25 19:18:53,2018-07-20 19:18:53,3K-152K,Rhynyx,4.0,          New York         ,Buffalo,30.0 to 51.0 employees,686.6666666666666
+526,Senior,Developer,2017-07-25 13:27:11,2017-10-19 13:27:11,18K-156K,Cogilith,6.0,          Colorado         ,Denver,50.0 to 85.0 employees,770.0
+527,Desktop,Support Technician,2019-11-12 17:26:07,2019-12-25 17:26:07,93K-140K,Twitterworks,10.0,          Texas         ,El Paso,90.0 to 153.0 employees,853.3333333333335
+528,Health,Coach II,2019-02-12 11:24:08,2019-02-23 11:24:08,40K-135K,Meejo,3.0,          Ohio         ,Cleveland,20.0 to 34.0 employees,620.0
+529,Accounting,Assistant I,2018-08-15 19:56:47,2018-10-21 19:56:47,73K-167K,Roombo,4.0,          Ohio         ,Canton,30.0 to 51.0 employees,686.6666666666666
+530,Internal,Auditor,2016-09-22 08:34:44,2016-12-26 08:34:44,87K-166K,Kimia,3.0,          Georgia         ,Norcross,20.0 to 34.0 employees,620.0
+531,Help,Desk Technician,2020-02-04 10:35:42,2020-03-18 10:35:42,74K-191K,Pixope,4.0,          Nevada         ,Reno,30.0 to 51.0 employees,686.6666666666666
+532,VP,Accounting,2019-01-02 03:02:05,2019-02-04 03:02:05,76K-119K,Voolia,4.0,          Ohio         ,Cincinnati,30.0 to 51.0 employees,686.6666666666666
+533,Analyst,Programmer,2016-07-15 08:27:38,2016-08-09 08:27:38,65K-162K,Youspan,5.0,          Texas         ,Houston,40.0 to 68.0 employees,734.2857142857142
+534,Nurse,Practicioner,2019-10-06 15:31:53,2020-01-10 15:31:53,89K-115K,Yodel,3.0,          Ohio         ,Cincinnati,20.0 to 34.0 employees,620.0
+535,Product,Engineer,2016-11-08 17:55:42,2017-01-26 17:55:42,8K-129K,Buzzshare,7.0,          New York         ,New York City,60.0 to 102.0 employees,797.7777777777777
+536,Desktop,Support Technician,2017-11-27 18:10:04,2018-03-04 18:10:04,32K-198K,Tagchat,5.0,          Maryland         ,Baltimore,40.0 to 68.0 employees,734.2857142857142
+537,Biostatistician,IV,2020-02-16 12:44:48,2020-03-20 12:44:48,1K-166K,Oloo,2.0,          California         ,Los Angeles,10.0 to 17.0 employees,520.0
+538,Product,Engineer,2020-03-28 19:07:53,2020-06-06 19:07:53,8K-169K,Skiptube,6.0,          New York         ,Albany,50.0 to 85.0 employees,770.0
+539,Senior,Financial Analyst,2020-03-24 16:38:04,2020-04-15 16:38:04,98K-172K,Blogtags,6.0,          South Dakota         ,Sioux Falls,50.0 to 85.0 employees,770.0
+540,GIS,Technical Architect,2016-09-01 16:21:47,2016-10-04 16:21:47,14K-151K,Tagtune,5.0,          Washington         ,Tacoma,40.0 to 68.0 employees,734.2857142857142
+541,Administrative,Officer,2019-05-15 09:36:34,2019-06-26 09:36:34,86K-119K,Viva,2.0,          Texas         ,Round Rock,10.0 to 17.0 employees,520.0
+542,Human,Resources Manager,2019-01-28 22:41:02,2019-05-04 22:41:02,5K-175K,Linkbridge,8.0,          Florida         ,Pompano Beach,70.0 to 119.0 employees,820.0
+543,Mechanical,Systems Engineer,2020-09-26 05:40:24,2020-10-15 05:40:24,92K-123K,Pixoboo,5.0,          Maryland         ,Baltimore,40.0 to 68.0 employees,734.2857142857142
+544,Executive,Secretary,2016-06-12 23:54:54,2016-08-29 23:54:54,14K-127K,Voonder,5.0,          Alaska         ,Fairbanks,40.0 to 68.0 employees,734.2857142857142
+545,VP,Quality Control,2020-04-02 14:58:09,2020-06-30 14:58:09,2K-173K,Gevee,3.0,          Maryland         ,Hagerstown,20.0 to 34.0 employees,620.0
+546,Health,Coach IV,2017-09-11 14:35:26,2017-12-09 14:35:26,91K-196K,Lazz,2.0,          Louisiana         ,Lafayette,10.0 to 17.0 employees,520.0
+547,Computer,Systems Analyst III,2018-10-08 03:50:16,2018-11-11 03:50:16,90K-195K,Gabvine,5.0,          Texas         ,Dallas,40.0 to 68.0 employees,734.2857142857142
+548,Associate,Professor,2020-02-04 23:18:59,2020-03-04 23:18:59,57K-176K,Gabcube,5.0,          California         ,Fresno,40.0 to 68.0 employees,734.2857142857142
+549,Product,Engineer,2020-05-14 01:27:25,2020-05-23 01:27:25,70K-138K,Eare,2.0,          Pennsylvania         ,Pittsburgh,10.0 to 17.0 employees,520.0
+550,Teacher,,2019-10-15 14:59:19,2019-10-24 14:59:19,50K-170K,Layo,2.0,          Illinois         ,Chicago,10.0 to 17.0 employees,520.0
+551,Food,Chemist,2017-05-23 04:38:42,2017-05-26 04:38:42,43K-193K,Lazz,2.0,          Wisconsin         ,Milwaukee,10.0 to 17.0 employees,520.0
+552,Compensation,Analyst,2019-03-21 22:05:21,2019-04-24 22:05:21,15K-148K,Kamba,3.0,          California         ,Santa Ana,20.0 to 34.0 employees,620.0
+553,Electrical,Engineer,2019-08-22 14:00:54,2019-10-03 14:00:54,4K-179K,Wikivu,4.0,          Texas         ,Longview,30.0 to 51.0 employees,686.6666666666666
+554,Legal,Assistant,2017-06-12 15:27:41,2017-07-06 15:27:41,2K-154K,Realcube,6.0,          Missouri         ,Kansas City,50.0 to 85.0 employees,770.0
+555,GIS,Technical Architect,2019-02-03 02:15:35,2019-05-03 02:15:35,91K-194K,Nlounge,5.0,          Texas         ,Amarillo,40.0 to 68.0 employees,734.2857142857142
+556,Recruiter,,2018-06-26 07:01:18,2018-07-06 07:01:18,20K-170K,Talane,4.0,          California         ,Irvine,30.0 to 51.0 employees,686.6666666666666
+557,Paralegal,,2018-07-12 18:34:02,2018-10-12 18:34:02,67K-101K,Roomm,3.0,          Florida         ,Miami,20.0 to 34.0 employees,620.0
+558,Web,Designer IV,2016-04-06 14:06:16,2016-05-05 14:06:16,11K-183K,Centizu,5.0,          New York         ,New York City,40.0 to 68.0 employees,734.2857142857142
+559,Recruiter,,2019-09-17 11:22:56,2019-12-07 11:22:56,49K-111K,Quaxo,3.0,          Georgia         ,Atlanta,20.0 to 34.0 employees,620.0
+560,Occupational,Therapist,2016-06-20 18:54:55,2016-06-21 18:54:55,52K-148K,Zoozzy,4.0,          Michigan         ,Detroit,30.0 to 51.0 employees,686.6666666666666
+561,Help,Desk Technician,2018-11-13 16:32:16,2018-11-20 16:32:16,36K-139K,Rhynyx,4.0,          Texas         ,Dallas,30.0 to 51.0 employees,686.6666666666666
+562,GIS,Technical Architect,2018-03-15 13:54:23,2018-05-17 13:54:23,8K-185K,Flashspan,7.0,          Florida         ,Miami,60.0 to 102.0 employees,797.7777777777777
+563,Clinical,Specialist,2016-06-17 19:14:25,2016-07-10 19:14:25,94K-123K,Skyble,4.0,          New York         ,Staten Island,30.0 to 51.0 employees,686.6666666666666
+564,Web,Developer III,2018-11-24 07:35:34,2019-02-26 07:35:34,93K-186K,Eadel,3.0,          Tennessee         ,Memphis,20.0 to 34.0 employees,620.0
+565,Design,Engineer,2016-07-24 13:29:13,2016-07-26 13:29:13,68K-111K,Linkbridge,8.0,          Nevada         ,North Las Vegas,70.0 to 119.0 employees,820.0
+566,Senior,Financial Analyst,2020-06-22 09:44:57,2020-08-09 09:44:57,83K-168K,Zava,2.0,          Oregon         ,Portland,10.0 to 17.0 employees,520.0
+567,Marketing,Assistant,2018-10-05 05:44:17,2018-10-27 05:44:17,4K-138K,Ntag,2.0,          Texas         ,Dallas,10.0 to 17.0 employees,520.0
+568,Assistant,Professor,2019-10-10 20:36:00,2019-11-22 20:36:00,19K-190K,Gabcube,5.0,          Texas         ,Dallas,40.0 to 68.0 employees,734.2857142857142
+569,Research,Assistant I,2018-12-21 05:27:49,2019-03-21 05:27:49,44K-142K,Mydeo,3.0,          Ohio         ,Cincinnati,20.0 to 34.0 employees,620.0
+570,Engineer,IV,2019-06-27 14:07:20,2019-09-07 14:07:20,84K-127K,Babbleopia,8.0,          New York         ,Jamaica,70.0 to 119.0 employees,820.0
+571,Teacher,,2019-09-10 19:15:06,2019-09-24 19:15:06,6K-158K,Lazz,2.0,          New Jersey         ,Jersey City,10.0 to 17.0 employees,520.0
+572,Civil,Engineer,2020-08-21 17:04:02,2020-11-07 17:04:02,48K-162K,Wikibox,5.0,          Texas         ,Arlington,40.0 to 68.0 employees,734.2857142857142
+573,Account,Coordinator,2020-10-16 12:12:16,2020-10-31 12:12:16,52K-162K,Zazio,3.0,          Missouri         ,Saint Louis,20.0 to 34.0 employees,620.0
+574,Analyst,Programmer,2018-02-03 14:22:11,2018-03-17 14:22:11,77K-160K,Skivee,4.0,          Michigan         ,Warren,30.0 to 51.0 employees,686.6666666666666
+575,Civil,Engineer,2018-12-01 20:51:36,2019-02-12 20:51:36,20K-115K,Demivee,5.0,          California         ,Fresno,40.0 to 68.0 employees,734.2857142857142
+576,Editor,,2018-04-15 15:19:22,2018-07-05 15:19:22,21K-183K,Eidel,3.0,          Virginia         ,Herndon,20.0 to 34.0 employees,620.0
+577,Marketing,Assistant,2018-05-21 06:27:55,2018-08-06 06:27:55,96K-152K,Zoomdog,5.0,          California         ,Sacramento,40.0 to 68.0 employees,734.2857142857142
+578,Programmer,I,2017-07-06 11:47:11,2017-10-10 11:47:11,3K-185K,Centimia,6.0,          Illinois         ,Peoria,50.0 to 85.0 employees,770.0
+579,Geologist,III,2016-10-01 07:35:59,2016-12-01 07:35:59,57K-105K,Zoovu,3.0,          Utah         ,Sandy,20.0 to 34.0 employees,620.0
+580,Senior,Editor,2019-10-07 05:20:19,2020-01-09 05:20:19,19K-150K,Feednation,8.0,          West Virginia         ,Huntington,70.0 to 119.0 employees,820.0
+581,Software,Test Engineer II,2019-08-11 09:16:22,2019-08-30 09:16:22,3K-135K,Skyvu,3.0,          California         ,San Diego,20.0 to 34.0 employees,620.0
+582,Physical,Therapy Assistant,2018-06-13 17:14:33,2018-09-11 17:14:33,26K-140K,Skimia,4.0,          Florida         ,,30.0 to 51.0 employees,686.6666666666666
+583,Executive,Secretary,2017-11-20 10:22:51,2018-02-04 10:22:51,45K-150K,Plajo,3.0,          Texas         ,Odessa,20.0 to 34.0 employees,620.0
+584,Geologist,I,2020-08-15 00:34:46,2020-08-22 00:34:46,100K-160K,Rhynyx,4.0,          District of Columbia         ,Washington,30.0 to 51.0 employees,686.6666666666666
+585,Systems,Administrator IV,2019-08-31 05:41:27,2019-12-09 05:41:27,56K-168K,Kwimbee,5.0,          Idaho         ,Idaho Falls,40.0 to 68.0 employees,734.2857142857142
+586,Help,Desk Operator,2019-08-25 15:33:06,2019-08-29 15:33:06,82K-152K,Tambee,4.0,          Georgia         ,Macon,30.0 to 51.0 employees,686.6666666666666
+587,Programmer,Analyst III,2017-04-11 11:59:10,2017-06-09 11:59:10,4K-168K,Vitz,2.0,          Kentucky         ,Louisville,10.0 to 17.0 employees,520.0
+588,Staff,Scientist,2016-11-25 05:33:46,2016-11-29 05:33:46,78K-178K,Devpoint,6.0,          Maryland         ,Rockville,50.0 to 85.0 employees,770.0
+589,Mechanical,Systems Engineer,2018-04-14 22:44:57,2018-07-13 22:44:57,3K-123K,Realpoint,7.0,          District of Columbia         ,Washington,60.0 to 102.0 employees,797.7777777777777
+590,Research,Nurse,2019-03-05 04:44:20,2019-05-12 04:44:20,89K-180K,Lazz,2.0,          Virginia         ,Roanoke,10.0 to 17.0 employees,520.0
+591,Business,Systems Development Analyst,2019-10-05 20:18:47,2019-12-29 20:18:47,89K-120K,Meeveo,4.0,          Hawaii         ,Honolulu,30.0 to 51.0 employees,686.6666666666666
+592,Speech,Pathologist,2019-06-22 00:55:06,2019-08-15 00:55:06,33K-152K,Devbug,4.0,          Texas         ,Fort Worth,30.0 to 51.0 employees,686.6666666666666
+593,Accountant,II,2020-03-28 02:50:27,2020-06-03 02:50:27,69K-193K,Janyx,3.0,          California         ,Santa Cruz,20.0 to 34.0 employees,620.0
+594,Health,Coach IV,2019-03-28 11:19:21,2019-06-29 11:19:21,27K-177K,Nlounge,5.0,          Arizona         ,Scottsdale,40.0 to 68.0 employees,734.2857142857142
+595,Geological,Engineer,2017-04-14 05:57:29,2017-05-02 05:57:29,4K-150K,Thoughtstorm,10.0,          West Virginia         ,Charleston,90.0 to 153.0 employees,853.3333333333335
+596,Tax,Accountant,2016-09-13 08:55:31,2016-10-20 08:55:31,0K-128K,Zoomdog,5.0,          Virginia         ,Alexandria,40.0 to 68.0 employees,734.2857142857142
+597,Compensation,Analyst,2020-08-27 17:30:42,2020-08-30 17:30:42,95K-153K,Tavu,2.0,          Indiana         ,Fort Wayne,10.0 to 17.0 employees,520.0
+598,Senior,Quality Engineer,2017-10-09 18:00:47,2018-01-14 18:00:47,61K-126K,Trupe,3.0,          Virginia         ,Newport News,20.0 to 34.0 employees,620.0
+599,Account,Representative II,2020-11-13 14:21:34,2021-01-27 14:21:34,78K-149K,Nlounge,5.0,          Colorado         ,Denver,40.0 to 68.0 employees,734.2857142857142
+600,Director,of Sales,2016-04-04 12:54:01,2016-06-26 12:54:01,71K-148K,Yodel,3.0,          Georgia         ,Marietta,20.0 to 34.0 employees,620.0
+601,Recruiting,Manager,2019-11-18 16:50:23,2019-11-26 16:50:23,35K-111K,Photobean,7.0,          Colorado         ,Denver,60.0 to 102.0 employees,797.7777777777777
+602,VP,Accounting,2017-03-23 18:14:53,2017-04-06 18:14:53,25K-166K,Ozu,1.0,          Nevada         ,Carson City,0.0 to 0.0 employees,353.33333333333326
+603,Nuclear,Power Engineer,2016-12-12 08:01:41,2016-12-16 08:01:41,17K-141K,Aimbu,3.0,          Minnesota         ,Young America,20.0 to 34.0 employees,620.0
+604,Nurse,,2018-11-25 16:57:25,2019-01-08 16:57:25,43K-180K,Tagopia,5.0,          Florida         ,Miami,40.0 to 68.0 employees,734.2857142857142
+605,VP,Accounting,2016-06-10 22:26:24,2016-06-25 22:26:24,15K-150K,Yombu,3.0,          Minnesota         ,Minneapolis,20.0 to 34.0 employees,620.0
+606,Data,Coordiator,2018-06-07 08:04:13,2018-07-23 08:04:13,1K-123K,Skiptube,6.0,          Nebraska         ,Omaha,50.0 to 85.0 employees,770.0
+607,Programmer,III,2019-02-02 14:41:44,2019-05-11 14:41:44,32K-161K,Oyondu,4.0,          California         ,Fresno,30.0 to 51.0 employees,686.6666666666666
+608,Recruiting,Manager,2018-09-13 02:31:00,2018-11-21 02:31:00,54K-175K,Dablist,5.0,          Ohio         ,Dayton,40.0 to 68.0 employees,734.2857142857142
+609,Help,Desk Operator,2019-01-09 11:36:35,2019-02-04 11:36:35,24K-182K,Shuffletag,8.0,          Kansas         ,Wichita,70.0 to 119.0 employees,820.0
+610,Media,Manager III,2019-05-23 05:33:43,2019-08-07 05:33:43,79K-190K,Jaxspan,5.0,          Illinois         ,Palatine,40.0 to 68.0 employees,734.2857142857142
+611,Sales,Representative,2016-02-28 22:35:57,2016-03-17 22:35:57,37K-140K,Vipe,2.0,          Texas         ,Houston,10.0 to 17.0 employees,520.0
+612,Dental,Hygienist,2019-07-15 00:06:21,2019-07-26 00:06:21,29K-195K,Mydo,2.0,          Connecticut         ,Hartford,10.0 to 17.0 employees,520.0
+613,VP,Marketing,2018-10-13 16:52:39,2019-01-12 16:52:39,3K-134K,Zoomdog,5.0,          South Carolina         ,Charleston,40.0 to 68.0 employees,734.2857142857142
+614,Paralegal,,2016-12-25 19:03:41,2017-03-04 19:03:41,10K-123K,Thoughtmix,8.0,          Iowa         ,Davenport,70.0 to 119.0 employees,820.0
+615,Cost,Accountant,2018-05-06 08:57:36,2018-07-22 08:57:36,97K-104K,Fadeo,3.0,          Georgia         ,Macon,20.0 to 34.0 employees,620.0
+616,Computer,Systems Analyst I,2019-06-25 00:05:32,2019-09-07 00:05:32,18K-106K,Yoveo,3.0,          Tennessee         ,Chattanooga,20.0 to 34.0 employees,620.0
+617,Actuary,,2020-05-23 07:11:46,2020-07-13 07:11:46,22K-142K,Innojam,5.0,          Pennsylvania         ,Levittown,40.0 to 68.0 employees,734.2857142857142
+618,GIS,Technical Architect,2016-05-12 19:04:13,2016-08-18 19:04:13,8K-136K,Meembee,5.0,          Texas         ,Houston,40.0 to 68.0 employees,734.2857142857142
+619,Senior,Quality Engineer,2017-06-13 14:30:23,2017-07-15 14:30:23,88K-194K,Twitternation,11.0,          Florida         ,Panama City,100.0 to 170.0 employees,866.1538461538463
+620,VP,Accounting,2020-09-30 20:58:51,2020-12-04 20:58:51,79K-115K,Brightdog,7.0,          New Jersey         ,Newark,60.0 to 102.0 employees,797.7777777777777
+621,Staff,Scientist,2017-08-15 20:48:38,2017-11-09 20:48:38,4K-155K,Pixoboo,5.0,          Iowa         ,Des Moines,40.0 to 68.0 employees,734.2857142857142
+622,Director,of Sales,2019-01-16 18:28:00,2019-02-21 18:28:00,57K-188K,Kanoodle,6.0,          Florida         ,Sarasota,50.0 to 85.0 employees,770.0
+623,Civil,Engineer,2017-10-30 12:20:53,2018-02-02 12:20:53,53K-175K,Divanoodle,8.0,          California         ,Santa Barbara,70.0 to 119.0 employees,820.0
+624,Sales,Associate,2017-04-18 23:13:36,2017-06-22 23:13:36,45K-138K,Quinu,3.0,          Alaska         ,Juneau,20.0 to 34.0 employees,620.0
+625,Research,Nurse,2020-04-16 03:23:51,2020-07-17 03:23:51,41K-191K,Twimm,3.0,          Alabama         ,Birmingham,20.0 to 34.0 employees,620.0
+626,Marketing,Assistant,2017-06-03 20:01:49,2017-08-23 20:01:49,0K-127K,Youbridge,7.0,          Kansas         ,Kansas City,60.0 to 102.0 employees,797.7777777777777
+627,VP,Marketing,2019-10-18 07:09:09,2019-11-30 07:09:09,87K-169K,Tagtune,5.0,          Georgia         ,Atlanta,40.0 to 68.0 employees,734.2857142857142
+628,Marketing,Assistant,2019-04-18 19:35:17,2019-05-15 19:35:17,11K-122K,Eare,2.0,          New York         ,Rochester,10.0 to 17.0 employees,520.0
+629,Recruiter,,2016-11-26 17:42:09,2016-11-28 17:42:09,71K-130K,Zoombox,5.0,          Oklahoma         ,Tulsa,40.0 to 68.0 employees,734.2857142857142
+630,Information,Systems Manager,2019-12-01 18:39:58,2019-12-06 18:39:58,76K-150K,Shufflebeat,9.0,          New York         ,Utica,80.0 to 136.0 employees,838.1818181818182
+631,Dental,Hygienist,2016-08-12 00:11:36,2016-09-07 00:11:36,81K-148K,Kazu,2.0,          California         ,Oakland,10.0 to 17.0 employees,520.0
+632,Geologist,III,2020-01-25 20:42:49,,13K-143K,Jetwire,5.0,          Ohio         ,Akron,40.0 to 68.0 employees,734.2857142857142
+633,Budget/Accounting,Analyst IV,2016-10-03 11:38:40,2016-11-23 11:38:40,51K-162K,Reallinks,7.0,          Florida         ,Pompano Beach,60.0 to 102.0 employees,797.7777777777777
+634,Financial,Analyst,2016-07-02 21:43:54,2016-09-09 21:43:54,43K-126K,Zoozzy,4.0,          Illinois         ,Chicago,30.0 to 51.0 employees,686.6666666666666
+635,Senior,Quality Engineer,2020-09-09 19:08:07,2020-10-01 19:08:07,60K-120K,Demimbu,5.0,          Texas         ,Fort Worth,40.0 to 68.0 employees,734.2857142857142
+636,Marketing,Manager,2017-12-31 03:02:42,2018-03-05 03:02:42,44K-192K,Aivee,3.0,          Texas         ,Dallas,20.0 to 34.0 employees,620.0
+637,Web,Designer IV,2020-08-28 17:39:16,2020-09-28 17:39:16,54K-167K,Realcube,6.0,          Pennsylvania         ,Pittsburgh,50.0 to 85.0 employees,770.0
+638,Environmental,Tech,2016-03-26 04:52:50,2016-07-02 04:52:50,67K-139K,Zoombeat,6.0,          South Carolina         ,Greenville,50.0 to 85.0 employees,770.0
+639,VP,Quality Control,2016-05-02 19:52:09,2016-08-09 19:52:09,48K-163K,Dynabox,5.0,          Ohio         ,Cincinnati,40.0 to 68.0 employees,734.2857142857142
+640,Director,of Sales,2021-01-06 20:03:10,2021-01-17 20:03:10,37K-160K,Realfire,6.0,          District of Columbia         ,Washington,50.0 to 85.0 employees,770.0
+641,Structural,Analysis Engineer,2021-01-05 03:03:02,2021-03-01 03:03:02,0K-135K,Flashpoint,8.0,          Ohio         ,Youngstown,70.0 to 119.0 employees,820.0
+642,Legal,Assistant,2016-04-02 12:05:29,2016-05-14 12:05:29,68K-194K,Photojam,6.0,          California         ,Oakland,50.0 to 85.0 employees,770.0
+643,Programmer,IV,2019-06-28 14:39:47,,69K-135K,Trupe,3.0,          California         ,Sacramento,20.0 to 34.0 employees,620.0
+644,Recruiter,,2018-02-06 18:47:18,2018-04-01 18:47:18,73K-150K,Gabtune,5.0,          Florida         ,Tampa,40.0 to 68.0 employees,734.2857142857142
+645,Accounting,Assistant II,2016-04-09 14:21:56,2016-04-20 14:21:56,46K-151K,Topiczoom,7.0,          Indiana         ,Fort Wayne,60.0 to 102.0 employees,797.7777777777777
+646,Environmental,Tech,2017-12-16 15:47:18,2018-01-09 15:47:18,65K-130K,Devbug,4.0,          Mississippi         ,Jackson,30.0 to 51.0 employees,686.6666666666666
+647,Librarian,,2018-02-23 22:53:39,2018-05-01 22:53:39,18K-107K,Blognation,8.0,          Hawaii         ,Honolulu,70.0 to 119.0 employees,820.0
+648,Software,Test Engineer II,2016-03-17 04:58:10,2016-05-17 04:58:10,96K-103K,Eayo,2.0,          Idaho         ,Boise,10.0 to 17.0 employees,520.0
+649,Civil,Engineer,2019-08-30 00:38:26,2019-09-07 00:38:26,96K-184K,Quatz,3.0,          Virginia         ,Richmond,20.0 to 34.0 employees,620.0
+650,Recruiter,,2019-07-06 22:17:44,2019-09-20 22:17:44,81K-159K,Zoomdog,5.0,          Colorado         ,,40.0 to 68.0 employees,734.2857142857142
+651,Assistant,Manager,2016-05-20 16:37:45,2016-07-20 16:37:45,67K-143K,Gabtype,5.0,          Arizona         ,Phoenix,40.0 to 68.0 employees,734.2857142857142
+652,Community,Outreach Specialist,2017-01-06 03:25:07,2017-02-13 03:25:07,42K-191K,Trunyx,4.0,          California         ,Corona,30.0 to 51.0 employees,686.6666666666666
+653,Registered,Nurse,2016-04-11 09:17:46,2016-07-03 09:17:46,26K-189K,JumpXS,4.0,          California         ,Sacramento,30.0 to 51.0 employees,686.6666666666666
+654,Food,Chemist,2020-01-23 06:08:15,2020-02-08 06:08:15,83K-179K,Rhynyx,4.0,          New York         ,Hicksville,30.0 to 51.0 employees,686.6666666666666
+655,Account,Coordinator,2021-01-04 05:27:35,2021-01-13 05:27:35,14K-151K,Topiczoom,7.0,          California         ,Hayward,60.0 to 102.0 employees,797.7777777777777
+656,Paralegal,,2018-08-13 18:19:58,2018-11-20 18:19:58,13K-143K,Rhynoodle,7.0,          Virginia         ,Newport News,60.0 to 102.0 employees,797.7777777777777
+657,Civil,Engineer,2019-08-08 12:55:29,2019-09-25 12:55:29,55K-124K,Yozio,3.0,          Washington         ,Vancouver,20.0 to 34.0 employees,620.0
+658,Tax,Accountant,2020-04-06 13:46:15,2020-06-15 13:46:15,55K-114K,Wikibox,5.0,          New York         ,Rochester,40.0 to 68.0 employees,734.2857142857142
+659,Cost,Accountant,2019-05-22 02:01:44,,26K-175K,Centidel,6.0,          Texas         ,San Antonio,50.0 to 85.0 employees,770.0
+660,Financial,Advisor,2018-10-09 15:21:20,2019-01-13 15:21:20,95K-172K,Shuffletag,8.0,          District of Columbia         ,Washington,70.0 to 119.0 employees,820.0
+661,Statistician,I,2016-02-13 06:32:08,2016-03-20 06:32:08,16K-110K,Eidel,3.0,          Missouri         ,Saint Louis,20.0 to 34.0 employees,620.0
+662,Media,Manager IV,2020-05-01 22:51:30,2020-06-28 22:51:30,56K-108K,Pixonyx,5.0,          Louisiana         ,New Orleans,40.0 to 68.0 employees,734.2857142857142
+663,VP,Marketing,2016-11-16 01:56:27,2016-12-17 01:56:27,92K-168K,Edgetag,5.0,          Texas         ,Galveston,40.0 to 68.0 employees,734.2857142857142
+664,VP,Accounting,2016-12-29 04:26:23,2017-01-29 04:26:23,95K-198K,Blogtags,6.0,          Texas         ,San Antonio,50.0 to 85.0 employees,770.0
+665,Project,Manager,2019-01-14 06:01:23,2019-01-22 06:01:23,48K-164K,Jatri,3.0,          Georgia         ,Augusta,20.0 to 34.0 employees,620.0
+666,Professor,,2017-09-28 02:32:52,2017-12-09 02:32:52,96K-183K,Dablist,5.0,          Pennsylvania         ,Harrisburg,40.0 to 68.0 employees,734.2857142857142
+667,Senior,Editor,2020-11-27 21:03:14,2020-12-11 21:03:14,30K-194K,Realblab,6.0,          Texas         ,Houston,50.0 to 85.0 employees,770.0
+668,Graphic,Designer,2019-04-11 15:47:40,2019-06-18 15:47:40,10K-147K,Jaxworks,6.0,          California         ,South Lake Tahoe,50.0 to 85.0 employees,770.0
+669,Media,Manager III,2018-01-06 11:15:50,2018-02-14 11:15:50,7K-151K,Yodo,2.0,          Massachusetts         ,Springfield,10.0 to 17.0 employees,520.0
+670,Professor,,2020-10-01 21:28:20,2020-10-03 21:28:20,20K-147K,Skipstorm,7.0,          Florida         ,Lake Worth,60.0 to 102.0 employees,797.7777777777777
+671,VP,Marketing,2019-05-22 14:28:35,2019-05-24 14:28:35,89K-110K,Mycat,3.0,          Minnesota         ,Saint Cloud,20.0 to 34.0 employees,620.0
+672,Occupational,Therapist,2019-03-30 11:41:54,2019-04-09 11:41:54,58K-144K,Agivu,3.0,          Colorado         ,,20.0 to 34.0 employees,620.0
+673,Assistant,Media Planner,2018-12-14 23:20:25,2019-02-02 23:20:25,23K-115K,Thoughtbridge,11.0,          Washington         ,Vancouver,100.0 to 170.0 employees,866.1538461538463
+674,Web,Developer I,2020-03-13 19:07:52,2020-05-18 19:07:52,42K-140K,Abata,3.0,          Wisconsin         ,Milwaukee,20.0 to 34.0 employees,620.0
+675,Information,Systems Manager,2018-06-04 13:27:43,2018-07-24 13:27:43,3K-183K,Skalith,5.0,          Texas         ,Houston,40.0 to 68.0 employees,734.2857142857142
+676,Research,Associate,2016-02-11 20:46:45,2016-03-25 20:46:45,61K-148K,Yakijo,4.0,          Texas         ,Amarillo,30.0 to 51.0 employees,686.6666666666666
+677,Product,Engineer,2018-08-27 03:15:59,2018-11-16 03:15:59,27K-143K,Innotype,6.0,          Michigan         ,Detroit,50.0 to 85.0 employees,770.0
+678,Budget/Accounting,Analyst III,2020-04-24 22:40:52,2020-07-23 22:40:52,62K-200K,Linklinks,7.0,          Illinois         ,Peoria,60.0 to 102.0 employees,797.7777777777777
+679,Help,Desk Technician,2018-04-02 03:55:06,2018-04-13 03:55:06,49K-193K,Mita,2.0,          Indiana         ,Fort Wayne,10.0 to 17.0 employees,520.0
+680,Nurse,Practicioner,2019-02-05 16:49:17,2019-03-04 16:49:17,45K-200K,Linktype,6.0,          Tennessee         ,Johnson City,50.0 to 85.0 employees,770.0
+681,Software,Engineer IV,2017-11-13 22:29:29,,18K-121K,Youspan,5.0,          New Mexico         ,Santa Fe,40.0 to 68.0 employees,734.2857142857142
+682,Director,of Sales,2020-02-03 20:11:39,2020-04-08 20:11:39,71K-137K,Skynoodle,7.0,          Colorado         ,Pueblo,60.0 to 102.0 employees,797.7777777777777
+683,Compensation,Analyst,2020-01-22 10:47:54,2020-04-30 10:47:54,1K-153K,Demivee,5.0,          North Carolina         ,Fayetteville,40.0 to 68.0 employees,734.2857142857142
+684,Research,Associate,2017-02-23 13:02:05,2017-04-13 13:02:05,59K-113K,Youopia,5.0,          Missouri         ,Kansas City,40.0 to 68.0 employees,734.2857142857142
+685,Electrical,Engineer,2018-06-10 03:29:28,2018-08-30 03:29:28,41K-120K,Ntag,2.0,          District of Columbia         ,Washington,10.0 to 17.0 employees,520.0
+686,Automation,Specialist II,2016-03-09 12:15:43,2016-05-27 12:15:43,90K-200K,Centidel,6.0,          Pennsylvania         ,Wilkes Barre,50.0 to 85.0 employees,770.0
+687,Senior,Developer,2017-07-09 00:16:21,2017-09-19 00:16:21,42K-164K,Gabvine,5.0,          South Carolina         ,Beaufort,40.0 to 68.0 employees,734.2857142857142
+688,VP,Product Management,2017-03-30 23:40:59,2017-04-21 23:40:59,2K-187K,Zazio,3.0,          Indiana         ,Fort Wayne,20.0 to 34.0 employees,620.0
+689,Electrical,Engineer,2016-10-08 20:57:48,2016-12-05 20:57:48,0K-156K,Youtags,5.0,          Florida         ,Orlando,40.0 to 68.0 employees,734.2857142857142
+690,Systems,Administrator II,2020-04-29 19:34:40,2020-08-04 19:34:40,41K-138K,Jazzy,3.0,          Oklahoma         ,Oklahoma City,20.0 to 34.0 employees,620.0
+691,VP,Quality Control,2018-02-05 00:20:55,2018-04-21 00:20:55,32K-131K,Jamia,3.0,          Georgia         ,Marietta,20.0 to 34.0 employees,620.0
+692,Registered,Nurse,2018-12-12 16:16:28,2019-01-01 16:16:28,100K-175K,Skyndu,4.0,          District of Columbia         ,Washington,30.0 to 51.0 employees,686.6666666666666
+693,Systems,Administrator I,2019-10-06 08:24:29,2019-11-27 08:24:29,12K-154K,Eare,2.0,          Pennsylvania         ,Lancaster,10.0 to 17.0 employees,520.0
+694,Research,Associate,2017-10-16 18:57:47,2018-01-08 18:57:47,72K-140K,Youopia,5.0,          Oregon         ,Portland,40.0 to 68.0 employees,734.2857142857142
+695,Operator,,2019-05-28 12:55:06,2019-07-09 12:55:06,14K-160K,Kwimbee,5.0,          Texas         ,Longview,40.0 to 68.0 employees,734.2857142857142
+696,Dental,Hygienist,2016-11-11 08:29:38,2016-12-26 08:29:38,30K-128K,Thoughtbridge,11.0,          Louisiana         ,Shreveport,100.0 to 170.0 employees,866.1538461538463
+697,Junior,Executive,2020-07-03 13:12:49,2020-09-26 13:12:49,49K-175K,Eire,2.0,          Missouri         ,Saint Louis,10.0 to 17.0 employees,520.0
+698,Internal,Auditor,2016-09-01 10:21:07,2016-12-09 10:21:07,14K-164K,Rhyzio,4.0,          Colorado         ,,30.0 to 51.0 employees,686.6666666666666
+699,Accountant,I,2017-03-08 07:39:25,2017-03-11 07:39:25,18K-154K,Flashdog,6.0,          Pennsylvania         ,Scranton,50.0 to 85.0 employees,770.0
+700,Web,Developer III,2019-11-14 06:21:01,,94K-193K,Mynte,3.0,          Louisiana         ,New Orleans,20.0 to 34.0 employees,620.0
+701,Assistant,Manager,2017-05-02 20:39:20,2017-05-19 20:39:20,0K-158K,Skyble,4.0,          Texas         ,El Paso,30.0 to 51.0 employees,686.6666666666666
+702,Marketing,Manager,2016-06-14 16:31:46,2016-06-19 16:31:46,17K-166K,Skiba,3.0,          Missouri         ,Kansas City,20.0 to 34.0 employees,620.0
+703,Physical,Therapy Assistant,2019-07-18 02:09:44,2019-09-04 02:09:44,4K-145K,Zoombeat,6.0,          Iowa         ,Cedar Rapids,50.0 to 85.0 employees,770.0
+704,Associate,Professor,2018-08-25 14:38:03,2018-10-10 14:38:03,16K-187K,Meeveo,4.0,          Illinois         ,Decatur,30.0 to 51.0 employees,686.6666666666666
+705,Systems,Administrator IV,2018-04-06 23:06:23,2018-04-17 23:06:23,5K-122K,Browsedrive,9.0,          Indiana         ,Crawfordsville,80.0 to 136.0 employees,838.1818181818182
+706,Software,Engineer I,2019-01-11 09:13:23,2019-04-20 09:13:23,7K-147K,Mynte,3.0,          Texas         ,Beaumont,20.0 to 34.0 employees,620.0
+707,Engineer,IV,2018-03-20 02:08:28,2018-04-01 02:08:28,16K-131K,Snaptags,6.0,          Minnesota         ,Minneapolis,50.0 to 85.0 employees,770.0
+708,Engineer,I,2020-10-29 18:22:39,2021-01-11 18:22:39,76K-106K,Trilith,5.0,          Pennsylvania         ,Philadelphia,40.0 to 68.0 employees,734.2857142857142
+709,Environmental,Specialist,2018-11-17 03:01:58,2019-02-10 03:01:58,6K-175K,Photobug,6.0,          Pennsylvania         ,Pittsburgh,50.0 to 85.0 employees,770.0
+710,Programmer,Analyst I,2020-01-30 07:17:12,2020-04-04 07:17:12,70K-136K,Eadel,3.0,          Florida         ,Pompano Beach,20.0 to 34.0 employees,620.0
+711,Senior,Sales Associate,2018-05-20 00:47:42,2018-08-08 00:47:42,53K-132K,Gabtype,5.0,          Iowa         ,Davenport,40.0 to 68.0 employees,734.2857142857142
+712,Director,of Sales,2020-09-23 18:26:56,2020-12-22 18:26:56,48K-198K,Jazzy,3.0,          Missouri         ,Saint Louis,20.0 to 34.0 employees,620.0
+713,GIS,Technical Architect,2018-11-30 14:10:20,2019-01-18 14:10:20,84K-140K,Shufflebeat,9.0,          Arizona         ,Phoenix,80.0 to 136.0 employees,838.1818181818182
+714,Community,Outreach Specialist,2018-07-31 22:49:58,2018-10-20 22:49:58,96K-195K,Kwinu,3.0,          Maryland         ,Baltimore,20.0 to 34.0 employees,620.0
+715,Environmental,Tech,2016-09-11 10:05:44,2016-12-18 10:05:44,16K-105K,Mycat,3.0,          Indiana         ,Indianapolis,20.0 to 34.0 employees,620.0
+716,Environmental,Tech,2020-01-22 05:33:25,2020-03-20 05:33:25,52K-102K,Zoozzy,4.0,          California         ,San Diego,30.0 to 51.0 employees,686.6666666666666
+717,Marketing,Manager,2018-03-26 03:14:13,2018-04-02 03:14:13,84K-175K,Feedbug,5.0,          Hawaii         ,Honolulu,40.0 to 68.0 employees,734.2857142857142
+718,Senior,Sales Associate,2020-07-02 04:06:14,2020-09-09 04:06:14,84K-131K,Zoomdog,5.0,          California         ,Oxnard,40.0 to 68.0 employees,734.2857142857142
+719,VP,Product Management,2019-07-12 09:07:35,2019-09-10 09:07:35,16K-190K,Wordtune,6.0,          Florida         ,Miami,50.0 to 85.0 employees,770.0
+720,Environmental,Specialist,2018-11-23 10:02:53,2018-12-25 10:02:53,41K-133K,Avamm,3.0,          Massachusetts         ,Boston,20.0 to 34.0 employees,620.0
+721,Engineer,II,2020-02-11 09:03:22,2020-05-18 09:03:22,19K-146K,Flashset,6.0,          New York         ,Buffalo,50.0 to 85.0 employees,770.0
+722,Senior,Editor,2017-11-24 12:53:46,2017-12-06 12:53:46,28K-140K,Jaxworks,6.0,          District of Columbia         ,Washington,50.0 to 85.0 employees,770.0
+723,Civil,Engineer,2017-01-17 17:33:49,2017-01-18 17:33:49,60K-130K,Mydeo,3.0,          Florida         ,Pinellas Park,20.0 to 34.0 employees,620.0
+724,VP,Marketing,2020-05-01 14:05:11,2020-05-06 14:05:11,93K-155K,Thoughtstorm,10.0,          Arkansas         ,Little Rock,90.0 to 153.0 employees,853.3333333333335
+725,Food,Chemist,2020-05-30 22:35:32,2020-08-20 22:35:32,53K-140K,Feednation,8.0,          Arizona         ,Phoenix,70.0 to 119.0 employees,820.0
+726,Quality,Engineer,2016-12-25 09:48:31,2017-03-03 09:48:31,18K-121K,Zazio,3.0,          West Virginia         ,Huntington,20.0 to 34.0 employees,620.0
+727,Pharmacist,,2017-01-07 08:02:32,2017-03-30 08:02:32,76K-146K,Fanoodle,6.0,          New Jersey         ,Paterson,50.0 to 85.0 employees,770.0
+728,Data,Coordiator,2018-12-30 10:15:31,2019-03-16 10:15:31,86K-196K,Trilia,4.0,          Florida         ,Tampa,30.0 to 51.0 employees,686.6666666666666
+729,GIS,Technical Architect,2018-03-06 04:56:55,2018-06-11 04:56:55,14K-137K,Podcat,4.0,          California         ,Sacramento,30.0 to 51.0 employees,686.6666666666666
+730,VP,Accounting,2018-10-14 08:22:27,2019-01-02 08:22:27,98K-197K,Rhycero,5.0,          Kentucky         ,Lexington,40.0 to 68.0 employees,734.2857142857142
+731,Health,Coach I,2018-03-29 01:36:13,2018-05-18 01:36:13,73K-102K,Mita,2.0,          District of Columbia         ,Washington,10.0 to 17.0 employees,520.0
+732,Statistician,I,2016-11-16 13:29:50,2016-11-28 13:29:50,73K-137K,Dynazzy,5.0,          Indiana         ,South Bend,40.0 to 68.0 employees,734.2857142857142
+733,Financial,Advisor,2017-02-13 04:14:05,2017-04-26 04:14:05,80K-154K,Skynoodle,7.0,          North Carolina         ,Raleigh,60.0 to 102.0 employees,797.7777777777777
+734,Research,Nurse,2020-12-30 07:54:51,2021-01-02 07:54:51,67K-186K,Eadel,3.0,          Texas         ,El Paso,20.0 to 34.0 employees,620.0
+735,Teacher,,2019-10-26 14:06:04,2019-11-24 14:06:04,50K-159K,Mynte,3.0,          Pennsylvania         ,Reading,20.0 to 34.0 employees,620.0
+736,Software,Test Engineer II,2016-10-17 17:27:54,2016-11-29 17:27:54,65K-152K,Livetube,6.0,          Ohio         ,Cincinnati,50.0 to 85.0 employees,770.0
+737,Operator,,2018-02-09 03:18:49,2018-03-13 03:18:49,17K-175K,Riffpedia,7.0,          Florida         ,Naples,60.0 to 102.0 employees,797.7777777777777
+738,Senior,Cost Accountant,2020-11-03 20:12:06,2021-01-30 20:12:06,72K-180K,Twitterbeat,9.0,          Arizona         ,Tempe,80.0 to 136.0 employees,838.1818181818182
+739,Developer,IV,2019-08-27 16:07:53,2019-11-15 16:07:53,89K-182K,Flashdog,6.0,          District of Columbia         ,Washington,50.0 to 85.0 employees,770.0
+740,Administrative,Officer,2017-05-30 10:03:52,2017-07-04 10:03:52,18K-124K,Jayo,2.0,          California         ,Los Angeles,10.0 to 17.0 employees,520.0
+741,Research,Assistant III,2016-12-22 13:47:50,2017-01-02 13:47:50,99K-110K,Snaptags,6.0,          Maryland         ,Hagerstown,50.0 to 85.0 employees,770.0
+742,Community,Outreach Specialist,2021-01-26 01:33:24,2021-05-05 01:33:24,41K-156K,Riffpath,6.0,          California         ,Corona,50.0 to 85.0 employees,770.0
+743,Cost,Accountant,2018-07-21 01:16:34,2018-08-07 01:16:34,51K-145K,Jaxspan,5.0,          California         ,Orange,40.0 to 68.0 employees,734.2857142857142
+744,Technical,Writer,2018-11-11 10:45:39,2019-01-18 10:45:39,55K-141K,Gabtune,5.0,          Ohio         ,Cincinnati,40.0 to 68.0 employees,734.2857142857142
+745,Social,Worker,2017-05-18 04:11:11,2017-08-24 04:11:11,94K-157K,Skidoo,4.0,          Virginia         ,Richmond,30.0 to 51.0 employees,686.6666666666666
+746,Senior,Developer,2017-08-24 04:02:17,2017-09-25 04:02:17,28K-139K,Wikizz,4.0,          Washington         ,Everett,30.0 to 51.0 employees,686.6666666666666
+747,Nurse,Practicioner,2020-12-27 20:26:25,2021-02-10 20:26:25,80K-126K,Kimia,3.0,          Connecticut         ,Bridgeport,20.0 to 34.0 employees,620.0
+748,Assistant,Professor,2017-07-18 09:14:37,2017-10-22 09:14:37,91K-125K,Zoombox,5.0,          Florida         ,Zephyrhills,40.0 to 68.0 employees,734.2857142857142
+749,Mechanical,Systems Engineer,2017-06-21 12:58:43,2017-07-26 12:58:43,83K-109K,Jabbersphere,10.0,          Texas         ,Fort Worth,90.0 to 153.0 employees,853.3333333333335
+750,Programmer,Analyst III,2017-05-13 21:08:28,2017-05-23 21:08:28,34K-168K,Dablist,5.0,          Texas         ,San Antonio,40.0 to 68.0 employees,734.2857142857142
+751,Account,Representative IV,2017-01-19 05:40:48,2017-03-08 05:40:48,50K-182K,Voolia,4.0,          Idaho         ,Boise,30.0 to 51.0 employees,686.6666666666666
+752,Data,Coordiator,2017-07-04 08:16:41,2017-09-28 08:16:41,91K-113K,Skyvu,3.0,          Florida         ,Miami,20.0 to 34.0 employees,620.0
+753,Senior,Financial Analyst,2017-12-08 02:34:35,2018-03-17 02:34:35,65K-107K,Babblestorm,9.0,          Louisiana         ,New Orleans,80.0 to 136.0 employees,838.1818181818182
+754,Operator,,2020-11-01 14:14:49,2021-02-08 14:14:49,0K-175K,Meejo,3.0,          Oklahoma         ,Tulsa,20.0 to 34.0 employees,620.0
+755,Human,Resources Assistant I,2016-04-14 06:21:23,2016-06-12 06:21:23,29K-153K,Jabbersphere,10.0,          Massachusetts         ,Springfield,90.0 to 153.0 employees,853.3333333333335
+756,Research,Nurse,2016-09-21 21:41:20,2016-10-24 21:41:20,99K-141K,Jetpulse,6.0,          Colorado         ,Pueblo,50.0 to 85.0 employees,770.0
+757,Systems,Administrator IV,2018-05-31 04:07:08,2018-06-15 04:07:08,51K-156K,Feedfire,6.0,          Alabama         ,Montgomery,50.0 to 85.0 employees,770.0
+758,Account,Executive,2016-03-23 11:37:55,2016-05-27 11:37:55,42K-160K,Thoughtbridge,11.0,          Utah         ,Ogden,100.0 to 170.0 employees,866.1538461538463
+759,Staff,Accountant IV,2021-01-21 12:51:15,2021-04-20 12:51:15,64K-116K,Flipopia,6.0,          Florida         ,Miami,50.0 to 85.0 employees,770.0
+760,Product,Engineer,2020-02-02 18:17:09,2020-03-04 18:17:09,59K-184K,Nlounge,5.0,          Kansas         ,Shawnee Mission,40.0 to 68.0 employees,734.2857142857142
+761,GIS,Technical Architect,2019-08-01 03:10:04,2019-08-28 03:10:04,44K-104K,Cogidoo,5.0,          Georgia         ,Decatur,40.0 to 68.0 employees,734.2857142857142
+762,Data,Coordiator,2019-05-15 03:51:43,2019-06-09 03:51:43,76K-151K,Twinte,4.0,          Maryland         ,Baltimore,30.0 to 51.0 employees,686.6666666666666
+763,Recruiter,,2019-09-19 10:45:58,2019-11-06 10:45:58,60K-107K,Skipstorm,7.0,          California         ,Irvine,60.0 to 102.0 employees,797.7777777777777
+764,Safety,Technician I,2016-03-30 13:43:06,2016-05-06 13:43:06,74K-110K,Photobean,7.0,          Georgia         ,Macon,60.0 to 102.0 employees,797.7777777777777
+765,Community,Outreach Specialist,2019-10-15 00:18:40,2019-12-06 00:18:40,55K-148K,Teklist,5.0,          Louisiana         ,New Orleans,40.0 to 68.0 employees,734.2857142857142
+766,Database,Administrator IV,2018-03-11 15:57:45,2018-03-25 15:57:45,85K-176K,Kare,2.0,          District of Columbia         ,Washington,10.0 to 17.0 employees,520.0
+767,Desktop,Support Technician,2017-03-19 07:54:09,2017-06-11 07:54:09,28K-142K,Fatz,2.0,          Florida         ,Melbourne,10.0 to 17.0 employees,520.0
+768,VP,Marketing,2017-01-25 22:26:17,2017-02-27 22:26:17,27K-127K,Snaptags,6.0,          Washington         ,Seattle,50.0 to 85.0 employees,770.0
+769,Teacher,,2019-06-23 15:08:48,2019-09-08 15:08:48,3K-101K,Linkbridge,8.0,          California         ,Sacramento,70.0 to 119.0 employees,820.0
+770,Budget/Accounting,Analyst I,2018-07-04 08:43:58,2018-08-26 08:43:58,53K-109K,Camido,4.0,          Mississippi         ,Columbus,30.0 to 51.0 employees,686.6666666666666
+771,Dental,Hygienist,2017-06-03 09:29:06,2017-08-03 09:29:06,6K-111K,Jabbersphere,10.0,          Nevada         ,Sparks,90.0 to 153.0 employees,853.3333333333335
+772,Recruiter,,2020-09-20 10:01:35,2020-09-28 10:01:35,29K-194K,Vipe,2.0,          New Jersey         ,Trenton,10.0 to 17.0 employees,520.0
+773,Civil,Engineer,2017-11-15 17:50:50,2017-11-19 17:50:50,69K-119K,Yamia,3.0,          Georgia         ,Macon,20.0 to 34.0 employees,620.0
+774,Quality,Engineer,2016-10-08 22:39:30,2016-10-12 22:39:30,11K-163K,Voonder,5.0,          California         ,Bakersfield,40.0 to 68.0 employees,734.2857142857142
+775,Accounting,Assistant II,2018-09-16 23:04:37,2018-12-11 23:04:37,18K-133K,Tambee,4.0,          Massachusetts         ,Springfield,30.0 to 51.0 employees,686.6666666666666
+776,Software,Engineer IV,2016-12-23 03:37:16,2017-02-20 03:37:16,98K-148K,Twiyo,3.0,          Ohio         ,Cincinnati,20.0 to 34.0 employees,620.0
+777,Sales,Associate,2017-04-17 18:07:48,2017-05-07 18:07:48,18K-123K,Demimbu,5.0,          Minnesota         ,Monticello,40.0 to 68.0 employees,734.2857142857142
+778,Assistant,Media Planner,2018-07-01 03:19:57,2018-09-13 03:19:57,50K-172K,Agimba,4.0,          Nebraska         ,Omaha,30.0 to 51.0 employees,686.6666666666666
+779,Structural,Analysis Engineer,2016-10-16 11:57:59,2016-11-06 11:57:59,60K-170K,Blognation,8.0,          Washington         ,Olympia,70.0 to 119.0 employees,820.0
+780,Analog,Circuit Design manager,2016-07-30 14:26:22,2016-10-07 14:26:22,60K-186K,Wikizz,4.0,          Massachusetts         ,Brockton,30.0 to 51.0 employees,686.6666666666666
+781,Programmer,I,2020-06-26 19:33:11,2020-08-07 19:33:11,96K-192K,Oyoyo,3.0,          Texas         ,El Paso,20.0 to 34.0 employees,620.0
+782,Statistician,I,2019-09-29 06:22:57,2019-12-06 06:22:57,45K-144K,Fadeo,3.0,          Alabama         ,Birmingham,20.0 to 34.0 employees,620.0
+783,Programmer,II,2018-10-03 04:48:42,2018-12-22 04:48:42,14K-116K,Meezzy,4.0,          Idaho         ,Pocatello,30.0 to 51.0 employees,686.6666666666666
+784,Director,of Sales,2019-08-12 22:19:37,2019-09-15 22:19:37,89K-192K,Kwinu,3.0,          Texas         ,Fort Worth,20.0 to 34.0 employees,620.0
+785,Software,Consultant,2017-01-22 20:59:54,2017-03-11 20:59:54,36K-169K,Skaboo,4.0,          South Dakota         ,Sioux Falls,30.0 to 51.0 employees,686.6666666666666
+786,VP,Marketing,2017-06-28 07:24:37,2017-07-10 07:24:37,5K-193K,Skyble,4.0,          Indiana         ,Indianapolis,30.0 to 51.0 employees,686.6666666666666
+787,Graphic,Designer,2017-02-11 23:31:55,2017-03-26 23:31:55,49K-157K,Npath,3.0,          Ohio         ,Springfield,20.0 to 34.0 employees,620.0
+788,Sales,Representative,2019-09-02 02:24:35,2019-10-29 02:24:35,48K-196K,Teklist,5.0,          Ohio         ,Cincinnati,40.0 to 68.0 employees,734.2857142857142
+789,Engineer,IV,2018-06-10 13:13:33,2018-07-12 13:13:33,63K-144K,Rooxo,3.0,          Georgia         ,Augusta,20.0 to 34.0 employees,620.0
+790,Assistant,Professor,2020-05-01 11:17:51,2020-07-17 11:17:51,95K-150K,Aivee,3.0,          District of Columbia         ,Washington,20.0 to 34.0 employees,620.0
+791,Tax,Accountant,2019-12-06 16:28:18,2020-03-11 16:28:18,82K-174K,Gabtype,5.0,          California         ,San Jose,40.0 to 68.0 employees,734.2857142857142
+792,Quality,Control Specialist,2019-08-26 19:26:42,2019-11-16 19:26:42,72K-193K,Babbleset,7.0,          New York         ,Jamaica,60.0 to 102.0 employees,797.7777777777777
+793,Electrical,Engineer,2016-04-05 09:00:21,2016-06-23 09:00:21,63K-109K,Trilith,5.0,          Florida         ,Clearwater,40.0 to 68.0 employees,734.2857142857142
+794,Business,Systems Development Analyst,2017-07-16 21:05:00,2017-10-10 21:05:00,87K-152K,Rhycero,5.0,          Tennessee         ,Memphis,40.0 to 68.0 employees,734.2857142857142
+795,Quality,Engineer,2019-04-12 16:26:05,2019-07-19 16:26:05,0K-139K,Realfire,6.0,          New York         ,Rochester,50.0 to 85.0 employees,770.0
+796,Sales,Associate,2018-01-27 05:17:02,2018-02-27 05:17:02,90K-125K,Snaptags,6.0,          New York         ,New York City,50.0 to 85.0 employees,770.0
+797,Geologist,I,2019-05-18 07:33:57,2019-08-02 07:33:57,75K-153K,Edgeclub,6.0,          Mississippi         ,Biloxi,50.0 to 85.0 employees,770.0
+798,Marketing,Assistant,2018-05-20 22:53:24,2018-05-31 22:53:24,79K-119K,Voomm,3.0,          Michigan         ,Midland,20.0 to 34.0 employees,620.0
+799,Assistant,Professor,2020-04-12 22:30:24,2020-04-24 22:30:24,90K-112K,Lazzy,3.0,          Arizona         ,Phoenix,20.0 to 34.0 employees,620.0
+800,GIS,Technical Architect,2016-05-30 05:59:31,2016-07-14 05:59:31,19K-145K,Blogtags,6.0,          Delaware         ,Wilmington,50.0 to 85.0 employees,770.0
+801,Senior,Sales Associate,2018-11-20 15:40:35,2019-02-22 15:40:35,85K-165K,Oodoo,3.0,          Connecticut         ,Stamford,20.0 to 34.0 employees,620.0
+802,Nuclear,Power Engineer,2018-01-12 15:26:36,2018-02-17 15:26:36,11K-151K,Jabberbean,8.0,          Florida         ,Naples,70.0 to 119.0 employees,820.0
+803,Administrative,Officer,2019-11-10 16:58:54,2019-12-07 16:58:54,17K-145K,Janyx,3.0,          Arizona         ,Phoenix,20.0 to 34.0 employees,620.0
+804,Quality,Control Specialist,2019-07-17 09:11:15,2019-10-16 09:11:15,42K-183K,Aivee,3.0,          California         ,Van Nuys,20.0 to 34.0 employees,620.0
+805,Executive,Secretary,2019-04-22 16:30:29,2019-06-06 16:30:29,73K-115K,Skyndu,4.0,          Connecticut         ,Stamford,30.0 to 51.0 employees,686.6666666666666
+806,Assistant,Media Planner,2016-10-13 23:53:51,2016-11-27 23:53:51,22K-184K,Vidoo,3.0,          Arkansas         ,Fort Smith,20.0 to 34.0 employees,620.0
+807,Programmer,II,2016-06-27 07:23:55,2016-07-19 07:23:55,88K-184K,Brainsphere,9.0,          Wisconsin         ,Madison,80.0 to 136.0 employees,838.1818181818182
+808,Cost,Accountant,2019-05-12 17:51:13,2019-07-28 17:51:13,58K-159K,Voonder,5.0,          Florida         ,Miami,40.0 to 68.0 employees,734.2857142857142
+809,Analyst,Programmer,2018-03-14 14:08:03,2018-04-24 14:08:03,25K-180K,Bubbletube,8.0,          Pennsylvania         ,Pittsburgh,70.0 to 119.0 employees,820.0
+810,Software,Engineer I,2020-04-11 12:47:42,2020-05-16 12:47:42,27K-133K,Skimia,4.0,          California         ,San Diego,30.0 to 51.0 employees,686.6666666666666
+811,Civil,Engineer,2018-12-02 00:06:31,2019-03-03 00:06:31,52K-159K,Yata,2.0,          Texas         ,Midland,10.0 to 17.0 employees,520.0
+812,Financial,Analyst,2017-01-26 10:51:19,2017-03-25 10:51:19,57K-176K,Brainverse,8.0,          Mississippi         ,Biloxi,70.0 to 119.0 employees,820.0
+813,Software,Consultant,2017-10-01 00:34:12,2017-11-08 00:34:12,95K-188K,Tagcat,4.0,          Colorado         ,Denver,30.0 to 51.0 employees,686.6666666666666
+814,Statistician,I,2018-06-25 23:43:33,2018-07-18 23:43:33,40K-152K,Tazz,2.0,          Washington         ,Seattle,10.0 to 17.0 employees,520.0
+815,Physical,Therapy Assistant,2017-11-13 07:54:05,2018-02-06 07:54:05,59K-104K,Vimbo,3.0,          Texas         ,El Paso,20.0 to 34.0 employees,620.0
+816,Senior,Quality Engineer,2018-11-25 10:18:42,2019-01-02 10:18:42,7K-151K,Photospace,8.0,          North Carolina         ,Greensboro,70.0 to 119.0 employees,820.0
+817,Account,Representative I,2018-02-06 21:18:37,2018-03-19 21:18:37,52K-171K,Flashpoint,8.0,          Georgia         ,Augusta,70.0 to 119.0 employees,820.0
+818,Safety,Technician III,2017-10-21 18:40:49,2018-01-08 18:40:49,72K-160K,Oyoba,3.0,          New Hampshire         ,Portsmouth,20.0 to 34.0 employees,620.0
+819,Human,Resources Assistant IV,2016-07-07 07:58:25,2016-08-06 07:58:25,31K-127K,Blogpad,5.0,          Indiana         ,South Bend,40.0 to 68.0 employees,734.2857142857142
+820,Structural,Analysis Engineer,2017-07-07 23:33:25,2017-09-25 23:33:25,21K-102K,Edgepulse,7.0,          Massachusetts         ,Springfield,60.0 to 102.0 employees,797.7777777777777
+821,Product,Engineer,2020-01-10 07:42:54,2020-04-08 07:42:54,6K-127K,Livepath,6.0,          Ohio         ,Cincinnati,50.0 to 85.0 employees,770.0
+822,Electrical,Engineer,2020-03-06 12:46:21,2020-04-29 12:46:21,64K-199K,Skimia,4.0,          New York         ,Jamaica,30.0 to 51.0 employees,686.6666666666666
+823,Computer,Systems Analyst IV,2017-03-12 16:13:52,2017-05-13 16:13:52,12K-129K,Aimbo,3.0,          Massachusetts         ,Boston,20.0 to 34.0 employees,620.0
+824,Account,Representative II,2018-03-26 12:13:05,2018-04-28 12:13:05,25K-148K,Brainlounge,9.0,          Ohio         ,Cleveland,80.0 to 136.0 employees,838.1818181818182
+825,Programmer,Analyst IV,2016-08-03 18:57:17,2016-11-05 18:57:17,89K-193K,Jabbersphere,10.0,          South Dakota         ,Sioux Falls,90.0 to 153.0 employees,853.3333333333335
+826,Account,Coordinator,2016-04-08 00:42:08,2016-07-10 00:42:08,5K-106K,Jaxworks,6.0,          Texas         ,San Antonio,50.0 to 85.0 employees,770.0
+827,Compensation,Analyst,2016-03-06 11:09:23,2016-03-18 11:09:23,85K-134K,Kwimbee,5.0,          Montana         ,Bozeman,40.0 to 68.0 employees,734.2857142857142
+828,Accounting,Assistant IV,2018-04-02 17:29:23,2018-05-24 17:29:23,94K-165K,Devbug,4.0,          Georgia         ,Atlanta,30.0 to 51.0 employees,686.6666666666666
+829,Chemical,Engineer,2017-08-08 22:35:17,2017-11-16 22:35:17,98K-135K,Riffpedia,7.0,          Georgia         ,Augusta,60.0 to 102.0 employees,797.7777777777777
+830,Professor,,2020-05-26 04:20:28,2020-06-04 04:20:28,53K-193K,Quatz,3.0,          Colorado         ,Denver,20.0 to 34.0 employees,620.0
+831,Data,Coordiator,2019-01-24 17:58:57,2019-02-16 17:58:57,23K-122K,Mynte,3.0,          Georgia         ,Marietta,20.0 to 34.0 employees,620.0
+832,Software,Test Engineer I,2016-02-13 21:56:39,2016-04-11 21:56:39,8K-151K,Zooxo,3.0,          California         ,San Mateo,20.0 to 34.0 employees,620.0
+833,Speech,Pathologist,2017-09-13 21:31:16,2017-12-02 21:31:16,36K-114K,Yadel,3.0,          Ohio         ,Dayton,20.0 to 34.0 employees,620.0
+834,Chief,Design Engineer,2017-06-16 00:20:14,2017-07-01 00:20:14,3K-150K,Demivee,5.0,          West Virginia         ,Huntington,40.0 to 68.0 employees,734.2857142857142
+835,Analog,Circuit Design manager,2016-07-08 19:40:02,2016-09-25 19:40:02,39K-170K,Twiyo,3.0,          Texas         ,College Station,20.0 to 34.0 employees,620.0
+836,Administrative,Officer,2019-03-02 13:22:58,2019-03-17 13:22:58,20K-128K,Jabberstorm,9.0,          Oklahoma         ,Oklahoma City,80.0 to 136.0 employees,838.1818181818182
+837,Analog,Circuit Design manager,2016-02-27 01:58:49,2016-03-18 01:58:49,93K-195K,Youbridge,7.0,          Louisiana         ,Lake Charles,60.0 to 102.0 employees,797.7777777777777
+838,Sales,Associate,2019-04-11 18:57:19,2019-07-11 18:57:19,71K-172K,Jaloo,3.0,          Minnesota         ,Maple Plain,20.0 to 34.0 employees,620.0
+839,Office,Assistant II,2019-06-24 05:16:25,2019-08-23 05:16:25,78K-185K,Zooxo,3.0,          New York         ,New York City,20.0 to 34.0 employees,620.0
+840,Design,Engineer,2019-02-13 13:18:30,2019-04-25 13:18:30,21K-151K,Camimbo,5.0,          California         ,Petaluma,40.0 to 68.0 employees,734.2857142857142
+841,Media,Manager III,2019-09-12 04:04:09,2019-11-06 04:04:09,85K-167K,Skinder,5.0,          California         ,Berkeley,40.0 to 68.0 employees,734.2857142857142
+842,Social,Worker,2016-06-28 02:08:17,2016-10-05 02:08:17,78K-166K,Kare,2.0,          New York         ,White Plains,10.0 to 17.0 employees,520.0
+843,Geological,Engineer,2020-12-18 17:39:57,2021-01-25 17:39:57,56K-186K,Zooveo,4.0,          Massachusetts         ,Worcester,30.0 to 51.0 employees,686.6666666666666
+844,Biostatistician,II,2019-02-21 05:35:17,2019-04-22 05:35:17,54K-177K,Kare,2.0,          New York         ,New Hyde Park,10.0 to 17.0 employees,520.0
+845,Registered,Nurse,2018-12-29 18:43:44,2019-03-05 18:43:44,20K-179K,Buzzshare,7.0,          Nevada         ,Las Vegas,60.0 to 102.0 employees,797.7777777777777
+846,Account,Representative IV,2018-11-25 08:34:00,2018-11-28 08:34:00,89K-176K,Voomm,3.0,          Florida         ,Melbourne,20.0 to 34.0 employees,620.0
+847,Information,Systems Manager,2019-09-20 17:37:44,2019-12-23 17:37:44,99K-196K,Feedfish,6.0,          Virginia         ,Falls Church,50.0 to 85.0 employees,770.0
+848,Geological,Engineer,2018-07-17 12:19:02,2018-09-18 12:19:02,10K-111K,Twitternation,11.0,          District of Columbia         ,Washington,100.0 to 170.0 employees,866.1538461538463
+849,Budget/Accounting,Analyst IV,2018-04-26 00:14:44,2018-05-29 00:14:44,67K-138K,Devshare,6.0,          California         ,Oakland,50.0 to 85.0 employees,770.0
+850,Electrical,Engineer,2019-06-20 19:39:03,2019-06-22 19:39:03,80K-125K,Rhycero,5.0,          Texas         ,Tyler,40.0 to 68.0 employees,734.2857142857142
+851,Office,Assistant II,2017-03-21 13:35:48,2017-06-06 13:35:48,23K-134K,Devshare,6.0,          Washington         ,Vancouver,50.0 to 85.0 employees,770.0
+852,Staff,Accountant II,2020-05-01 07:26:23,2020-07-16 07:26:23,27K-109K,Vinder,4.0,          Illinois         ,Chicago,30.0 to 51.0 employees,686.6666666666666
+853,Biostatistician,IV,2018-04-23 10:04:02,2018-07-06 10:04:02,92K-101K,Jaxspan,5.0,          South Dakota         ,Sioux Falls,40.0 to 68.0 employees,734.2857142857142
+854,Programmer,I,2018-04-04 04:42:36,2018-05-18 04:42:36,12K-171K,Leenti,4.0,          California         ,San Luis Obispo,30.0 to 51.0 employees,686.6666666666666
+855,Human,Resources Manager,2018-07-01 14:08:28,2018-07-31 14:08:28,65K-159K,Twinder,5.0,          Oregon         ,Portland,40.0 to 68.0 employees,734.2857142857142
+856,Recruiting,Manager,2018-08-06 15:11:41,2018-10-21 15:11:41,63K-200K,Eimbee,4.0,          Georgia         ,Albany,30.0 to 51.0 employees,686.6666666666666
+857,Research,Nurse,2017-11-20 15:00:02,2017-11-23 15:00:02,78K-112K,Avavee,4.0,          California         ,Sacramento,30.0 to 51.0 employees,686.6666666666666
+858,Structural,Analysis Engineer,2020-03-16 00:25:08,2020-03-29 00:25:08,58K-151K,Twitterlist,9.0,          Georgia         ,Marietta,80.0 to 136.0 employees,838.1818181818182
+859,Graphic,Designer,2017-03-07 10:09:31,2017-04-20 10:09:31,74K-108K,Centizu,5.0,          Texas         ,Corpus Christi,40.0 to 68.0 employees,734.2857142857142
+860,Marketing,Assistant,2020-07-27 21:18:36,2020-09-07 21:18:36,45K-106K,Skinte,4.0,          Arizona         ,Tucson,30.0 to 51.0 employees,686.6666666666666
+861,Account,Executive,2019-05-11 13:36:23,2019-06-01 13:36:23,67K-119K,Gabcube,5.0,          Florida         ,Boca Raton,40.0 to 68.0 employees,734.2857142857142
+862,Information,Systems Manager,2017-02-20 06:30:06,2017-02-27 06:30:06,55K-183K,Mita,2.0,          New Mexico         ,Santa Fe,10.0 to 17.0 employees,520.0
+863,Web,Designer IV,2020-03-19 10:58:01,2020-03-21 10:58:01,40K-105K,Ntags,3.0,          Washington         ,Olympia,20.0 to 34.0 employees,620.0
+864,Sales,Representative,2019-04-06 19:07:50,2019-05-27 19:07:50,55K-153K,Feedmix,5.0,          California         ,Sacramento,40.0 to 68.0 employees,734.2857142857142
+865,Nuclear,Power Engineer,2019-01-16 01:08:14,2019-01-30 01:08:14,78K-185K,Wordware,6.0,          Missouri         ,Kansas City,50.0 to 85.0 employees,770.0
+866,Account,Executive,2019-01-02 02:22:33,2019-01-30 02:22:33,84K-195K,Eire,2.0,          Virginia         ,Norfolk,10.0 to 17.0 employees,520.0
+867,Data,Coordiator,2017-04-12 13:43:59,2017-05-12 13:43:59,65K-129K,Divanoodle,8.0,          Texas         ,Dallas,70.0 to 119.0 employees,820.0
+868,Graphic,Designer,2020-06-10 19:54:14,2020-07-08 19:54:14,100K-164K,Trilia,4.0,          Kentucky         ,Lexington,30.0 to 51.0 employees,686.6666666666666
+869,Environmental,Tech,2017-08-27 14:13:43,2017-11-30 14:13:43,29K-165K,Bubblemix,7.0,          Missouri         ,Kansas City,60.0 to 102.0 employees,797.7777777777777
+870,Design,Engineer,2019-09-13 19:24:01,2019-11-11 19:24:01,36K-170K,Ainyx,3.0,          California         ,Sacramento,20.0 to 34.0 employees,620.0
+871,VP,Accounting,2018-09-03 04:13:00,2018-09-09 04:13:00,87K-129K,Topicstorm,8.0,          Texas         ,Houston,70.0 to 119.0 employees,820.0
+872,Technical,Writer,2018-05-08 15:42:25,2018-07-23 15:42:25,50K-150K,Tagtune,5.0,          California         ,San Francisco,40.0 to 68.0 employees,734.2857142857142
+873,Engineer,IV,2016-08-24 06:55:28,2016-09-03 06:55:28,17K-107K,Fadeo,3.0,          California         ,San Francisco,20.0 to 34.0 employees,620.0
+874,Occupational,Therapist,2020-05-19 05:29:41,2020-07-06 05:29:41,71K-152K,Ainyx,3.0,          Florida         ,Palm Bay,20.0 to 34.0 employees,620.0
+875,Recruiter,,2020-11-15 02:29:37,2021-01-05 02:29:37,94K-138K,Realblab,6.0,          Ohio         ,Cincinnati,50.0 to 85.0 employees,770.0
+876,Assistant,Professor,2018-02-06 05:08:56,2018-02-11 05:08:56,82K-199K,Geba,2.0,          Texas         ,Dallas,10.0 to 17.0 employees,520.0
+877,Social,Worker,2020-10-08 11:46:47,2020-12-01 11:46:47,89K-181K,Kimia,3.0,          Texas         ,Tyler,20.0 to 34.0 employees,620.0
+878,Legal,Assistant,2017-07-09 14:18:32,2017-09-23 14:18:32,80K-121K,Centidel,6.0,          Iowa         ,Waterloo,50.0 to 85.0 employees,770.0
+879,Librarian,,2020-08-20 22:30:55,2020-11-13 22:30:55,6K-132K,Roombo,4.0,          Massachusetts         ,Brockton,30.0 to 51.0 employees,686.6666666666666
+880,Director,of Sales,2016-07-12 20:15:21,2016-10-19 20:15:21,56K-180K,Demimbu,5.0,          Florida         ,Pensacola,40.0 to 68.0 employees,734.2857142857142
+881,Project,Manager,2020-07-02 19:12:12,2020-10-01 19:12:12,84K-122K,Innojam,5.0,          New York         ,Port Washington,40.0 to 68.0 employees,734.2857142857142
+882,Account,Executive,2017-12-19 15:09:59,2018-01-15 15:09:59,32K-103K,Voonte,4.0,          Ohio         ,Columbus,30.0 to 51.0 employees,686.6666666666666
+883,Tax,Accountant,2020-06-21 02:30:28,2020-08-03 02:30:28,66K-133K,Gigashots,7.0,          New York         ,Yonkers,60.0 to 102.0 employees,797.7777777777777
+884,Actuary,,2019-06-22 11:34:00,2019-07-10 11:34:00,52K-174K,Livepath,6.0,          Ohio         ,Cleveland,50.0 to 85.0 employees,770.0
+885,Analog,Circuit Design manager,2017-04-12 21:38:47,2017-05-12 21:38:47,96K-106K,Zava,2.0,          North Dakota         ,Fargo,10.0 to 17.0 employees,520.0
+886,Health,Coach III,2019-05-26 21:18:58,2019-08-30 21:18:58,96K-149K,Skibox,4.0,          California         ,Sacramento,30.0 to 51.0 employees,686.6666666666666
+887,VP,Product Management,2020-02-28 11:10:08,2020-04-12 11:10:08,87K-104K,Omba,2.0,          Pennsylvania         ,Pittsburgh,10.0 to 17.0 employees,520.0
+888,Research,Associate,2020-04-08 01:41:57,2020-07-14 01:41:57,43K-133K,Thoughtstorm,10.0,          Florida         ,Orlando,90.0 to 153.0 employees,853.3333333333335
+889,Pharmacist,,2018-03-25 13:49:22,2018-04-12 13:49:22,62K-120K,Mita,2.0,          Texas         ,Beaumont,10.0 to 17.0 employees,520.0
+890,Junior,Executive,2019-02-25 23:51:37,2019-04-01 23:51:37,31K-193K,Chatterpoint,10.0,          Florida         ,Miami Beach,90.0 to 153.0 employees,853.3333333333335
+891,Legal,Assistant,2017-10-14 12:00:28,2018-01-05 12:00:28,37K-178K,Quimba,4.0,          Indiana         ,Terre Haute,30.0 to 51.0 employees,686.6666666666666
+892,Administrative,Officer,2017-03-30 02:48:20,2017-04-22 02:48:20,56K-137K,Eare,2.0,          District of Columbia         ,Washington,10.0 to 17.0 employees,520.0
+893,Operator,,2018-06-05 07:11:03,2018-06-28 07:11:03,65K-155K,Ainyx,3.0,          California         ,Los Angeles,20.0 to 34.0 employees,620.0
+894,Engineer,IV,2019-06-01 01:30:00,2019-08-22 01:30:00,47K-159K,Abata,3.0,          New York         ,Albany,20.0 to 34.0 employees,620.0
+895,Nuclear,Power Engineer,2016-08-28 00:34:03,2016-09-19 00:34:03,32K-105K,Yozio,3.0,          Georgia         ,Atlanta,20.0 to 34.0 employees,620.0
+896,Civil,Engineer,2020-08-02 08:04:49,2020-11-09 08:04:49,71K-124K,Jabberbean,8.0,          Virginia         ,Roanoke,70.0 to 119.0 employees,820.0
+897,Computer,Systems Analyst III,2019-11-30 09:42:14,2019-12-20 09:42:14,8K-197K,Twiyo,3.0,          Kansas         ,Shawnee Mission,20.0 to 34.0 employees,620.0
+898,Budget/Accounting,Analyst IV,2019-01-09 23:18:55,2019-04-12 23:18:55,2K-109K,Wikizz,4.0,          Nebraska         ,Omaha,30.0 to 51.0 employees,686.6666666666666
+899,Sales,Associate,2017-01-05 17:59:15,2017-03-25 17:59:15,44K-186K,Thoughtmix,8.0,          Texas         ,Houston,70.0 to 119.0 employees,820.0
+900,Assistant,Media Planner,2018-11-25 21:40:41,2019-03-02 21:40:41,10K-132K,Photolist,7.0,          Ohio         ,Columbus,60.0 to 102.0 employees,797.7777777777777
+901,Statistician,II,2020-12-01 18:36:36,2021-01-15 18:36:36,47K-151K,Twitterworks,10.0,          Texas         ,El Paso,90.0 to 153.0 employees,853.3333333333335
+902,Senior,Quality Engineer,2020-10-13 06:42:30,2020-12-01 06:42:30,80K-186K,Abata,3.0,          Colorado         ,Denver,20.0 to 34.0 employees,620.0
+903,Paralegal,,2019-05-25 02:26:32,2019-08-08 02:26:32,97K-188K,Photobug,6.0,          Texas         ,Houston,50.0 to 85.0 employees,770.0
+904,Health,Coach IV,2020-07-06 23:55:59,2020-07-27 23:55:59,61K-194K,Gabtype,5.0,          Florida         ,Fort Pierce,40.0 to 68.0 employees,734.2857142857142
+905,Mechanical,Systems Engineer,2018-09-20 11:04:03,2018-12-21 11:04:03,42K-185K,Realcube,6.0,          South Carolina         ,Spartanburg,50.0 to 85.0 employees,770.0
+906,Product,Engineer,2021-01-27 05:10:59,2021-04-22 05:10:59,100K-126K,Avamm,3.0,          New York         ,Jamaica,20.0 to 34.0 employees,620.0
+907,General,Manager,2019-08-15 21:20:30,2019-09-20 21:20:30,77K-103K,Midel,3.0,          District of Columbia         ,Washington,20.0 to 34.0 employees,620.0
+908,Editor,,2020-12-24 12:07:47,2021-01-02 12:07:47,93K-176K,Voonder,5.0,          California         ,Sacramento,40.0 to 68.0 employees,734.2857142857142
+909,Legal,Assistant,2017-05-05 16:59:21,2017-07-31 16:59:21,79K-117K,Linktype,6.0,          Florida         ,Port Charlotte,50.0 to 85.0 employees,770.0
+910,Operator,,2020-08-09 14:18:13,2020-09-19 14:18:13,48K-113K,Zoozzy,4.0,          Michigan         ,Flint,30.0 to 51.0 employees,686.6666666666666
+911,Data,Coordiator,2018-01-25 05:52:38,2018-04-11 05:52:38,41K-106K,Vinder,4.0,          Wisconsin         ,Madison,30.0 to 51.0 employees,686.6666666666666
+912,Community,Outreach Specialist,2019-05-19 06:26:48,2019-08-04 06:26:48,46K-156K,Gabtune,5.0,          Oklahoma         ,Edmond,40.0 to 68.0 employees,734.2857142857142
+913,Paralegal,,2020-07-16 23:58:52,2020-09-21 23:58:52,60K-185K,Trilia,4.0,          Kentucky         ,Louisville,30.0 to 51.0 employees,686.6666666666666
+914,Mechanical,Systems Engineer,2019-01-27 15:05:22,2019-04-29 15:05:22,51K-136K,Photojam,6.0,          California         ,Los Angeles,50.0 to 85.0 employees,770.0
+915,VP,Accounting,2016-09-16 13:14:55,2016-09-28 13:14:55,41K-139K,Flashspan,7.0,          New York         ,Albany,60.0 to 102.0 employees,797.7777777777777
+916,Chief,Design Engineer,2020-09-13 18:45:17,2020-09-16 18:45:17,42K-105K,,,          North Carolina         ,Raleigh,nan to nan employees,
+917,Software,Engineer II,2019-12-06 19:25:05,2019-12-12 19:25:05,99K-166K,Viva,2.0,          Wisconsin         ,Madison,10.0 to 17.0 employees,520.0
+918,Administrative,Assistant IV,2020-10-14 04:18:19,2021-01-08 04:18:19,20K-124K,Jabbersphere,10.0,          Florida         ,Gainesville,90.0 to 153.0 employees,853.3333333333335
+919,Accountant,II,2016-08-19 10:05:56,2016-10-19 10:05:56,40K-180K,Feedfire,6.0,          Florida         ,Tampa,50.0 to 85.0 employees,770.0
+920,Nurse,Practicioner,2017-05-14 08:25:38,2017-05-21 08:25:38,78K-133K,Browsecat,7.0,          Virginia         ,Falls Church,60.0 to 102.0 employees,797.7777777777777
+921,Technical,Writer,2016-04-10 08:54:41,2016-05-05 08:54:41,89K-159K,,,          Michigan         ,Detroit,nan to nan employees,
+922,Associate,Professor,2017-10-06 20:04:28,2017-11-20 20:04:28,11K-147K,Jetwire,5.0,          District of Columbia         ,Washington,40.0 to 68.0 employees,734.2857142857142
+923,Quality,Engineer,2017-05-21 02:45:17,2017-05-22 02:45:17,73K-112K,Devify,4.0,          Arizona         ,Tucson,30.0 to 51.0 employees,686.6666666666666
+924,Quality,Control Specialist,2020-03-09 22:37:31,2020-05-11 22:37:31,61K-122K,Trunyx,4.0,          Iowa         ,Sioux City,30.0 to 51.0 employees,686.6666666666666
+925,Automation,Specialist I,2016-08-29 14:23:24,2016-10-11 14:23:24,78K-132K,Trupe,3.0,          California         ,Orange,20.0 to 34.0 employees,620.0
+926,Account,Representative I,2017-11-07 01:31:59,2018-01-07 01:31:59,10K-106K,Lazzy,3.0,          District of Columbia         ,Washington,20.0 to 34.0 employees,620.0
+927,Marketing,Manager,2016-04-04 05:28:02,2016-06-06 05:28:02,14K-176K,Npath,3.0,          Kentucky         ,Louisville,20.0 to 34.0 employees,620.0
+928,Occupational,Therapist,2019-02-18 14:16:35,2019-03-22 14:16:35,26K-136K,Abatz,3.0,          District of Columbia         ,Washington,20.0 to 34.0 employees,620.0
+929,Staff,Scientist,2017-10-06 02:36:22,2017-12-17 02:36:22,73K-109K,Twitterworks,10.0,          Colorado         ,Pueblo,90.0 to 153.0 employees,853.3333333333335
+930,Marketing,Assistant,2020-04-18 23:12:00,2020-05-11 23:12:00,6K-106K,Browseblab,8.0,          Iowa         ,Cedar Rapids,70.0 to 119.0 employees,820.0
+931,Structural,Analysis Engineer,2016-10-25 22:47:54,2017-01-31 22:47:54,35K-194K,Cogibox,5.0,          Colorado         ,Denver,40.0 to 68.0 employees,734.2857142857142
+932,Human,Resources Assistant IV,2018-08-22 15:59:48,2018-11-19 15:59:48,15K-131K,Voonder,5.0,          Louisiana         ,Monroe,40.0 to 68.0 employees,734.2857142857142
+933,Clinical,Specialist,2020-06-27 08:02:52,2020-09-26 08:02:52,83K-155K,,,          Texas         ,Houston,nan to nan employees,
+934,Research,Nurse,2020-11-24 06:22:16,2021-02-24 06:22:16,4K-183K,Tavu,2.0,          Idaho         ,Idaho Falls,10.0 to 17.0 employees,520.0
+935,Electrical,Engineer,2020-03-28 17:09:22,2020-04-02 17:09:22,35K-168K,Meeveo,4.0,          Virginia         ,Ashburn,30.0 to 51.0 employees,686.6666666666666
+936,Internal,Auditor,2020-05-14 00:12:39,2020-06-19 00:12:39,88K-182K,Riffwire,6.0,          Pennsylvania         ,Philadelphia,50.0 to 85.0 employees,770.0
+937,Environmental,Tech,2019-10-15 08:20:17,2019-12-21 08:20:17,3K-125K,,,          California         ,Inglewood,nan to nan employees,
+938,Legal,Assistant,2020-11-10 09:12:47,2021-01-10 09:12:47,95K-160K,Shufflester,9.0,          Tennessee         ,Memphis,80.0 to 136.0 employees,838.1818181818182
+939,Actuary,,2019-03-19 23:04:39,2019-03-25 23:04:39,12K-132K,Rhyloo,4.0,          Minnesota         ,Saint Paul,30.0 to 51.0 employees,686.6666666666666
+940,VP,Sales,2016-04-27 12:21:05,2016-08-02 12:21:05,52K-113K,Gigabox,5.0,          California         ,Los Angeles,40.0 to 68.0 employees,734.2857142857142
+941,Help,Desk Operator,2016-06-06 13:37:01,2016-06-29 13:37:01,75K-143K,Ntags,3.0,          South Carolina         ,Charleston,20.0 to 34.0 employees,620.0
+942,Assistant,Professor,2019-03-18 22:51:56,2019-06-18 22:51:56,3K-200K,Mycat,3.0,          New York         ,New York City,20.0 to 34.0 employees,620.0
+943,Engineer,I,2020-05-19 04:42:04,2020-08-18 04:42:04,59K-110K,Thoughtmix,8.0,          California         ,Burbank,70.0 to 119.0 employees,820.0
+944,Biostatistician,I,2019-11-02 11:27:42,2019-11-29 11:27:42,11K-152K,Jabberstorm,9.0,          Maryland         ,Annapolis,80.0 to 136.0 employees,838.1818181818182
+945,Electrical,Engineer,2019-01-28 18:47:46,2019-03-10 18:47:46,39K-182K,Aimbo,3.0,          Kentucky         ,Lexington,20.0 to 34.0 employees,620.0
+946,Product,Engineer,2018-04-15 09:54:54,2018-05-31 09:54:54,12K-111K,Eadel,3.0,          Kentucky         ,Lexington,20.0 to 34.0 employees,620.0
+947,Nurse,,2020-12-25 09:38:49,2021-02-23 09:38:49,23K-120K,Skajo,3.0,          California         ,Orange,20.0 to 34.0 employees,620.0
+948,Nurse,Practicioner,2020-02-07 05:31:33,2020-04-25 05:31:33,78K-163K,Wordtune,6.0,          Utah         ,Salt Lake City,50.0 to 85.0 employees,770.0
+949,Assistant,Professor,2019-01-01 14:16:53,2019-03-25 14:16:53,27K-180K,,,          Connecticut         ,Norwalk,nan to nan employees,
+950,Software,Test Engineer II,2018-06-23 12:07:38,2018-09-01 12:07:38,77K-116K,Tagtune,5.0,          Michigan         ,Grand Rapids,40.0 to 68.0 employees,734.2857142857142
+951,Technical,Writer,2020-05-18 11:54:13,2020-05-30 11:54:13,85K-117K,Wordify,5.0,          Florida         ,Miami,40.0 to 68.0 employees,734.2857142857142
+952,Recruiter,,2018-01-21 10:54:07,2018-03-19 10:54:07,35K-113K,Voomm,3.0,          Maryland         ,Silver Spring,20.0 to 34.0 employees,620.0
+953,Biostatistician,IV,2019-10-31 20:49:17,2020-01-14 20:49:17,99K-195K,Fanoodle,6.0,          Missouri         ,Springfield,50.0 to 85.0 employees,770.0
+954,Sales,Associate,2017-11-19 05:07:13,2018-02-17 05:07:13,98K-168K,Thoughtstorm,10.0,          New York         ,New York City,90.0 to 153.0 employees,853.3333333333335
+955,Information,Systems Manager,2019-10-09 06:38:34,2020-01-14 06:38:34,11K-193K,Yodo,2.0,          Maryland         ,Annapolis,10.0 to 17.0 employees,520.0
+956,Web,Developer II,2019-09-22 17:39:15,2019-11-12 17:39:15,42K-163K,Youspan,5.0,          South Carolina         ,Columbia,40.0 to 68.0 employees,734.2857142857142
+957,Accounting,Assistant I,2016-07-05 12:34:11,2016-09-03 12:34:11,50K-180K,Tazz,2.0,          California         ,Long Beach,10.0 to 17.0 employees,520.0
+958,Environmental,Tech,2019-05-16 02:26:20,2019-08-12 02:26:20,100K-134K,Tazzy,3.0,          New York         ,White Plains,20.0 to 34.0 employees,620.0
+959,Administrative,Assistant I,2020-05-26 10:47:20,2020-08-01 10:47:20,37K-170K,Roombo,4.0,          New York         ,New York City,30.0 to 51.0 employees,686.6666666666666
+960,Account,Representative I,2020-03-18 14:37:46,2020-06-14 14:37:46,87K-153K,Oyoloo,4.0,          District of Columbia         ,Washington,30.0 to 51.0 employees,686.6666666666666
+961,Senior,Financial Analyst,2019-05-21 17:28:42,2019-08-24 17:28:42,35K-159K,Bluejam,5.0,          California         ,Los Angeles,40.0 to 68.0 employees,734.2857142857142
+962,Senior,Sales Associate,2019-08-27 19:11:55,2019-12-01 19:11:55,32K-110K,Aivee,3.0,          South Carolina         ,Greenville,20.0 to 34.0 employees,620.0
+963,Internal,Auditor,2018-09-29 08:01:29,2018-12-17 08:01:29,57K-110K,Centidel,6.0,          California         ,San Francisco,50.0 to 85.0 employees,770.0
+964,Accountant,III,2016-08-04 19:23:14,2016-09-18 19:23:14,71K-188K,Meejo,3.0,          California         ,North Hollywood,20.0 to 34.0 employees,620.0
+965,Executive,Secretary,2020-10-18 19:12:31,2020-11-09 19:12:31,86K-123K,Feedspan,6.0,          Texas         ,El Paso,50.0 to 85.0 employees,770.0
+966,Media,Manager II,2017-11-26 14:50:58,2018-02-02 14:50:58,16K-174K,Zoomzone,6.0,          Texas         ,Lubbock,50.0 to 85.0 employees,770.0
+967,Payment,Adjustment Coordinator,2017-12-31 23:41:05,2018-03-23 23:41:05,22K-129K,Browsedrive,9.0,          New York         ,New York City,80.0 to 136.0 employees,838.1818181818182
+968,VP,Product Management,2017-06-21 14:07:15,2017-07-12 14:07:15,21K-107K,Flipstorm,7.0,          Missouri         ,Jefferson City,60.0 to 102.0 employees,797.7777777777777
+969,Associate,Professor,2016-04-26 12:45:47,2016-05-19 12:45:47,28K-192K,Teklist,5.0,          Connecticut         ,Waterbury,40.0 to 68.0 employees,734.2857142857142
+970,Executive,Secretary,2016-12-27 14:14:12,2017-03-04 14:14:12,63K-106K,Photofeed,7.0,          Colorado         ,Denver,60.0 to 102.0 employees,797.7777777777777
+971,Quality,Engineer,2020-10-10 10:10:05,2020-12-18 10:10:05,25K-132K,Skynoodle,7.0,          Indiana         ,Terre Haute,60.0 to 102.0 employees,797.7777777777777
+972,Biostatistician,III,2019-11-06 16:41:20,2019-12-27 16:41:20,29K-129K,Zoombeat,6.0,          Michigan         ,Grand Rapids,50.0 to 85.0 employees,770.0
+973,Account,Executive,2020-06-05 07:18:27,2020-08-03 07:18:27,76K-181K,Flashpoint,8.0,          Pennsylvania         ,Philadelphia,70.0 to 119.0 employees,820.0
+974,Desktop,Support Technician,2018-08-28 13:57:04,2018-10-15 13:57:04,86K-111K,Layo,2.0,          Utah         ,Sandy,10.0 to 17.0 employees,520.0
+975,Recruiting,Manager,2016-02-26 21:35:53,2016-05-02 21:35:53,46K-118K,Quatz,3.0,          Virginia         ,Richmond,20.0 to 34.0 employees,620.0
+976,Financial,Analyst,2019-10-03 08:38:22,2019-12-17 08:38:22,14K-174K,Lajo,2.0,          California         ,Berkeley,10.0 to 17.0 employees,520.0
+977,Health,Coach I,2020-01-11 19:58:38,2020-03-18 19:58:38,88K-170K,Thoughtmix,8.0,          Georgia         ,Atlanta,70.0 to 119.0 employees,820.0
+978,Graphic,Designer,2019-05-30 10:46:34,2019-07-12 10:46:34,15K-114K,Edgewire,6.0,          Oregon         ,Portland,50.0 to 85.0 employees,770.0
+979,Desktop,Support Technician,2017-09-24 11:13:03,2017-12-05 11:13:03,43K-175K,Lazz,2.0,          California         ,Pasadena,10.0 to 17.0 employees,520.0
+980,Accounting,Assistant I,2017-11-30 07:09:10,2017-12-26 07:09:10,17K-173K,Devshare,6.0,          Texas         ,Odessa,50.0 to 85.0 employees,770.0
+981,Safety,Technician II,2020-10-21 02:17:41,2021-01-28 02:17:41,5K-148K,Oyoloo,4.0,          Indiana         ,Jeffersonville,30.0 to 51.0 employees,686.6666666666666
+982,Quality,Engineer,2019-11-11 06:23:33,2019-11-24 06:23:33,81K-191K,Tanoodle,6.0,          Texas         ,Austin,50.0 to 85.0 employees,770.0
+983,Actuary,,2018-12-25 01:43:53,2019-01-09 01:43:53,79K-118K,Skalith,5.0,          Maryland         ,Baltimore,40.0 to 68.0 employees,734.2857142857142
+984,Editor,,2017-10-02 10:52:10,2017-10-11 10:52:10,94K-197K,Avamm,3.0,          Connecticut         ,Stamford,20.0 to 34.0 employees,620.0
+985,Design,Engineer,2016-05-15 05:55:48,2016-06-05 05:55:48,43K-141K,Fivechat,6.0,          Florida         ,Miami,50.0 to 85.0 employees,770.0
+986,Account,Coordinator,2020-11-24 01:35:47,2021-03-01 01:35:47,9K-133K,Thoughtsphere,11.0,          Colorado         ,Littleton,100.0 to 170.0 employees,866.1538461538463
+987,Human,Resources Manager,2018-04-04 11:27:56,2018-06-23 11:27:56,2K-173K,Photofeed,7.0,          Minnesota         ,Saint Paul,60.0 to 102.0 employees,797.7777777777777
+988,Administrative,Officer,2018-12-07 02:39:43,2018-12-25 02:39:43,22K-150K,Babbleblab,8.0,          Connecticut         ,West Hartford,70.0 to 119.0 employees,820.0
+989,Information,Systems Manager,2017-03-23 09:36:43,2017-04-09 09:36:43,7K-195K,Agimba,4.0,          Florida         ,West Palm Beach,30.0 to 51.0 employees,686.6666666666666
+990,Biostatistician,IV,2016-05-21 13:58:35,2016-08-19 13:58:35,42K-172K,Rhyzio,4.0,          West Virginia         ,Morgantown,30.0 to 51.0 employees,686.6666666666666
+991,Web,Developer I,2020-09-06 23:38:45,2020-11-22 23:38:45,44K-151K,Twinte,4.0,          Texas         ,Fort Worth,30.0 to 51.0 employees,686.6666666666666
+992,Database,Administrator IV,2020-12-03 07:53:53,2021-01-06 07:53:53,4K-154K,Photospace,8.0,          Washington         ,Yakima,70.0 to 119.0 employees,820.0
+993,Human,Resources Assistant II,2018-02-26 12:27:19,2018-06-06 12:27:19,72K-188K,Yadel,3.0,          Pennsylvania         ,Mc Keesport,20.0 to 34.0 employees,620.0
+994,Media,Manager IV,2016-05-08 13:00:34,2016-05-20 13:00:34,18K-101K,Jabbersphere,10.0,          New York         ,Brooklyn,90.0 to 153.0 employees,853.3333333333335
+995,Computer,Systems Analyst I,2021-02-05 20:02:01,2021-02-13 20:02:01,94K-125K,Fivechat,6.0,          California         ,Long Beach,50.0 to 85.0 employees,770.0
+996,Social,Worker,2020-05-18 19:13:21,2020-07-18 19:13:21,85K-105K,Voonder,5.0,          Texas         ,El Paso,40.0 to 68.0 employees,734.2857142857142
+997,Senior,Financial Analyst,2017-05-06 21:40:07,2017-06-17 21:40:07,8K-114K,Wikibox,5.0,          North Carolina         ,Charlotte,40.0 to 68.0 employees,734.2857142857142
+998,Legal,Assistant,2020-08-29 20:16:39,2020-11-07 20:16:39,91K-157K,Tagopia,5.0,          Arizona         ,Phoenix,40.0 to 68.0 employees,734.2857142857142
+999,Director,of Sales,2018-01-12 07:25:19,2018-03-27 07:25:19,76K-174K,Quatz,3.0,          Wisconsin         ,Madison,20.0 to 34.0 employees,620.0
+1000,Database,Administrator III,2017-07-06 07:01:53,2017-10-09 07:01:53,8K-190K,Janyx,3.0,          Illinois         ,Chicago,20.0 to 34.0 employees,620.0

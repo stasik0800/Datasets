@@ -1,0 +1,365 @@
+location_id,country,city
+1001,"United States",Tucson
+1002,"United States","Saint Louis"
+1003,"United States",Detroit
+1004,"United States",Naperville
+1005,"United States",Gatesville
+1006,"United States",Jamaica
+1007,"United States","Delray Beach"
+1008,"United States",Ogden
+1009,"United States",Omaha
+1010,"United States",Sacramento
+1011,"United States","South Bend"
+1012,"United States",Washington
+1013,"United States",Topeka
+1014,"United States","San Jose"
+1015,"United States",Zephyrhills
+1016,"United Kingdom",Upton
+1017,"United States",Portland
+1018,"United States",Richmond
+1019,"United States",Cincinnati
+1020,"United States",Charleston
+1021,"United States",Newark
+1022,"United States",Wilmington
+1023,"United States",Atlanta
+1024,"United States","Los Angeles"
+1025,"United States","Las Vegas"
+1026,"United States","Mountain View"
+1027,"United States",Philadelphia
+1028,"United States",Austin
+1029,"United States",Evansville
+1030,"United States","Shawnee Mission"
+1031,"United States","Kansas City"
+1032,"United States",Lawrenceville
+1033,"United States",Alexandria
+1034,"United States",Chicago
+1035,"United States",Indianapolis
+1036,"United States",Gainesville
+1037,"United States","San Angelo"
+1038,"United States",Asheville
+1039,"United States",Tacoma
+1040,"United States",Pasadena
+1041,"United States",Waco
+1042,"United States","Saint Petersburg"
+1043,"United Kingdom",Sheffield
+1044,"United States",Springfield
+1045,"United States","Cedar Rapids"
+1046,"United States",Orlando
+1047,"United Kingdom",Horton
+1048,Australia,"Adelaide Mail Centre"
+1049,"United States",Louisville
+1050,"United States",Knoxville
+1051,"United States",Tallahassee
+1052,"United States","Grand Junction"
+1053,"United States","Sioux City"
+1054,"United States",Vancouver
+1055,Australia,Sydney
+1056,"United States","Fort Smith"
+1057,"United States",Columbus
+1058,"United States","Saint Paul"
+1059,"United States","Little Rock"
+1060,"United States",Reston
+1061,"United Kingdom",Preston
+1062,"United States","El Paso"
+1063,"United States",Boston
+1064,"United States",Biloxi
+1065,"United States",Cheyenne
+1066,"United States","New York City"
+1067,"United States",Amarillo
+1068,"United States","San Francisco"
+1069,"United States",Buffalo
+1070,"United States",Tuscaloosa
+1071,"United States",Tulsa
+1072,"United States",Rockford
+1073,"United States",Milwaukee
+1074,Australia,Launceston
+1075,"United States","Oklahoma City"
+1076,"United States","New Bedford"
+1077,"United Kingdom",Merton
+1078,"United States",Beaverton
+1079,"United States",Erie
+1080,"United States",Rochester
+1081,"United States",Pittsburgh
+1082,"United States",Independence
+1083,"United States",Mesa
+1084,"United States","Van Nuys"
+1085,"United States",Olympia
+1086,"United States","Silver Spring"
+1087,"United States",Fullerton
+1088,"United Kingdom",Buckland
+1089,"United Kingdom",Hatton
+1090,"United States",Merrifield
+1091,"United States","Saint Cloud"
+1092,"United States",Providence
+1093,"United States","Fort Worth"
+1094,"United Kingdom",Weston
+1095,"United Kingdom",London
+1096,"United States",Columbia
+1097,"United States",Champaign
+1098,"United States","New Orleans"
+1099,"United States",Kingsport
+1100,"United States",Pensacola
+1101,"United Kingdom",Twyford
+1102,"United States",Tyler
+1103,"United States",Annapolis
+1104,"United States","Baton Rouge"
+1105,"United States",Fresno
+1106,"United States",Lansing
+1107,"United States",Phoenix
+1108,"United States",Bloomington
+1109,"United States",Dallas
+1110,"United States","Colorado Springs"
+1111,"United States",Fargo
+1112,"United States",Norfolk
+1113,"United Kingdom",Liverpool
+1114,"United Kingdom",Aston
+1115,"United States",Yonkers
+1116,Australia,"Eastern Suburbs Mc"
+1117,"United States","Newport News"
+1118,"United States","Garden Grove"
+1119,"United States",Baltimore
+1120,"United States",Tampa
+1121,"United States",Brooklyn
+1122,"United States",Houston
+1123,"United States","North Little Rock"
+1124,"United States","Des Moines"
+1125,"United States",Lubbock
+1126,"United States",Arlington
+1127,"United States",Honolulu
+1128,"United States",Whittier
+1129,"United States",Reno
+1130,"United States",Saginaw
+1131,"United States",Lincoln
+1132,"United States","Battle Creek"
+1133,"United States","Round Rock"
+1134,"United States","Winter Haven"
+1135,"United States",Wichita
+1136,"United States",Shreveport
+1137,"United States",Albuquerque
+1138,"United States","Long Beach"
+1139,"United States",Anchorage
+1140,"United States",Clearwater
+1141,"United Kingdom",Newtown
+1142,"United States",Beaumont
+1143,"United States","Fort Pierce"
+1144,"United Kingdom",Kingston
+1145,"United States","Grand Rapids"
+1146,"United States",Dayton
+1147,"United States",Bethlehem
+1148,"United Kingdom",Norton
+1149,"United States",Roanoke
+1150,"United States",Jacksonville
+1151,"United States",Savannah
+1152,"United States",Irvine
+1153,"United States",Boise
+1154,"United States",Nashville
+1155,"United States","Winston Salem"
+1156,"United States","Maple Plain"
+1157,"United States",Trenton
+1158,"United Kingdom",Kirkton
+1159,"United States","Port Saint Lucie"
+1160,"United States",Lexington
+1161,"United States",Memphis
+1162,"United States",Albany
+1163,"United Kingdom",Sutton
+1164,"United States",Denver
+1165,"United States",Greenville
+1166,"United States",Chesapeake
+1167,"United States","San Diego"
+1168,"United Kingdom",Newton
+1169,"United States",Syracuse
+1170,"United States","Jefferson City"
+1171,"United States",Hampton
+1172,"United States",Frankfort
+1173,"United States",Norwalk
+1174,Australia,Brisbane
+1175,"United States",Toledo
+1176,"United Kingdom",Brampton
+1177,"United States",Miami
+1178,"United States","Boca Raton"
+1179,"United States",Waterbury
+1180,"United Kingdom",Ashley
+1181,"United Kingdom",Bristol
+1182,"United States",Corona
+1183,"United States",Littleton
+1184,"United States",Youngstown
+1185,"United States",Garland
+1186,"United States",Cumming
+1187,"United States",Bradenton
+1188,"United States",Irving
+1189,"United States","Santa Fe"
+1190,"United States","Virginia Beach"
+1191,"United States","Daytona Beach"
+1192,"United States",Macon
+1193,"United States",Birmingham
+1194,"United States",Canton
+1195,"United States",Inglewood
+1196,"United States","Fort Lauderdale"
+1197,"United States",Minneapolis
+1198,"United States",Gary
+1199,"United States","San Antonio"
+1200,"United Kingdom",Bradford
+1201,"United States",Denton
+1202,"United States",Petaluma
+1203,"United States",Jeffersonville
+1204,Australia,Perth
+1205,"United States",Boulder
+1206,"United Kingdom",Milton
+1207,"United States",Bakersfield
+1208,"United States",Paterson
+1209,"United States","Saint Joseph"
+1210,"United States",Cleveland
+1211,"United States",Lakeland
+1212,"United Kingdom",Linton
+1213,"United States","Fort Wayne"
+1214,"United States",Madison
+1215,"United States",Huntsville
+1216,"United States",Salinas
+1217,"United Kingdom",Dean
+1218,"United States",Hamilton
+1219,"United States",Stockton
+1220,"United States",Melbourne
+1221,"United States",Raleigh
+1222,"United States",Chico
+1223,"United States",Provo
+1224,"United States","Carson City"
+1225,"United States",Muskegon
+1226,"United States",Murfreesboro
+1227,"United States","Sioux Falls"
+1228,"United States",Augusta
+1229,"United States",Lancaster
+1230,"United Kingdom",Halton
+1231,"United States",Monroe
+1232,"United Kingdom",Wootton
+1233,"United States",Oakland
+1234,"United Kingdom",Stapleford
+1235,"United States",Montgomery
+1236,"United States","Boynton Beach"
+1237,"United States","Young America"
+1238,"United States",Decatur
+1239,"United States",Akron
+1240,"United States",Charlotte
+1241,"United States",Harrisburg
+1242,"United States","New Haven"
+1243,"United States",Aurora
+1244,"United States","Port Washington"
+1245,"United States",Schaumburg
+1246,"United States","West Palm Beach"
+1247,"United States","Iowa City"
+1248,"United States",Spartanburg
+1249,"United Kingdom",Kinloch
+1250,"United States",Ocala
+1251,"United States",Alhambra
+1252,"United Kingdom",Swindon
+1253,"United Kingdom",Newbiggin
+1254,"United Kingdom",Wirral
+1255,"United States","Salt Lake City"
+1256,"United States",Mobile
+1257,"United States",Lynchburg
+1258,"United States",Scottsdale
+1259,Australia,Adelaide
+1260,"United States",Naples
+1261,"United States",Sunnyvale
+1262,"United States","Wilkes Barre"
+1263,"United States","Santa Cruz"
+1264,"United States",Jackson
+1265,"United States",Migrate
+1266,"United States",Bronx
+1267,"United States",Seattle
+1268,"United States",Chandler
+1269,Australia,"Sydney South"
+1270,"United Kingdom",Thorpe
+1271,"United Kingdom",Tullich
+1272,"United States",Durham
+1273,"United States","Corpus Christi"
+1274,"United Kingdom",Belfast
+1275,"United States",Flushing
+1276,"United States","Newport Beach"
+1277,"United Kingdom",Marston
+1278,"United States",Midland
+1279,"United States",Orange
+1280,"United States",Farmington
+1281,"United States","Las Cruces"
+1282,"United States","Terre Haute"
+1283,"United States",Danbury
+1284,Australia,Melbourne
+1285,Australia,"Strawberry Hills"
+1286,"United Kingdom",Glasgow
+1287,"United States","Huntington Beach"
+1288,"United States",Odessa
+1289,"United States",Anniston
+1290,"United States",Allentown
+1291,"United States",Kissimmee
+1292,"United States",Lynn
+1293,"United States","Fort Myers"
+1294,"United States",Scranton
+1295,"United States",Dearborn
+1296,"United States",Greensboro
+1297,"United Kingdom",Manchester
+1298,"United States",Hartford
+1299,"United Kingdom",Carlton
+1300,"United States",Bellevue
+1301,"United States",Peoria
+1302,"United States","San Rafael"
+1303,"United Kingdom",Leeds
+1304,"United States","New Hyde Park"
+1305,"United States","Santa Barbara"
+1306,"United Kingdom",Middleton
+1307,"United States",Marietta
+1308,"United Kingdom","Church End"
+1309,"United States",Anaheim
+1310,"United States",Vienna
+1311,"United States","Grand Forks"
+1312,"United States",Mesquite
+1313,"United States",Hicksville
+1314,"United States",Billings
+1315,"United States",Laurel
+1316,"United States",Englewood
+1317,"United States",Schenectady
+1318,"United States",Huntington
+1319,"United States",Monticello
+1320,Australia,"Northern Suburbs Mc"
+1321,"United States",Hagerstown
+1322,"United States",Tempe
+1323,"United States","Lees Summit"
+1324,"United States",Dulles
+1325,"United States",Pueblo
+1326,"United States","Santa Rosa"
+1327,"United States","High Point"
+1328,"United States",Palmdale
+1329,"United States","New Brunswick"
+1330,"United States","West Hartford"
+1331,"United States","Santa Monica"
+1332,"United States",Stamford
+1333,"United States",Valdosta
+1334,"United States","Pompano Beach"
+1335,"United Kingdom",Denton
+1336,"United States",Hollywood
+1337,"United States",Spring
+1338,"United States","Simi Valley"
+1339,"United Kingdom",Ford
+1340,"United States","Staten Island"
+1341,"United Kingdom",Birmingham
+1342,"United Kingdom",Aberdeen
+1343,"United Kingdom","East End"
+1344,"United States",Chattanooga
+1345,"United Kingdom",Edinburgh
+1346,"United Kingdom",Pentre
+1347,"United Kingdom","West End"
+1348,"United Kingdom",Whitchurch
+1349,"United States",Lafayette
+1350,"United States","Pinellas Park"
+1351,"United States","Great Neck"
+1352,"United States",Camden
+1353,"United States",Sparks
+1354,"United States",Greeley
+1355,"United States",Katy
+1356,"United States",Palatine
+1357,"United States",Newton
+1358,"United States",Manassas
+1359,"United States",Elmira
+1360,"United States",Oceanside
+1361,Australia,"Australia Square"
+1362,"United States",Hyattsville
+1363,"United Kingdom",Newport
+1364,"United States",Seminole
